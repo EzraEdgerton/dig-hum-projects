@@ -1,0 +1,37 @@
+#!/bin/bash  
+
+COUNTER=1
+cd ..
+
+ while [  $COUNTER -lt 32 ]; do
+ 	if [  $COUNTER -lt 10 ]
+ 	then 
+ 		cd 0$COUNTER
+ 	else 
+ 		cd $COUNTER
+ 	fi
+ 	COUNTERHOUR=0
+ 	while [  $COUNTERHOUR -lt 24 ]; do
+ 		if [  $COUNTERHOUR -lt 10 ]
+ 		then 
+ 			cd 0$COUNTERHOUR
+ 		else 
+ 			cd $COUNTERHOUR
+ 		fi
+ 		COUNTERMINUTE=0
+ 		while [  $COUNTERMINUTE -lt 60 ]; do
+ 			if [  $COUNTERMINUTE -lt 10 ]
+ 			then 
+ 				bzip2 -d 0$COUNTERMINUTE.json.bz2
+ 			else
+ 				bzip2 -d $COUNTERMINUTE.json.bz2
+ 			fi
+ 			let COUNTERMINUTE=$COUNTERMINUTE+1
+ 		done
+ 		cd ..
+ 		let COUNTERHOUR=$COUNTERHOUR+1
+ 	done
+ 	cd ..
+ 	let COUNTER=$COUNTER+1
+ done  
+cd twitter-network-creator
