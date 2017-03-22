@@ -1,0 +1,1149 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 83, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.85587302, 
+                    -6.37551085
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 83, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "TANZANIA", 
+                    "TAIWAN", 
+                    "MALI"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "european journal of horticultural science", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "the importance of traditional african vegetables is increasing with the rising awareness of their contribution to food security, human nutrition and income diversification, particularly in economically and environmentally marginal areas. under the impetus of renewed donor interest, more research and development organizations are engaging in activities along the african traditional vegetable value chain, and these crops are receiving greater improvement research. from its regional office for eastern and southern africa in arusha, tanzania, avrdc \u2013 the world vegetable center commenced vegetable research and development in sub-saharan africa in 1992. we highlight significant achievements in germplasm collection, conservation, improvement and development activities regionally, and outline future breeding strategies for priority traditional african vegetables. the breeding strategy starts with selection within landraces or germplasm accessions and creation of genetic variability, and continues through to gender-disaggregated participatory plant breeding, in which selections are made within the target environment with the participation of local users, ensuring that the target production environment and the needs of the end users are fully taken into account. this paper defines the roles of partners at various stages of the breeding program (germplasm development, evaluation and cultivar release) and in subsequent development activities (cultivar deployment and seed systems) for more effective and sustainable research and development in traditional vegetables. \u00a9 ishs 2016.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Tanzania", 
+                "nameofficial": "United Republic of Tanzania"
+            }
+        }, 
+        {
+            "index": 71, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    121.10884043, 
+                    23.71891402
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 71, 
+            "score": 40, 
+            "data": {
+                "authorsCOO": [
+                    "TAIWAN", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [
+                    "random amplified polymorphic DNA", 
+                    "simple sequence repeat", 
+                    "ISSR", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of molecular sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "the genus chrysodracon has six endemic species in the hawaii islands. chrysodracon hawaiiensis is endemic to hawaii island and was described as a distinct species in 1980. it was listed as an endangered species on the international union for the conservation of nature and natural resources (iucn) red list in 1997. this woody plant species was, at one time, common in exposed dry forests, but it became very rare due to grazing pressure and human development. the tree species chrysodracon auwahiensis (c. auwahiensis), endemic to maui and molokai, still has large adult populations in dry lands of the islands, but unfortunately no regeneration from seed has been reported in those areas for many years. the two endemic species were examined using the molecular technique of random amplified polymorphic dna (rapd) and inter simple sequence repeats (issr) to determine the genetic structure of the populations and the amount of variation. both species possess similar genetic structure. larger and smaller populations of both species contain similar levels of genetic diversity as determined by the number of polymorphic loci, estimated heterozygosity, and shannon\u2019s index of genetic diversity. although population diversity of chrysodracon hawaiiensis (c. hawaiiensis) is thought to have remained near pre-disturbance levels, population size continues to decline as recruitment is either absent or does not keep pace with senescence of mature plants. conservation recommendations for both species are suggested. \u00a9 2016 by the authors; licensee mdpi, basel, switzerland.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Taiwan", 
+                "nameofficial": "Republic of China"
+            }
+        }, 
+        {
+            "index": 84, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.9636873, 
+                    17.69385811
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 84, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "TANZANIA", 
+                    "TAIWAN", 
+                    "MALI"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "european journal of horticultural science", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "the importance of traditional african vegetables is increasing with the rising awareness of their contribution to food security, human nutrition and income diversification, particularly in economically and environmentally marginal areas. under the impetus of renewed donor interest, more research and development organizations are engaging in activities along the african traditional vegetable value chain, and these crops are receiving greater improvement research. from its regional office for eastern and southern africa in arusha, tanzania, avrdc \u2013 the world vegetable center commenced vegetable research and development in sub-saharan africa in 1992. we highlight significant achievements in germplasm collection, conservation, improvement and development activities regionally, and outline future breeding strategies for priority traditional african vegetables. the breeding strategy starts with selection within landraces or germplasm accessions and creation of genetic variability, and continues through to gender-disaggregated participatory plant breeding, in which selections are made within the target environment with the participation of local users, ensuring that the target production environment and the needs of the end users are fully taken into account. this paper defines the roles of partners at various stages of the breeding program (germplasm development, evaluation and cultivar release) and in subsequent development activities (cultivar deployment and seed systems) for more effective and sustainable research and development in traditional vegetables. \u00a9 ishs 2016.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Mali", 
+                "nameofficial": "Republic of Mali"
+            }
+        }, 
+        {
+            "index": 11, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.53888197, 
+                    49.76026136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 11, 
+            "score": 49, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Czech Republic", 
+                "nameofficial": "Czech Republic"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 63, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "ISRAEL", 
+                    "SWEDEN", 
+                    "THAILAND", 
+                    "PORTUGAL", 
+                    "BELGIUM", 
+                    "AUSTRALIA", 
+                    "PORTUGAL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Posidonia oceanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "here we present the results of a multiple organizational level analysis conceived to identify acclimative/adaptive strategies exhibited by the seagrass posidonia oceanica to the daily fluctuations in the light environment, at contrasting depths. we assessed changes in photophysiological parameters, leaf respiration, pigments, and protein and mrna expression levels. the results show that the diel oscillations of p. oceanica photophysiological and respiratory responses were related to transcripts and proteins expression of the genes involved in those processes and that there was a response asynchrony between shallow and deep plants probably caused by the strong differences in the light environment. the photochemical pathway of energy use was more effective in shallow plants due to higher light availability, but these plants needed more investment in photoprotection and photorepair, requiring higher translation and protein synthesis than deep plants. the genetic differentiation between deep and shallow stands suggests the existence of locally adapted genotypes to contrasting light environments. the depth-specific diel rhythms of photosynthetic and respiratory processes, from molecular to physiological levels, must be considered in the management and conservation of these key coastal ecosystems. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "MALTA", 
+                        "TUNISIA", 
+                        "EGYPT", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "IRELAND", 
+                        "GERMANY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }, 
+        {
+            "index": 33, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    26.36339137, 
+                    64.69610892
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 33, 
+            "score": 29, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Finland", 
+                "nameofficial": "Republic of Finland"
+            }
+        }, 
+        {
+            "index": 31, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 31, 
+            "score": 221, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }
+        }, 
+        {
+            "index": 43, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.15772412, 
+                    -8.50205247
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 43, 
+            "score": 10, 
+            "data": {
+                "authorsCOO": [
+                    "PERU", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "agriculture, ecosystems and environment", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "high-altitude ecosystems shelter important reserves of biodiversity, water provision and soil organic carbon (soc) stocks. climate change, agricultural encroachment, overgrazing, and mining activities are endangering ecosystems sustainability, particularly in the high-andean puna. increasing food demands in a region with limited agricultural land calls for agricultural intensification. ecological intensification of agriculture is a framework for increasing agricultural productivity by fostering supporting and regulating ecosystem services (es) while reducing negative environmental impacts. in this review we examine how agriculture use and disturb the provision of key es in this ecoregion \u2013 food, wool and fiber provision, soil fertility, nutrient cycling, soil carbon sequestration, water provision and regulation, genetic resources, pest and disease control, pollination regulation and microclimate regulation. we also propose a set of technologies, practices and policies to preserve (or restore) the provision of these key es: long fallowing, soil amendments, conservation tillage, rotational grazing, grassland ecological restoration, conservation of agrobiodiversity, modern irrigation and water harvesting, plant breeding, climate change mitigation schemes and payment for ecosystem services, and adapted traditional technologies. \u00a9 2016 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Peru", 
+                "nameofficial": "Republic of Peru"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 83, 
+            "target": 71, 
+            "value": 2
+        }, 
+        {
+            "source": 83, 
+            "target": 84, 
+            "value": 2
+        }, 
+        {
+            "source": 11, 
+            "target": 83, 
+            "value": 1
+        }, 
+        {
+            "source": 24, 
+            "target": 83, 
+            "value": 4
+        }, 
+        {
+            "source": 33, 
+            "target": 83, 
+            "value": 1
+        }, 
+        {
+            "source": 31, 
+            "target": 83, 
+            "value": 1
+        }, 
+        {
+            "source": 43, 
+            "target": 83, 
+            "value": 3
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 83, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.85587302, 
+                    -6.37551085
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 83, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "TANZANIA", 
+                    "TAIWAN", 
+                    "MALI"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "european journal of horticultural science", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "the importance of traditional african vegetables is increasing with the rising awareness of their contribution to food security, human nutrition and income diversification, particularly in economically and environmentally marginal areas. under the impetus of renewed donor interest, more research and development organizations are engaging in activities along the african traditional vegetable value chain, and these crops are receiving greater improvement research. from its regional office for eastern and southern africa in arusha, tanzania, avrdc \u2013 the world vegetable center commenced vegetable research and development in sub-saharan africa in 1992. we highlight significant achievements in germplasm collection, conservation, improvement and development activities regionally, and outline future breeding strategies for priority traditional african vegetables. the breeding strategy starts with selection within landraces or germplasm accessions and creation of genetic variability, and continues through to gender-disaggregated participatory plant breeding, in which selections are made within the target environment with the participation of local users, ensuring that the target production environment and the needs of the end users are fully taken into account. this paper defines the roles of partners at various stages of the breeding program (germplasm development, evaluation and cultivar release) and in subsequent development activities (cultivar deployment and seed systems) for more effective and sustainable research and development in traditional vegetables. \u00a9 ishs 2016.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Tanzania", 
+                "nameofficial": "United Republic of Tanzania"
+            }
+        }, 
+        {
+            "index": 71, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    121.10884043, 
+                    23.71891402
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 71, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "TAIWAN", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [
+                    "random amplified polymorphic DNA", 
+                    "simple sequence repeat", 
+                    "ISSR", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of molecular sciences", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "the genus chrysodracon has six endemic species in the hawaii islands. chrysodracon hawaiiensis is endemic to hawaii island and was described as a distinct species in 1980. it was listed as an endangered species on the international union for the conservation of nature and natural resources (iucn) red list in 1997. this woody plant species was, at one time, common in exposed dry forests, but it became very rare due to grazing pressure and human development. the tree species chrysodracon auwahiensis (c. auwahiensis), endemic to maui and molokai, still has large adult populations in dry lands of the islands, but unfortunately no regeneration from seed has been reported in those areas for many years. the two endemic species were examined using the molecular technique of random amplified polymorphic dna (rapd) and inter simple sequence repeats (issr) to determine the genetic structure of the populations and the amount of variation. both species possess similar genetic structure. larger and smaller populations of both species contain similar levels of genetic diversity as determined by the number of polymorphic loci, estimated heterozygosity, and shannon\u2019s index of genetic diversity. although population diversity of chrysodracon hawaiiensis (c. hawaiiensis) is thought to have remained near pre-disturbance levels, population size continues to decline as recruitment is either absent or does not keep pace with senescence of mature plants. conservation recommendations for both species are suggested. \u00a9 2016 by the authors; licensee mdpi, basel, switzerland.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Taiwan", 
+                "nameofficial": "Republic of China"
+            }
+        }, 
+        {
+            "index": 84, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.9636873, 
+                    17.69385811
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 84, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "TANZANIA", 
+                    "TAIWAN", 
+                    "MALI"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "european journal of horticultural science", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "the importance of traditional african vegetables is increasing with the rising awareness of their contribution to food security, human nutrition and income diversification, particularly in economically and environmentally marginal areas. under the impetus of renewed donor interest, more research and development organizations are engaging in activities along the african traditional vegetable value chain, and these crops are receiving greater improvement research. from its regional office for eastern and southern africa in arusha, tanzania, avrdc \u2013 the world vegetable center commenced vegetable research and development in sub-saharan africa in 1992. we highlight significant achievements in germplasm collection, conservation, improvement and development activities regionally, and outline future breeding strategies for priority traditional african vegetables. the breeding strategy starts with selection within landraces or germplasm accessions and creation of genetic variability, and continues through to gender-disaggregated participatory plant breeding, in which selections are made within the target environment with the participation of local users, ensuring that the target production environment and the needs of the end users are fully taken into account. this paper defines the roles of partners at various stages of the breeding program (germplasm development, evaluation and cultivar release) and in subsequent development activities (cultivar deployment and seed systems) for more effective and sustainable research and development in traditional vegetables. \u00a9 ishs 2016.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Mali", 
+                "nameofficial": "Republic of Mali"
+            }
+        }, 
+        {
+            "index": 11, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.53888197, 
+                    49.76026136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 11, 
+            "score": 15, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Czech Republic", 
+                "nameofficial": "Czech Republic"
+            }
+        }, 
+        {
+            "index": 43, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.15772412, 
+                    -8.50205247
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 43, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "PERU", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "agriculture, ecosystems and environment", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "high-altitude ecosystems shelter important reserves of biodiversity, water provision and soil organic carbon (soc) stocks. climate change, agricultural encroachment, overgrazing, and mining activities are endangering ecosystems sustainability, particularly in the high-andean puna. increasing food demands in a region with limited agricultural land calls for agricultural intensification. ecological intensification of agriculture is a framework for increasing agricultural productivity by fostering supporting and regulating ecosystem services (es) while reducing negative environmental impacts. in this review we examine how agriculture use and disturb the provision of key es in this ecoregion \u2013 food, wool and fiber provision, soil fertility, nutrient cycling, soil carbon sequestration, water provision and regulation, genetic resources, pest and disease control, pollination regulation and microclimate regulation. we also propose a set of technologies, practices and policies to preserve (or restore) the provision of these key es: long fallowing, soil amendments, conservation tillage, rotational grazing, grassland ecological restoration, conservation of agrobiodiversity, modern irrigation and water harvesting, plant breeding, climate change mitigation schemes and payment for ecosystem services, and adapted traditional technologies. \u00a9 2016 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Peru", 
+                "nameofficial": "Republic of Peru"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 83, 
+            "target": 71, 
+            "value": 2
+        }, 
+        {
+            "source": 83, 
+            "target": 84, 
+            "value": 2
+        }, 
+        {
+            "source": 11, 
+            "target": 83, 
+            "value": 1
+        }, 
+        {
+            "source": 43, 
+            "target": 83, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 84, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.85587302, 
+                    -6.37551085
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 84, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "TANZANIA", 
+                    "TAIWAN", 
+                    "MALI"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "european journal of horticultural science", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "the importance of traditional african vegetables is increasing with the rising awareness of their contribution to food security, human nutrition and income diversification, particularly in economically and environmentally marginal areas. under the impetus of renewed donor interest, more research and development organizations are engaging in activities along the african traditional vegetable value chain, and these crops are receiving greater improvement research. from its regional office for eastern and southern africa in arusha, tanzania, avrdc \u2013 the world vegetable center commenced vegetable research and development in sub-saharan africa in 1992. we highlight significant achievements in germplasm collection, conservation, improvement and development activities regionally, and outline future breeding strategies for priority traditional african vegetables. the breeding strategy starts with selection within landraces or germplasm accessions and creation of genetic variability, and continues through to gender-disaggregated participatory plant breeding, in which selections are made within the target environment with the participation of local users, ensuring that the target production environment and the needs of the end users are fully taken into account. this paper defines the roles of partners at various stages of the breeding program (germplasm development, evaluation and cultivar release) and in subsequent development activities (cultivar deployment and seed systems) for more effective and sustainable research and development in traditional vegetables. \u00a9 ishs 2016.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Tanzania", 
+                "nameofficial": "United Republic of Tanzania"
+            }
+        }, 
+        {
+            "index": 83, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.9636873, 
+                    17.69385811
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 83, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "TANZANIA", 
+                    "TAIWAN", 
+                    "MALI"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "european journal of horticultural science", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "the importance of traditional african vegetables is increasing with the rising awareness of their contribution to food security, human nutrition and income diversification, particularly in economically and environmentally marginal areas. under the impetus of renewed donor interest, more research and development organizations are engaging in activities along the african traditional vegetable value chain, and these crops are receiving greater improvement research. from its regional office for eastern and southern africa in arusha, tanzania, avrdc \u2013 the world vegetable center commenced vegetable research and development in sub-saharan africa in 1992. we highlight significant achievements in germplasm collection, conservation, improvement and development activities regionally, and outline future breeding strategies for priority traditional african vegetables. the breeding strategy starts with selection within landraces or germplasm accessions and creation of genetic variability, and continues through to gender-disaggregated participatory plant breeding, in which selections are made within the target environment with the participation of local users, ensuring that the target production environment and the needs of the end users are fully taken into account. this paper defines the roles of partners at various stages of the breeding program (germplasm development, evaluation and cultivar release) and in subsequent development activities (cultivar deployment and seed systems) for more effective and sustainable research and development in traditional vegetables. \u00a9 ishs 2016.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Mali", 
+                "nameofficial": "Republic of Mali"
+            }
+        }, 
+        {
+            "index": 12, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.53888197, 
+                    49.76026136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 12, 
+            "score": 15, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Czech Republic", 
+                "nameofficial": "Czech Republic"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 18, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "ISRAEL", 
+                    "SWEDEN", 
+                    "THAILAND", 
+                    "PORTUGAL", 
+                    "BELGIUM", 
+                    "AUSTRALIA", 
+                    "PORTUGAL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Posidonia oceanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "here we present the results of a multiple organizational level analysis conceived to identify acclimative/adaptive strategies exhibited by the seagrass posidonia oceanica to the daily fluctuations in the light environment, at contrasting depths. we assessed changes in photophysiological parameters, leaf respiration, pigments, and protein and mrna expression levels. the results show that the diel oscillations of p. oceanica photophysiological and respiratory responses were related to transcripts and proteins expression of the genes involved in those processes and that there was a response asynchrony between shallow and deep plants probably caused by the strong differences in the light environment. the photochemical pathway of energy use was more effective in shallow plants due to higher light availability, but these plants needed more investment in photoprotection and photorepair, requiring higher translation and protein synthesis than deep plants. the genetic differentiation between deep and shallow stands suggests the existence of locally adapted genotypes to contrasting light environments. the depth-specific diel rhythms of photosynthetic and respiratory processes, from molecular to physiological levels, must be considered in the management and conservation of these key coastal ecosystems. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "MALTA", 
+                        "TUNISIA", 
+                        "EGYPT", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "IRELAND", 
+                        "GERMANY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }, 
+        {
+            "index": 34, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    26.36339137, 
+                    64.69610892
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 34, 
+            "score": 10, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Finland", 
+                "nameofficial": "Republic of Finland"
+            }
+        }, 
+        {
+            "index": 32, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 32, 
+            "score": 57, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }
+        }, 
+        {
+            "index": 43, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.15772412, 
+                    -8.50205247
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 43, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "PERU", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "agriculture, ecosystems and environment", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "high-altitude ecosystems shelter important reserves of biodiversity, water provision and soil organic carbon (soc) stocks. climate change, agricultural encroachment, overgrazing, and mining activities are endangering ecosystems sustainability, particularly in the high-andean puna. increasing food demands in a region with limited agricultural land calls for agricultural intensification. ecological intensification of agriculture is a framework for increasing agricultural productivity by fostering supporting and regulating ecosystem services (es) while reducing negative environmental impacts. in this review we examine how agriculture use and disturb the provision of key es in this ecoregion \u2013 food, wool and fiber provision, soil fertility, nutrient cycling, soil carbon sequestration, water provision and regulation, genetic resources, pest and disease control, pollination regulation and microclimate regulation. we also propose a set of technologies, practices and policies to preserve (or restore) the provision of these key es: long fallowing, soil amendments, conservation tillage, rotational grazing, grassland ecological restoration, conservation of agrobiodiversity, modern irrigation and water harvesting, plant breeding, climate change mitigation schemes and payment for ecosystem services, and adapted traditional technologies. \u00a9 2016 elsevier b.v.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Peru", 
+                "nameofficial": "Republic of Peru"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 83, 
+            "target": 84, 
+            "value": 2
+        }, 
+        {
+            "source": 84, 
+            "target": 12, 
+            "value": 1
+        }, 
+        {
+            "source": 84, 
+            "target": 24, 
+            "value": 4
+        }, 
+        {
+            "source": 84, 
+            "target": 34, 
+            "value": 1
+        }, 
+        {
+            "source": 84, 
+            "target": 32, 
+            "value": 1
+        }, 
+        {
+            "source": 84, 
+            "target": 43, 
+            "value": 3
+        }
+    ]
+}
+]

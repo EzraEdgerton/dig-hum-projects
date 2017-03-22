@@ -1,0 +1,974 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 52, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.29386134, 
+                    9.37180859
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 52, 
+            "score": 11, 
+            "data": {
+                "authorsCOO": [
+                    "GHANA", 
+                    "GHANA", 
+                    "BENIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genetic resources and crop evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "neglected and underutilized crop species (nus) are important genetic resources for nutrition, food security, medicine, management of agricultural risk and income generation for rural communities in ghana. little is known about their diversity, farmers\u2019 management practices and safety of nus conserved on-farm while these are prerequisites for developing strategic action plans to ensure their conservation and thus their continued utilization. this study was designed to (1) assess the diversity, forms of consumption and management practices of nus in ghana, (2) investigate constraints of on-farm conservation of nus and the linkage between cultural practices in traditional farming systems and the safety of the nus conserved on-farm in ghana. a survey involving 1800 respondents was carried out in nine (9) farming villages of ghana using participatory research appraisal tools. seventy-two nus species were identified on farmers\u2019 field. the grouping of these species into major commodity crops suggests high diversity of nus genetic resources in ghana which could be used to further enhance nutrition and food security. the high market value of some of the nus species suggest that they are well known and consumed. mass use of systemic weedicides by farmers, activities of herdsmen and lack of knowledge on conservation of seeds and tubers are the main factors reported by farmers as the cause of genetic erosion of nus on their farms. these findings create an urgency to collect and conserve genetic resources of nus in ghana to promote their utilization and breeding of improved varieties. \u00a9 2015, springer science+business media dordrecht.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Benin", 
+                "nameofficial": "Republic of Benin"
+            }
+        }, 
+        {
+            "index": 51, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.29234904, 
+                    7.69154199
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 51, 
+            "score": 9, 
+            "data": {
+                "authorsCOO": [
+                    "GHANA", 
+                    "GHANA", 
+                    "BENIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genetic resources and crop evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "neglected and underutilized crop species (nus) are important genetic resources for nutrition, food security, medicine, management of agricultural risk and income generation for rural communities in ghana. little is known about their diversity, farmers\u2019 management practices and safety of nus conserved on-farm while these are prerequisites for developing strategic action plans to ensure their conservation and thus their continued utilization. this study was designed to (1) assess the diversity, forms of consumption and management practices of nus in ghana, (2) investigate constraints of on-farm conservation of nus and the linkage between cultural practices in traditional farming systems and the safety of the nus conserved on-farm in ghana. a survey involving 1800 respondents was carried out in nine (9) farming villages of ghana using participatory research appraisal tools. seventy-two nus species were identified on farmers\u2019 field. the grouping of these species into major commodity crops suggests high diversity of nus genetic resources in ghana which could be used to further enhance nutrition and food security. the high market value of some of the nus species suggest that they are well known and consumed. mass use of systemic weedicides by farmers, activities of herdsmen and lack of knowledge on conservation of seeds and tubers are the main factors reported by farmers as the cause of genetic erosion of nus on their farms. these findings create an urgency to collect and conserve genetic resources of nus in ghana to promote their utilization and breeding of improved varieties. \u00a9 2015, springer science+business media dordrecht.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Ghana", 
+                "nameofficial": "Republic of Ghana"
+            }
+        }, 
+        {
+            "index": 67, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -14.68306489, 
+                    14.43579003
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 67, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "BENIN", 
+                    "BENIN", 
+                    "SENEGAL", 
+                    "BENIN", 
+                    "BENIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genetic resources and crop evolution", 
+                "focalspecies": [
+                    "Sorghum bicolor"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "sorghum (sorghum bicolor (l.) moench) is an important staple food in semi-arid tropics which contribute to food security and poverty alleviation in benin. however, its production is seriously facing enormous abiotic and biotic stresses including climate variability. to document its cultivar diversity, the impact of climate change on its production and diversity, the adaptation strategies developed by farmers and the performance of landraces, 22 villages were randomly selected and surveyed in the department of atakora in the northwest of benin using participatory research appraisals (fields and granaries visit, individual and group survey using questionnaires, four cells or distribution and extent analysis, etc.). data were analysed through descriptive statistics (frequencies, percentages, means, etc.) to generate summaries and tables at different (villages, individuals) levels and also through multivariate analysis (cluster analysis) and the results figures. in total 8 constraints affecting sorghum production were recorded among which striga proliferation, soil poverty and climate change effects (drought; excess of rain; delay, insufficient and irregular rainfall, etc.) were the most important. subject to synonyms, 89 sorghum landraces were inventoried and their number varied from 4 to 17 (7 on average) per village. the shannon\u2013weaver diversity index (h) estimated at 3.02 indicated high sorghum diversity in the study area. many landraces were threatened. the relatively high rates (16.7\u201388.2\u00a0%; 40.9\u00a0% on average) of cultivars loss recorded per village are proofs of menace of genetic erosion and necessity of developing conservation strategies. inadaptability of cultivars to climate variability (39.6\u00a0% of abandoned landraces) was among others the most important reason justifying the loss of diversity. crop rotations, growing of early maturing and/or drought tolerant landraces, establishment of fields in lowlands are the most important strategies developed by farmers to mitigate impacts of climate change (low productivity, increase of damages from storage insects, early drying of plant leaves etc.) on the crop. participatory evaluation of the existing landraces led to the identification of some high-performing ones that are resistant/tolerant to diverse abiotic and biotic stresses. farmers\u2019 cultivars preference criteria were identified and prioritized. results of this study are useful to policy makers, agricultural extension services of the different districts, genetic resources specialists and breeders in order to improve sorghum production in benin. \u00a9 2015, springer science+business media dordrecht.", 
+                "focalspeciesCOO": [
+                    [
+                        "SPAIN", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "MEXICO", 
+                        "GERMANY", 
+                        "UNITED KINGDOM", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "TRINIDAD AND TOBAGO", 
+                        "BAHAMAS", 
+                        "HAITI", 
+                        "JAMAICA", 
+                        "CUBA", 
+                        "INDONESIA", 
+                        "SUDAN", 
+                        "ETHIOPIA", 
+                        "ANGOLA", 
+                        "NETHERLANDS", 
+                        "PARAGUAY", 
+                        "FRANCE", 
+                        "ITALY", 
+                        "FINLAND", 
+                        "PORTUGAL", 
+                        "SENEGAL", 
+                        "UZBEKISTAN", 
+                        "GEORGIA", 
+                        "UKRAINE", 
+                        "TAJIKISTAN", 
+                        "INDIA", 
+                        "EGYPT", 
+                        "CHINA", 
+                        "RUSSIAN FEDERATION", 
+                        "AFGHANISTAN", 
+                        "TURKMENISTAN", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "ALGERIA", 
+                        "TUNISIA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "GREECE", 
+                        "MONGOLIA", 
+                        "PAKISTAN", 
+                        "KYRGYZSTAN", 
+                        "JAPAN", 
+                        "SOUTH AFRICA", 
+                        "IRAQ", 
+                        "ARGENTINA", 
+                        "GHANA", 
+                        "PHILIPPINES", 
+                        "MALI", 
+                        "UGANDA", 
+                        "MOZAMBIQUE", 
+                        "NIGERIA", 
+                        "ZIMBABWE", 
+                        "GUINEA-BISSAU", 
+                        "NEPAL", 
+                        "BRAZIL", 
+                        "TOGO", 
+                        "SLOVENIA", 
+                        "LUXEMBOURG", 
+                        "SIERRA LEONE", 
+                        "BELGIUM", 
+                        "CURA\u00c7AO", 
+                        "CAMEROON", 
+                        "BENIN", 
+                        "PAPUA NEW GUINEA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NEW CALEDONIA", 
+                        "BHUTAN", 
+                        "OMAN", 
+                        "ISRAEL", 
+                        "FIJI", 
+                        "FRENCH POLYNESIA", 
+                        "MARSHALL ISLANDS", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "TONGA", 
+                        "NIUE", 
+                        "KENYA", 
+                        "CHAD", 
+                        "BURKINA FASO", 
+                        "BURUNDI", 
+                        "ARMENIA", 
+                        "BOTSWANA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "DENMARK", 
+                        "COLOMBIA", 
+                        "HONDURAS", 
+                        "GAMBIA", 
+                        "KAZAKHSTAN", 
+                        "LIBYA", 
+                        "MALAWI", 
+                        "ZAMBIA", 
+                        "LIBERIA", 
+                        "YEMEN", 
+                        "NIGER", 
+                        "SOUTH SUDAN", 
+                        "LESOTHO", 
+                        "RWANDA", 
+                        "SOMALIA", 
+                        "SWAZILAND", 
+                        "NAMIBIA", 
+                        "CAPE VERDE", 
+                        "FAROE ISLANDS", 
+                        "BELIZE", 
+                        "PERU", 
+                        "PUERTO RICO", 
+                        "LEBANON", 
+                        "ESTONIA", 
+                        "NEW ZEALAND", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "BULGARIA", 
+                        "ALBANIA", 
+                        "POLAND", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "AZERBAIJAN", 
+                        "VIETNAM", 
+                        "MARTINIQUE", 
+                        "GUADELOUPE", 
+                        "BERMUDA", 
+                        "CANADA", 
+                        "SAINT KITTS AND NEVIS", 
+                        "DOMINICAN REPUBLIC", 
+                        "MALDIVES", 
+                        "MAURITANIA", 
+                        "NORWAY", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "NICARAGUA", 
+                        "MADAGASCAR", 
+                        "ECUADOR", 
+                        "EL SALVADOR", 
+                        "COSTA RICA", 
+                        "GUATEMALA", 
+                        "SAUDI ARABIA", 
+                        "R\u00c9UNION", 
+                        "SURINAME", 
+                        "THAILAND", 
+                        "FRENCH GUIANA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "CHILE", 
+                        "COOK ISLANDS", 
+                        "NORFOLK ISLAND", 
+                        "SAMOA", 
+                        "CHRISTMAS ISLAND", 
+                        "PANAMA", 
+                        "GUINEA", 
+                        "CONGO", 
+                        "CAYMAN ISLANDS", 
+                        "JORDAN", 
+                        "BARBADOS", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "SRI LANKA", 
+                        "BANGLADESH", 
+                        "MYANMAR", 
+                        "CYPRUS", 
+                        "URUGUAY", 
+                        "MALAYSIA", 
+                        "ANTIGUA AND BARBUDA", 
+                        "ARUBA", 
+                        "IRELAND"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Senegal", 
+                "nameofficial": "Republic of Senegal"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 252, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 51, 
+            "target": 52, 
+            "value": 6
+        }, 
+        {
+            "source": 52, 
+            "target": 52, 
+            "value": 10
+        }, 
+        {
+            "source": 52, 
+            "target": 67, 
+            "value": 4
+        }, 
+        {
+            "source": 52, 
+            "target": 2, 
+            "value": 5
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 52, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.29386134, 
+                    9.37180859
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 52, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "GHANA", 
+                    "GHANA", 
+                    "BENIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genetic resources and crop evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "neglected and underutilized crop species (nus) are important genetic resources for nutrition, food security, medicine, management of agricultural risk and income generation for rural communities in ghana. little is known about their diversity, farmers\u2019 management practices and safety of nus conserved on-farm while these are prerequisites for developing strategic action plans to ensure their conservation and thus their continued utilization. this study was designed to (1) assess the diversity, forms of consumption and management practices of nus in ghana, (2) investigate constraints of on-farm conservation of nus and the linkage between cultural practices in traditional farming systems and the safety of the nus conserved on-farm in ghana. a survey involving 1800 respondents was carried out in nine (9) farming villages of ghana using participatory research appraisal tools. seventy-two nus species were identified on farmers\u2019 field. the grouping of these species into major commodity crops suggests high diversity of nus genetic resources in ghana which could be used to further enhance nutrition and food security. the high market value of some of the nus species suggest that they are well known and consumed. mass use of systemic weedicides by farmers, activities of herdsmen and lack of knowledge on conservation of seeds and tubers are the main factors reported by farmers as the cause of genetic erosion of nus on their farms. these findings create an urgency to collect and conserve genetic resources of nus in ghana to promote their utilization and breeding of improved varieties. \u00a9 2015, springer science+business media dordrecht.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Benin", 
+                "nameofficial": "Republic of Benin"
+            }
+        }, 
+        {
+            "index": 51, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.29234904, 
+                    7.69154199
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 51, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "GHANA", 
+                    "GHANA", 
+                    "BENIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genetic resources and crop evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "neglected and underutilized crop species (nus) are important genetic resources for nutrition, food security, medicine, management of agricultural risk and income generation for rural communities in ghana. little is known about their diversity, farmers\u2019 management practices and safety of nus conserved on-farm while these are prerequisites for developing strategic action plans to ensure their conservation and thus their continued utilization. this study was designed to (1) assess the diversity, forms of consumption and management practices of nus in ghana, (2) investigate constraints of on-farm conservation of nus and the linkage between cultural practices in traditional farming systems and the safety of the nus conserved on-farm in ghana. a survey involving 1800 respondents was carried out in nine (9) farming villages of ghana using participatory research appraisal tools. seventy-two nus species were identified on farmers\u2019 field. the grouping of these species into major commodity crops suggests high diversity of nus genetic resources in ghana which could be used to further enhance nutrition and food security. the high market value of some of the nus species suggest that they are well known and consumed. mass use of systemic weedicides by farmers, activities of herdsmen and lack of knowledge on conservation of seeds and tubers are the main factors reported by farmers as the cause of genetic erosion of nus on their farms. these findings create an urgency to collect and conserve genetic resources of nus in ghana to promote their utilization and breeding of improved varieties. \u00a9 2015, springer science+business media dordrecht.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Ghana", 
+                "nameofficial": "Republic of Ghana"
+            }
+        }, 
+        {
+            "index": 67, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -14.68306489, 
+                    14.43579003
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 67, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "BENIN", 
+                    "BENIN", 
+                    "SENEGAL", 
+                    "BENIN", 
+                    "BENIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genetic resources and crop evolution", 
+                "focalspecies": [
+                    "Sorghum bicolor"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "sorghum (sorghum bicolor (l.) moench) is an important staple food in semi-arid tropics which contribute to food security and poverty alleviation in benin. however, its production is seriously facing enormous abiotic and biotic stresses including climate variability. to document its cultivar diversity, the impact of climate change on its production and diversity, the adaptation strategies developed by farmers and the performance of landraces, 22 villages were randomly selected and surveyed in the department of atakora in the northwest of benin using participatory research appraisals (fields and granaries visit, individual and group survey using questionnaires, four cells or distribution and extent analysis, etc.). data were analysed through descriptive statistics (frequencies, percentages, means, etc.) to generate summaries and tables at different (villages, individuals) levels and also through multivariate analysis (cluster analysis) and the results figures. in total 8 constraints affecting sorghum production were recorded among which striga proliferation, soil poverty and climate change effects (drought; excess of rain; delay, insufficient and irregular rainfall, etc.) were the most important. subject to synonyms, 89 sorghum landraces were inventoried and their number varied from 4 to 17 (7 on average) per village. the shannon\u2013weaver diversity index (h) estimated at 3.02 indicated high sorghum diversity in the study area. many landraces were threatened. the relatively high rates (16.7\u201388.2\u00a0%; 40.9\u00a0% on average) of cultivars loss recorded per village are proofs of menace of genetic erosion and necessity of developing conservation strategies. inadaptability of cultivars to climate variability (39.6\u00a0% of abandoned landraces) was among others the most important reason justifying the loss of diversity. crop rotations, growing of early maturing and/or drought tolerant landraces, establishment of fields in lowlands are the most important strategies developed by farmers to mitigate impacts of climate change (low productivity, increase of damages from storage insects, early drying of plant leaves etc.) on the crop. participatory evaluation of the existing landraces led to the identification of some high-performing ones that are resistant/tolerant to diverse abiotic and biotic stresses. farmers\u2019 cultivars preference criteria were identified and prioritized. results of this study are useful to policy makers, agricultural extension services of the different districts, genetic resources specialists and breeders in order to improve sorghum production in benin. \u00a9 2015, springer science+business media dordrecht.", 
+                "focalspeciesCOO": [
+                    [
+                        "SPAIN", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "MEXICO", 
+                        "GERMANY", 
+                        "UNITED KINGDOM", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "TRINIDAD AND TOBAGO", 
+                        "BAHAMAS", 
+                        "HAITI", 
+                        "JAMAICA", 
+                        "CUBA", 
+                        "INDONESIA", 
+                        "SUDAN", 
+                        "ETHIOPIA", 
+                        "ANGOLA", 
+                        "NETHERLANDS", 
+                        "PARAGUAY", 
+                        "FRANCE", 
+                        "ITALY", 
+                        "FINLAND", 
+                        "PORTUGAL", 
+                        "SENEGAL", 
+                        "UZBEKISTAN", 
+                        "GEORGIA", 
+                        "UKRAINE", 
+                        "TAJIKISTAN", 
+                        "INDIA", 
+                        "EGYPT", 
+                        "CHINA", 
+                        "RUSSIAN FEDERATION", 
+                        "AFGHANISTAN", 
+                        "TURKMENISTAN", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "ALGERIA", 
+                        "TUNISIA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "GREECE", 
+                        "MONGOLIA", 
+                        "PAKISTAN", 
+                        "KYRGYZSTAN", 
+                        "JAPAN", 
+                        "SOUTH AFRICA", 
+                        "IRAQ", 
+                        "ARGENTINA", 
+                        "GHANA", 
+                        "PHILIPPINES", 
+                        "MALI", 
+                        "UGANDA", 
+                        "MOZAMBIQUE", 
+                        "NIGERIA", 
+                        "ZIMBABWE", 
+                        "GUINEA-BISSAU", 
+                        "NEPAL", 
+                        "BRAZIL", 
+                        "TOGO", 
+                        "SLOVENIA", 
+                        "LUXEMBOURG", 
+                        "SIERRA LEONE", 
+                        "BELGIUM", 
+                        "CURA\u00c7AO", 
+                        "CAMEROON", 
+                        "BENIN", 
+                        "PAPUA NEW GUINEA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NEW CALEDONIA", 
+                        "BHUTAN", 
+                        "OMAN", 
+                        "ISRAEL", 
+                        "FIJI", 
+                        "FRENCH POLYNESIA", 
+                        "MARSHALL ISLANDS", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "TONGA", 
+                        "NIUE", 
+                        "KENYA", 
+                        "CHAD", 
+                        "BURKINA FASO", 
+                        "BURUNDI", 
+                        "ARMENIA", 
+                        "BOTSWANA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "DENMARK", 
+                        "COLOMBIA", 
+                        "HONDURAS", 
+                        "GAMBIA", 
+                        "KAZAKHSTAN", 
+                        "LIBYA", 
+                        "MALAWI", 
+                        "ZAMBIA", 
+                        "LIBERIA", 
+                        "YEMEN", 
+                        "NIGER", 
+                        "SOUTH SUDAN", 
+                        "LESOTHO", 
+                        "RWANDA", 
+                        "SOMALIA", 
+                        "SWAZILAND", 
+                        "NAMIBIA", 
+                        "CAPE VERDE", 
+                        "FAROE ISLANDS", 
+                        "BELIZE", 
+                        "PERU", 
+                        "PUERTO RICO", 
+                        "LEBANON", 
+                        "ESTONIA", 
+                        "NEW ZEALAND", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "BULGARIA", 
+                        "ALBANIA", 
+                        "POLAND", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "AZERBAIJAN", 
+                        "VIETNAM", 
+                        "MARTINIQUE", 
+                        "GUADELOUPE", 
+                        "BERMUDA", 
+                        "CANADA", 
+                        "SAINT KITTS AND NEVIS", 
+                        "DOMINICAN REPUBLIC", 
+                        "MALDIVES", 
+                        "MAURITANIA", 
+                        "NORWAY", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "NICARAGUA", 
+                        "MADAGASCAR", 
+                        "ECUADOR", 
+                        "EL SALVADOR", 
+                        "COSTA RICA", 
+                        "GUATEMALA", 
+                        "SAUDI ARABIA", 
+                        "R\u00c9UNION", 
+                        "SURINAME", 
+                        "THAILAND", 
+                        "FRENCH GUIANA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "CHILE", 
+                        "COOK ISLANDS", 
+                        "NORFOLK ISLAND", 
+                        "SAMOA", 
+                        "CHRISTMAS ISLAND", 
+                        "PANAMA", 
+                        "GUINEA", 
+                        "CONGO", 
+                        "CAYMAN ISLANDS", 
+                        "JORDAN", 
+                        "BARBADOS", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "SRI LANKA", 
+                        "BANGLADESH", 
+                        "MYANMAR", 
+                        "CYPRUS", 
+                        "URUGUAY", 
+                        "MALAYSIA", 
+                        "ANTIGUA AND BARBUDA", 
+                        "ARUBA", 
+                        "IRELAND"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Senegal", 
+                "nameofficial": "Republic of Senegal"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 67, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 51, 
+            "target": 52, 
+            "value": 2
+        }, 
+        {
+            "source": 52, 
+            "target": 52, 
+            "value": 6
+        }, 
+        {
+            "source": 52, 
+            "target": 67, 
+            "value": 1
+        }, 
+        {
+            "source": 52, 
+            "target": 2, 
+            "value": 2
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 51, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.29386134, 
+                    9.37180859
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 51, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "GHANA", 
+                    "GHANA", 
+                    "BENIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genetic resources and crop evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "neglected and underutilized crop species (nus) are important genetic resources for nutrition, food security, medicine, management of agricultural risk and income generation for rural communities in ghana. little is known about their diversity, farmers\u2019 management practices and safety of nus conserved on-farm while these are prerequisites for developing strategic action plans to ensure their conservation and thus their continued utilization. this study was designed to (1) assess the diversity, forms of consumption and management practices of nus in ghana, (2) investigate constraints of on-farm conservation of nus and the linkage between cultural practices in traditional farming systems and the safety of the nus conserved on-farm in ghana. a survey involving 1800 respondents was carried out in nine (9) farming villages of ghana using participatory research appraisal tools. seventy-two nus species were identified on farmers\u2019 field. the grouping of these species into major commodity crops suggests high diversity of nus genetic resources in ghana which could be used to further enhance nutrition and food security. the high market value of some of the nus species suggest that they are well known and consumed. mass use of systemic weedicides by farmers, activities of herdsmen and lack of knowledge on conservation of seeds and tubers are the main factors reported by farmers as the cause of genetic erosion of nus on their farms. these findings create an urgency to collect and conserve genetic resources of nus in ghana to promote their utilization and breeding of improved varieties. \u00a9 2015, springer science+business media dordrecht.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Benin", 
+                "nameofficial": "Republic of Benin"
+            }
+        }, 
+        {
+            "index": 52, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.29234904, 
+                    7.69154199
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 52, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "GHANA", 
+                    "GHANA", 
+                    "BENIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genetic resources and crop evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "neglected and underutilized crop species (nus) are important genetic resources for nutrition, food security, medicine, management of agricultural risk and income generation for rural communities in ghana. little is known about their diversity, farmers\u2019 management practices and safety of nus conserved on-farm while these are prerequisites for developing strategic action plans to ensure their conservation and thus their continued utilization. this study was designed to (1) assess the diversity, forms of consumption and management practices of nus in ghana, (2) investigate constraints of on-farm conservation of nus and the linkage between cultural practices in traditional farming systems and the safety of the nus conserved on-farm in ghana. a survey involving 1800 respondents was carried out in nine (9) farming villages of ghana using participatory research appraisal tools. seventy-two nus species were identified on farmers\u2019 field. the grouping of these species into major commodity crops suggests high diversity of nus genetic resources in ghana which could be used to further enhance nutrition and food security. the high market value of some of the nus species suggest that they are well known and consumed. mass use of systemic weedicides by farmers, activities of herdsmen and lack of knowledge on conservation of seeds and tubers are the main factors reported by farmers as the cause of genetic erosion of nus on their farms. these findings create an urgency to collect and conserve genetic resources of nus in ghana to promote their utilization and breeding of improved varieties. \u00a9 2015, springer science+business media dordrecht.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Ghana", 
+                "nameofficial": "Republic of Ghana"
+            }
+        }, 
+        {
+            "index": 67, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -14.68306489, 
+                    14.43579003
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 67, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "BENIN", 
+                    "BENIN", 
+                    "SENEGAL", 
+                    "BENIN", 
+                    "BENIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genetic resources and crop evolution", 
+                "focalspecies": [
+                    "Sorghum bicolor"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "sorghum (sorghum bicolor (l.) moench) is an important staple food in semi-arid tropics which contribute to food security and poverty alleviation in benin. however, its production is seriously facing enormous abiotic and biotic stresses including climate variability. to document its cultivar diversity, the impact of climate change on its production and diversity, the adaptation strategies developed by farmers and the performance of landraces, 22 villages were randomly selected and surveyed in the department of atakora in the northwest of benin using participatory research appraisals (fields and granaries visit, individual and group survey using questionnaires, four cells or distribution and extent analysis, etc.). data were analysed through descriptive statistics (frequencies, percentages, means, etc.) to generate summaries and tables at different (villages, individuals) levels and also through multivariate analysis (cluster analysis) and the results figures. in total 8 constraints affecting sorghum production were recorded among which striga proliferation, soil poverty and climate change effects (drought; excess of rain; delay, insufficient and irregular rainfall, etc.) were the most important. subject to synonyms, 89 sorghum landraces were inventoried and their number varied from 4 to 17 (7 on average) per village. the shannon\u2013weaver diversity index (h) estimated at 3.02 indicated high sorghum diversity in the study area. many landraces were threatened. the relatively high rates (16.7\u201388.2\u00a0%; 40.9\u00a0% on average) of cultivars loss recorded per village are proofs of menace of genetic erosion and necessity of developing conservation strategies. inadaptability of cultivars to climate variability (39.6\u00a0% of abandoned landraces) was among others the most important reason justifying the loss of diversity. crop rotations, growing of early maturing and/or drought tolerant landraces, establishment of fields in lowlands are the most important strategies developed by farmers to mitigate impacts of climate change (low productivity, increase of damages from storage insects, early drying of plant leaves etc.) on the crop. participatory evaluation of the existing landraces led to the identification of some high-performing ones that are resistant/tolerant to diverse abiotic and biotic stresses. farmers\u2019 cultivars preference criteria were identified and prioritized. results of this study are useful to policy makers, agricultural extension services of the different districts, genetic resources specialists and breeders in order to improve sorghum production in benin. \u00a9 2015, springer science+business media dordrecht.", 
+                "focalspeciesCOO": [
+                    [
+                        "SPAIN", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "MEXICO", 
+                        "GERMANY", 
+                        "UNITED KINGDOM", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "TRINIDAD AND TOBAGO", 
+                        "BAHAMAS", 
+                        "HAITI", 
+                        "JAMAICA", 
+                        "CUBA", 
+                        "INDONESIA", 
+                        "SUDAN", 
+                        "ETHIOPIA", 
+                        "ANGOLA", 
+                        "NETHERLANDS", 
+                        "PARAGUAY", 
+                        "FRANCE", 
+                        "ITALY", 
+                        "FINLAND", 
+                        "PORTUGAL", 
+                        "SENEGAL", 
+                        "UZBEKISTAN", 
+                        "GEORGIA", 
+                        "UKRAINE", 
+                        "TAJIKISTAN", 
+                        "INDIA", 
+                        "EGYPT", 
+                        "CHINA", 
+                        "RUSSIAN FEDERATION", 
+                        "AFGHANISTAN", 
+                        "TURKMENISTAN", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "ALGERIA", 
+                        "TUNISIA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "GREECE", 
+                        "MONGOLIA", 
+                        "PAKISTAN", 
+                        "KYRGYZSTAN", 
+                        "JAPAN", 
+                        "SOUTH AFRICA", 
+                        "IRAQ", 
+                        "ARGENTINA", 
+                        "GHANA", 
+                        "PHILIPPINES", 
+                        "MALI", 
+                        "UGANDA", 
+                        "MOZAMBIQUE", 
+                        "NIGERIA", 
+                        "ZIMBABWE", 
+                        "GUINEA-BISSAU", 
+                        "NEPAL", 
+                        "BRAZIL", 
+                        "TOGO", 
+                        "SLOVENIA", 
+                        "LUXEMBOURG", 
+                        "SIERRA LEONE", 
+                        "BELGIUM", 
+                        "CURA\u00c7AO", 
+                        "CAMEROON", 
+                        "BENIN", 
+                        "PAPUA NEW GUINEA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "NEW CALEDONIA", 
+                        "BHUTAN", 
+                        "OMAN", 
+                        "ISRAEL", 
+                        "FIJI", 
+                        "FRENCH POLYNESIA", 
+                        "MARSHALL ISLANDS", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "TONGA", 
+                        "NIUE", 
+                        "KENYA", 
+                        "CHAD", 
+                        "BURKINA FASO", 
+                        "BURUNDI", 
+                        "ARMENIA", 
+                        "BOTSWANA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "DENMARK", 
+                        "COLOMBIA", 
+                        "HONDURAS", 
+                        "GAMBIA", 
+                        "KAZAKHSTAN", 
+                        "LIBYA", 
+                        "MALAWI", 
+                        "ZAMBIA", 
+                        "LIBERIA", 
+                        "YEMEN", 
+                        "NIGER", 
+                        "SOUTH SUDAN", 
+                        "LESOTHO", 
+                        "RWANDA", 
+                        "SOMALIA", 
+                        "SWAZILAND", 
+                        "NAMIBIA", 
+                        "CAPE VERDE", 
+                        "FAROE ISLANDS", 
+                        "BELIZE", 
+                        "PERU", 
+                        "PUERTO RICO", 
+                        "LEBANON", 
+                        "ESTONIA", 
+                        "NEW ZEALAND", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "BULGARIA", 
+                        "ALBANIA", 
+                        "POLAND", 
+                        "SWITZERLAND", 
+                        "CZECH REPUBLIC", 
+                        "AZERBAIJAN", 
+                        "VIETNAM", 
+                        "MARTINIQUE", 
+                        "GUADELOUPE", 
+                        "BERMUDA", 
+                        "CANADA", 
+                        "SAINT KITTS AND NEVIS", 
+                        "DOMINICAN REPUBLIC", 
+                        "MALDIVES", 
+                        "MAURITANIA", 
+                        "NORWAY", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "NICARAGUA", 
+                        "MADAGASCAR", 
+                        "ECUADOR", 
+                        "EL SALVADOR", 
+                        "COSTA RICA", 
+                        "GUATEMALA", 
+                        "SAUDI ARABIA", 
+                        "R\u00c9UNION", 
+                        "SURINAME", 
+                        "THAILAND", 
+                        "FRENCH GUIANA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "CHILE", 
+                        "COOK ISLANDS", 
+                        "NORFOLK ISLAND", 
+                        "SAMOA", 
+                        "CHRISTMAS ISLAND", 
+                        "PANAMA", 
+                        "GUINEA", 
+                        "CONGO", 
+                        "CAYMAN ISLANDS", 
+                        "JORDAN", 
+                        "BARBADOS", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "SRI LANKA", 
+                        "BANGLADESH", 
+                        "MYANMAR", 
+                        "CYPRUS", 
+                        "URUGUAY", 
+                        "MALAYSIA", 
+                        "ANTIGUA AND BARBUDA", 
+                        "ARUBA", 
+                        "IRELAND"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Senegal", 
+                "nameofficial": "Republic of Senegal"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 78, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 51, 
+            "target": 52, 
+            "value": 6
+        }, 
+        {
+            "source": 51, 
+            "target": 51, 
+            "value": 3
+        }, 
+        {
+            "source": 51, 
+            "target": 67, 
+            "value": 1
+        }, 
+        {
+            "source": 1, 
+            "target": 51, 
+            "value": 5
+        }
+    ]
+}
+]

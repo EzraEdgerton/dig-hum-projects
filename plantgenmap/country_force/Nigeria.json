@@ -1,0 +1,1517 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 42, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.82933373, 
+                    9.02165273
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 42, 
+            "score": 12, 
+            "data": {
+                "authorsCOO": [
+                    "NIGERIA"
+                ], 
+                "genetictool": [
+                    "random amplified polymorphic DNA", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of vegetable science", 
+                "focalspecies": [
+                    "Crassocephalum crepidioides"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "crassocephalum crepidioides (benth) s. moore is an important african traditional leaf vegetable, but its production is very low and its existence threatened. an efficient and reproducible micropropagation protocol of c. crepidioides was developed from nodal stem segments of pot-grown plants. shoot induction was obtained on murashige and skoog (ms) medium supplemented with benzineamino purine (bap) alone and in combination with zeatin and naphthalene acetic acid (naa). elongated shoots successfully rooted on zeatin alone and in combination with indole butyric acid (iba). molecular stability of micropropagated plants was evaluated using random amplified polymorphic dna (rapd) markers. survival of nodal segments in micropropagation medium was greater than 70% in all treatments. the presence of plant growth regulators (pgrs) in ms medium influenced shoot formation, rooting, and number of shoots and roots per explant. the best shoot formation frequency (88.7%), number of shoots per explant (3.7), and shoot length (30 mm) were from a medium containing ms supplemented with 10 mg\u00b7l\u22121 bap, 15 mg\u00b7l\u22121 naa, and 1.5 mg\u00b7l\u22121 zeatin. frequency of root formation and survival of regenerated plants were greater on medium containing half-strength ms salt than medium fortified with full-strength ms salt. the best frequency of root formation (average 87.4%) and survival of regenerated plants (average 95.4%) were from media containing 6.0 mg\u00b7l\u22121 zeatin and 1.0\u20131.5 mg\u00b7l\u22121 iba and half-strength ms salt. micropropagated shoots with well-developed roots were acclimatized under greenhouse conditions in pots containing rich sandy loam soil (ph = 7.2). the rapd amplification products were monomorphic in micropropagated plants and similar to those of the mother plant. no polymorphism was detected, indicating genetic uniformity of micropropagated plants. this is the first report of micropropagation of c. crepidioides, which will facilitate in vitro mass propagation, conservation, and germplasm exchange of this endangered african vegetable. \u00a9 2017 taylor & francis group, llc.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "PAPUA NEW GUINEA", 
+                        "NEPAL", 
+                        "VIETNAM", 
+                        "INDONESIA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "UNITED STATES", 
+                        "DOMINICAN REPUBLIC", 
+                        "PHILIPPINES", 
+                        "SIERRA LEONE", 
+                        "JAPAN", 
+                        "MALAWI", 
+                        "KENYA", 
+                        "GUINEA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GHANA", 
+                        "BENIN", 
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "GABON", 
+                        "FIJI", 
+                        "GUAM", 
+                        "ZAMBIA", 
+                        "MADAGASCAR", 
+                        "ETHIOPIA", 
+                        "CAMBODIA", 
+                        "CONGO", 
+                        "VANUATU", 
+                        "NIGERIA", 
+                        "MOZAMBIQUE", 
+                        "CHRISTMAS ISLAND", 
+                        "SINGAPORE", 
+                        "MYANMAR", 
+                        "MALAYSIA", 
+                        "BRUNEI DARUSSALAM", 
+                        "THAILAND", 
+                        "INDIA", 
+                        "UGANDA", 
+                        "LIBERIA", 
+                        "SAO TOME AND PRINCIPE", 
+                        "SRI LANKA", 
+                        "BURUNDI", 
+                        "ZIMBABWE", 
+                        "SOUTH AFRICA", 
+                        "BHUTAN", 
+                        "PAKISTAN", 
+                        "TURKEY", 
+                        "BANGLADESH", 
+                        "TONGA", 
+                        "SWEDEN", 
+                        "ANGOLA", 
+                        "EQUATORIAL GUINEA", 
+                        "SPAIN", 
+                        "NEW ZEALAND", 
+                        "PUERTO RICO", 
+                        "FRENCH POLYNESIA", 
+                        "SAMOA", 
+                        "COOK ISLANDS", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "PALAU", 
+                        "TIMOR-LESTE", 
+                        "NORFOLK ISLAND", 
+                        "SENEGAL", 
+                        "WALLIS AND FUTUNA", 
+                        "JAMAICA", 
+                        "COSTA RICA", 
+                        "NIUE", 
+                        "AMERICAN SAMOA", 
+                        "TOGO", 
+                        "SWAZILAND", 
+                        "ARGENTINA", 
+                        "HONDURAS", 
+                        "R\u00c9UNION", 
+                        "YEMEN", 
+                        "SOLOMON ISLANDS", 
+                        "ERITREA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Nigeria", 
+                "nameofficial": "Federal Republic of Nigeria"
+            }
+        }, 
+        {
+            "index": 60, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    106.5460905, 
+                    4.97345793
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 60, 
+            "score": 26, 
+            "data": {
+                "authorsCOO": [
+                    "TURKEY", 
+                    "TURKEY", 
+                    "MALAYSIA", 
+                    "TURKEY"
+                ], 
+                "genetictool": [
+                    "SSR", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of plant research", 
+                "focalspecies": [
+                    "Medicago truncatula"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "this paper covers studies on the molecular and ecological aspects of g. glabra var. glandulifera, g. flavescens ssp. flavescens and g. echinata collected from hatay (turkey); with the aim to better understand their genetic variation and ecological requirements for possible conservation programs. the material including total genomic dna was extracted by the ctab, and for pcr reaction, a total of 14 ssr primers developed for medicago truncatula were used. pcr amplifications were performed in a multigen\u00ae thermal cycler. soil samples were analysed for their texture, ph, total soluble salts, calcium carbonate, total n content, total phosphorus and organic matter content. in order to see the association between genetic, ecological and geographical data, a similarity matrix was generated. genetic similarity distances between genotypes were correlated with those of eucledian distances obtained from ecological and geographical data. analysis of molecular variance (amova) was performed using genalex 6.5 software to determine variation among and within genetic variations. the genetic analysis showed that the highest expected heterozygosity values were obtained from g. glabra while the lowest were obtained from g. echinata. in general heterozygosity values were low, especially for g. echinata. therefore, variation appears to be lower within each species than among three species. the physical and chemical analysis of soil and plant samples indicates that mineral accumulation in plants is substantially affected by the soil characteristics. there is a need for identification of better strategies for the improvement of varieties, especially for small farmers managing marginal soils. more studies should be conducted in order to safeguard these taxa, especially g. glabra var. glandulifera which is collected intensively due to its economic value, the same is true for endemic taxon g. flavescens ssp. flavescens. \u00a9 2016, the botanical society of japan and springer japan.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "SPAIN", 
+                        "FRANCE", 
+                        "CROATIA", 
+                        "GREECE", 
+                        "PORTUGAL", 
+                        "JORDAN", 
+                        "ITALY", 
+                        "CYPRUS", 
+                        "MOROCCO", 
+                        "LUXEMBOURG", 
+                        "ALGERIA", 
+                        "EGYPT", 
+                        "TUNISIA", 
+                        "DENMARK", 
+                        "ISRAEL", 
+                        "LEBANON", 
+                        "TURKEY", 
+                        "SAUDI ARABIA", 
+                        "UNITED STATES", 
+                        "GERMANY", 
+                        "CANADA", 
+                        "MALTA", 
+                        "ETHIOPIA", 
+                        "LIBYA", 
+                        "SWEDEN", 
+                        "TURKMENISTAN", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "AZERBAIJAN", 
+                        "AFGHANISTAN", 
+                        "ARGENTINA", 
+                        "UNITED KINGDOM", 
+                        "KENYA", 
+                        "NORWAY", 
+                        "POLAND", 
+                        "MONTENEGRO", 
+                        "IRAQ", 
+                        "HUNGARY", 
+                        "CZECH REPUBLIC", 
+                        "NETHERLANDS", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "URUGUAY", 
+                        "ARMENIA", 
+                        "PARAGUAY", 
+                        "RUSSIAN FEDERATION", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "SOUTH AFRICA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Malaysia", 
+                "nameofficial": "Malaysia"
+            }
+        }, 
+        {
+            "index": 19, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.50069228, 
+                    65.04680297
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 19, 
+            "score": 32, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM", 
+                    "NORWAY", 
+                    "NORWAY", 
+                    "NORWAY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ambio", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "climate change is likely to be one of the most important factors affecting our future food security. to mitigate negative impacts, we will require our crops to be more genetically diverse. such diversity is available in crop wild relatives (cwrs), the wild taxa relatively closely related to crops and from which diverse traits can be transferred to the crop. conservation of such genetic resources resides within the nation where they are found; therefore, national-level conservation recommendations are fundamental to global food security. we investigate the potential impact of climate change on cwr richness in norway. the consequences of a 1.5 and 3.0 \u00b0c temperature rise were studied for the years 2030, 2050, 2070, 2080 and then compared to the present climate. the results indicate a pattern of shifting cwr richness from the south to the north, with increases in taxa turnover and in the numbers of threatened taxa. recommendations for in situ and ex situ conservation actions over the short and long term for the priority cwrs in norway are presented. the methods and recommendations developed here can be applied within other nations and at regional and global levels to improve the effectiveness of conservation actions and help ensure global food security. \u00a9 2017 royal swedish academy of sciences", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Norway", 
+                "nameofficial": "Kingdom of Norway"
+            }
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 18, 
+            "score": 873, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 44, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    137.67066061, 
+                    37.51848822
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 44, 
+            "score": 148, 
+            "data": {
+                "authorsCOO": [
+                    "JAPAN", 
+                    "JAPAN", 
+                    "JAPAN", 
+                    "JAPAN"
+                ], 
+                "genetictool": [
+                    "microsatellite"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of plant research", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "nuphar submersa (nymphaeaceae) is a critically endangered freshwater macrophyte indigenous to central japan, with only four small extant populations represented across its entire range. we investigated the genotypic and genetic diversity as well as the genetic structure of all extant individuals of n. submersa based on analysis of 15 microsatellite loci. among 278 individual ramets, 52 multilocus genotypes were detected: 30 genotypes in nikko city (nik), 18 in nasukarasuyama city (nas), 3 in mooka city (mok), and 1 in sakura city (sak). the average number of alleles per locus ranged from 1.20 to 1.93, whereas the observed and expected heterozygosities ranged from 0.11 to 0.33 and from 0.10 to 0.24, respectively. with the exception of sak, all populations contained multiple clones, but our results indicated low levels of within-population genetic diversity. the populations nik and nas comprised few large or middle-sized genets and many small genets. the populations nik and nas were suggested to comprise large old, old fragmented, and/or young small genets resulting from seedling establishment. all four populations were differentiated, and gene flow between the populations was restricted (average level of gene flow (nm)\u00a0=\u00a00.122, g\u2019st =\u00a00.639). of the total genetic diversity, 67.20 and 9.13% were attributable to inter- and intra-population diversity, respectively. structure analysis revealed two or three well-differentiated groups of populations. cluster i comprised one population (nik) and cluster ii comprised the remaining populations at k\u00a0=\u00a02. the populations nik, nas, and the remaining populations were assigned to clusters i, ii, and iii, respectively, at k\u00a0=\u00a03. for conservation practices, we recommend that each cluster be regarded as a different management unit. we further suggest that artificial gene flow among mok and sak populations is an appropriate option, whereas nik should not be reinforced with genotypes from the remaining populations. \u00a9 2016, the botanical society of japan and springer japan.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Japan", 
+                "nameofficial": "Japan"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 881, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "applied energy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "it is challenging and interesting to establish a precise dynamic model of an otb (once-through boiler) power plant unit in order to meet large scale load demands from the power grid. this study proposes to establish such a dynamic mathematical model of an ultra-supercritical otb unit under dry operating conditions. more precisely, the dynamic model structure was derived from mass and energy conservation laws as well as thermodynamic principles under some reasonable simplifications and assumptions. then an iga (immune genetic algorithm) was improved to identify the parameters, combined with running data. after this, to further enhance model performance, the dynamic mathematical model was extended to be the one with different sets of parameters and functions under different monotonous load ranges. additionally, open- and closed-loop experiments were conducted in order to further validate the developed model. the experimental results show that the model outputs can approach the actual running data over a wide operating range with appropriate accuracy. more importantly, the dynamic model captures the essential dynamic characteristics of the unit. therefore, the model can be feasible and applicable for simulation analysis and testing control algorithms. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 51, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.29234904, 
+                    7.69154199
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 51, 
+            "score": 9, 
+            "data": {
+                "authorsCOO": [
+                    "GHANA", 
+                    "GHANA", 
+                    "BENIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genetic resources and crop evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "neglected and underutilized crop species (nus) are important genetic resources for nutrition, food security, medicine, management of agricultural risk and income generation for rural communities in ghana. little is known about their diversity, farmers\u2019 management practices and safety of nus conserved on-farm while these are prerequisites for developing strategic action plans to ensure their conservation and thus their continued utilization. this study was designed to (1) assess the diversity, forms of consumption and management practices of nus in ghana, (2) investigate constraints of on-farm conservation of nus and the linkage between cultural practices in traditional farming systems and the safety of the nus conserved on-farm in ghana. a survey involving 1800 respondents was carried out in nine (9) farming villages of ghana using participatory research appraisal tools. seventy-two nus species were identified on farmers\u2019 field. the grouping of these species into major commodity crops suggests high diversity of nus genetic resources in ghana which could be used to further enhance nutrition and food security. the high market value of some of the nus species suggest that they are well known and consumed. mass use of systemic weedicides by farmers, activities of herdsmen and lack of knowledge on conservation of seeds and tubers are the main factors reported by farmers as the cause of genetic erosion of nus on their farms. these findings create an urgency to collect and conserve genetic resources of nus in ghana to promote their utilization and breeding of improved varieties. \u00a9 2015, springer science+business media dordrecht.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Ghana", 
+                "nameofficial": "Republic of Ghana"
+            }
+        }, 
+        {
+            "index": 95, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.82270352, 
+                    12.91806226
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 95, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "NIGERIA", 
+                    "GHANA", 
+                    "GHANA", 
+                    "UNITED STATES", 
+                    "NICARAGUA", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [
+                    "single nucleotide polymorphism", 
+                    "SNP", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "bmc genetics", 
+                "focalspecies": [
+                    "Manihot esculenta"
+                ], 
+                "fundingCOO": [], 
+                "year": 2015, 
+                "abstracttext": "background: accurate identification of crop cultivars is crucial in assessing the impact of crop improvement research outputs. two commonly used identification approaches, elicitation of variety names from farmer interviews and morphological plant descriptors, have inherent uncertainty levels. genotyping-by-sequencing (gbs) was used in a case study as an alternative method to track released varieties in farmers' fields, using cassava, a clonally propagated root crop widely grown in the tropics, and often disseminated through extension services and informal seed systems. a total of 917 accessions collected from 495 farming households across ghana were genotyped at 56,489 snp loci along with a \"reference library\" of 64 accessions of released varieties and popular landraces. results: accurate cultivar identification and ancestry estimation was accomplished through two complementary clustering methods: (i) distance-based hierarchical clustering; and (ii) model-based maximum likelihood admixture analysis. subsequently, 30 % of the identified accessions from farmers' fields were matched to specific released varieties represented in the reference library. admixture analysis revealed that the optimum number of major varieties was 11 and matched the hierarchical clustering results. the majority of the accessions (69 %) belonged purely to one of the 11 groups, while the remaining accessions showed two or more ancestries. further analysis using subsets of snp markers reproduced results obtained from the full-set of markers, suggesting that gbs can be done at higher dna multiplexing, thereby reducing the costs of variety fingerprinting. a large proportion of discrepancy between genetically unique cultivars as identified by markers and variety names as elicited from farmers were observed. clustering results from admixture analysis was validated using the assumption-free discriminant analysis of principal components (dapc) method. conclusion: we show that genome-wide snp markers from increasingly affordable gbs methods coupled with complementary cluster analysis is a powerful tool for fine-scale population structure analysis and variety identification. moreover, the ancestry estimation provides a framework for quantifying the contribution of exotic germplasm or older improved varieties to the genetic background of contemporary improved cultivars. \u00a9 2015 rabbi et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "BRAZIL", 
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "PARAGUAY", 
+                        "JAMAICA", 
+                        "PALAU", 
+                        "JAPAN", 
+                        "CHINA", 
+                        "MARTINIQUE", 
+                        "GUATEMALA", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "COLOMBIA", 
+                        "FRENCH POLYNESIA", 
+                        "SRI LANKA", 
+                        "HONDURAS", 
+                        "ECUADOR", 
+                        "NEW CALEDONIA", 
+                        "PERU", 
+                        "COSTA RICA", 
+                        "ANGOLA", 
+                        "LIBERIA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GABON", 
+                        "TOGO", 
+                        "ETHIOPIA", 
+                        "BENIN", 
+                        "GHANA", 
+                        "CAMEROON", 
+                        "SIERRA LEONE", 
+                        "INDONESIA", 
+                        "TRINIDAD AND TOBAGO", 
+                        "UNITED STATES", 
+                        "SURINAME", 
+                        "PAPUA NEW GUINEA", 
+                        "BRUNEI DARUSSALAM", 
+                        "MALAYSIA", 
+                        "PHILIPPINES", 
+                        "INDIA", 
+                        "POLAND", 
+                        "EQUATORIAL GUINEA", 
+                        "THAILAND", 
+                        "SOLOMON ISLANDS", 
+                        "CHAD", 
+                        "SWEDEN", 
+                        "GUYANA", 
+                        "FIJI", 
+                        "TONGA", 
+                        "COOK ISLANDS", 
+                        "SAMOA", 
+                        "NIUE", 
+                        "AMERICAN SAMOA", 
+                        "WALLIS AND FUTUNA", 
+                        "KIRIBATI", 
+                        "PITCAIRN", 
+                        "NIGERIA", 
+                        "BURKINA FASO", 
+                        "SAO TOME AND PRINCIPE", 
+                        "ARGENTINA", 
+                        "EL SALVADOR", 
+                        "PANAMA", 
+                        "PUERTO RICO", 
+                        "MADAGASCAR", 
+                        "R\u00c9UNION", 
+                        "CUBA", 
+                        "AFGHANISTAN", 
+                        "MOZAMBIQUE", 
+                        "FRENCH GUIANA", 
+                        "VIETNAM", 
+                        "GERMANY", 
+                        "BARBADOS", 
+                        "MAYOTTE", 
+                        "UNITED STATES MINOR OUTLYING ISLANDS", 
+                        "BELIZE", 
+                        "NEW ZEALAND", 
+                        "GUADELOUPE", 
+                        "BAHAMAS", 
+                        "CAYMAN ISLANDS", 
+                        "DOMINICAN REPUBLIC", 
+                        "HAITI", 
+                        "BERMUDA", 
+                        "GUAM", 
+                        "PORTUGAL", 
+                        "YEMEN", 
+                        "MAURITIUS", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "NICARAGUA", 
+                        "MALDIVES", 
+                        "KENYA", 
+                        "UGANDA", 
+                        "CAPE VERDE", 
+                        "CONGO", 
+                        "GAMBIA", 
+                        "MALAWI", 
+                        "GUINEA", 
+                        "NIGER", 
+                        "RWANDA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "MALI", 
+                        "ZAMBIA", 
+                        "BURUNDI", 
+                        "CHILE", 
+                        "TUVALU", 
+                        "NAMIBIA", 
+                        "SOUTH AFRICA", 
+                        "MAURITANIA", 
+                        "TIMOR-LESTE", 
+                        "CHRISTMAS ISLAND", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "SINGAPORE", 
+                        "BELGIUM", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "SAUDI ARABIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Nicaragua", 
+                "nameofficial": "Republic of Nicaragua"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 252, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 42, 
+            "target": 42, 
+            "value": 3
+        }, 
+        {
+            "source": 42, 
+            "target": 60, 
+            "value": 1
+        }, 
+        {
+            "source": 42, 
+            "target": 19, 
+            "value": 1
+        }, 
+        {
+            "source": 42, 
+            "target": 18, 
+            "value": 4
+        }, 
+        {
+            "source": 42, 
+            "target": 44, 
+            "value": 1
+        }, 
+        {
+            "source": 42, 
+            "target": 17, 
+            "value": 1
+        }, 
+        {
+            "source": 42, 
+            "target": 51, 
+            "value": 2
+        }, 
+        {
+            "source": 42, 
+            "target": 95, 
+            "value": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 42, 
+            "value": 4
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 42, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.82933373, 
+                    9.02165273
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 42, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "NIGERIA"
+                ], 
+                "genetictool": [
+                    "random amplified polymorphic DNA", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of vegetable science", 
+                "focalspecies": [
+                    "Crassocephalum crepidioides"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "crassocephalum crepidioides (benth) s. moore is an important african traditional leaf vegetable, but its production is very low and its existence threatened. an efficient and reproducible micropropagation protocol of c. crepidioides was developed from nodal stem segments of pot-grown plants. shoot induction was obtained on murashige and skoog (ms) medium supplemented with benzineamino purine (bap) alone and in combination with zeatin and naphthalene acetic acid (naa). elongated shoots successfully rooted on zeatin alone and in combination with indole butyric acid (iba). molecular stability of micropropagated plants was evaluated using random amplified polymorphic dna (rapd) markers. survival of nodal segments in micropropagation medium was greater than 70% in all treatments. the presence of plant growth regulators (pgrs) in ms medium influenced shoot formation, rooting, and number of shoots and roots per explant. the best shoot formation frequency (88.7%), number of shoots per explant (3.7), and shoot length (30 mm) were from a medium containing ms supplemented with 10 mg\u00b7l\u22121 bap, 15 mg\u00b7l\u22121 naa, and 1.5 mg\u00b7l\u22121 zeatin. frequency of root formation and survival of regenerated plants were greater on medium containing half-strength ms salt than medium fortified with full-strength ms salt. the best frequency of root formation (average 87.4%) and survival of regenerated plants (average 95.4%) were from media containing 6.0 mg\u00b7l\u22121 zeatin and 1.0\u20131.5 mg\u00b7l\u22121 iba and half-strength ms salt. micropropagated shoots with well-developed roots were acclimatized under greenhouse conditions in pots containing rich sandy loam soil (ph = 7.2). the rapd amplification products were monomorphic in micropropagated plants and similar to those of the mother plant. no polymorphism was detected, indicating genetic uniformity of micropropagated plants. this is the first report of micropropagation of c. crepidioides, which will facilitate in vitro mass propagation, conservation, and germplasm exchange of this endangered african vegetable. \u00a9 2017 taylor & francis group, llc.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "PAPUA NEW GUINEA", 
+                        "NEPAL", 
+                        "VIETNAM", 
+                        "INDONESIA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "UNITED STATES", 
+                        "DOMINICAN REPUBLIC", 
+                        "PHILIPPINES", 
+                        "SIERRA LEONE", 
+                        "JAPAN", 
+                        "MALAWI", 
+                        "KENYA", 
+                        "GUINEA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GHANA", 
+                        "BENIN", 
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "GABON", 
+                        "FIJI", 
+                        "GUAM", 
+                        "ZAMBIA", 
+                        "MADAGASCAR", 
+                        "ETHIOPIA", 
+                        "CAMBODIA", 
+                        "CONGO", 
+                        "VANUATU", 
+                        "NIGERIA", 
+                        "MOZAMBIQUE", 
+                        "CHRISTMAS ISLAND", 
+                        "SINGAPORE", 
+                        "MYANMAR", 
+                        "MALAYSIA", 
+                        "BRUNEI DARUSSALAM", 
+                        "THAILAND", 
+                        "INDIA", 
+                        "UGANDA", 
+                        "LIBERIA", 
+                        "SAO TOME AND PRINCIPE", 
+                        "SRI LANKA", 
+                        "BURUNDI", 
+                        "ZIMBABWE", 
+                        "SOUTH AFRICA", 
+                        "BHUTAN", 
+                        "PAKISTAN", 
+                        "TURKEY", 
+                        "BANGLADESH", 
+                        "TONGA", 
+                        "SWEDEN", 
+                        "ANGOLA", 
+                        "EQUATORIAL GUINEA", 
+                        "SPAIN", 
+                        "NEW ZEALAND", 
+                        "PUERTO RICO", 
+                        "FRENCH POLYNESIA", 
+                        "SAMOA", 
+                        "COOK ISLANDS", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "PALAU", 
+                        "TIMOR-LESTE", 
+                        "NORFOLK ISLAND", 
+                        "SENEGAL", 
+                        "WALLIS AND FUTUNA", 
+                        "JAMAICA", 
+                        "COSTA RICA", 
+                        "NIUE", 
+                        "AMERICAN SAMOA", 
+                        "TOGO", 
+                        "SWAZILAND", 
+                        "ARGENTINA", 
+                        "HONDURAS", 
+                        "R\u00c9UNION", 
+                        "YEMEN", 
+                        "SOLOMON ISLANDS", 
+                        "ERITREA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Nigeria", 
+                "nameofficial": "Federal Republic of Nigeria"
+            }
+        }, 
+        {
+            "index": 60, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    106.5460905, 
+                    4.97345793
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 60, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "TURKEY", 
+                    "TURKEY", 
+                    "MALAYSIA", 
+                    "TURKEY"
+                ], 
+                "genetictool": [
+                    "SSR", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of plant research", 
+                "focalspecies": [
+                    "Medicago truncatula"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "this paper covers studies on the molecular and ecological aspects of g. glabra var. glandulifera, g. flavescens ssp. flavescens and g. echinata collected from hatay (turkey); with the aim to better understand their genetic variation and ecological requirements for possible conservation programs. the material including total genomic dna was extracted by the ctab, and for pcr reaction, a total of 14 ssr primers developed for medicago truncatula were used. pcr amplifications were performed in a multigen\u00ae thermal cycler. soil samples were analysed for their texture, ph, total soluble salts, calcium carbonate, total n content, total phosphorus and organic matter content. in order to see the association between genetic, ecological and geographical data, a similarity matrix was generated. genetic similarity distances between genotypes were correlated with those of eucledian distances obtained from ecological and geographical data. analysis of molecular variance (amova) was performed using genalex 6.5 software to determine variation among and within genetic variations. the genetic analysis showed that the highest expected heterozygosity values were obtained from g. glabra while the lowest were obtained from g. echinata. in general heterozygosity values were low, especially for g. echinata. therefore, variation appears to be lower within each species than among three species. the physical and chemical analysis of soil and plant samples indicates that mineral accumulation in plants is substantially affected by the soil characteristics. there is a need for identification of better strategies for the improvement of varieties, especially for small farmers managing marginal soils. more studies should be conducted in order to safeguard these taxa, especially g. glabra var. glandulifera which is collected intensively due to its economic value, the same is true for endemic taxon g. flavescens ssp. flavescens. \u00a9 2016, the botanical society of japan and springer japan.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "SPAIN", 
+                        "FRANCE", 
+                        "CROATIA", 
+                        "GREECE", 
+                        "PORTUGAL", 
+                        "JORDAN", 
+                        "ITALY", 
+                        "CYPRUS", 
+                        "MOROCCO", 
+                        "LUXEMBOURG", 
+                        "ALGERIA", 
+                        "EGYPT", 
+                        "TUNISIA", 
+                        "DENMARK", 
+                        "ISRAEL", 
+                        "LEBANON", 
+                        "TURKEY", 
+                        "SAUDI ARABIA", 
+                        "UNITED STATES", 
+                        "GERMANY", 
+                        "CANADA", 
+                        "MALTA", 
+                        "ETHIOPIA", 
+                        "LIBYA", 
+                        "SWEDEN", 
+                        "TURKMENISTAN", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "AZERBAIJAN", 
+                        "AFGHANISTAN", 
+                        "ARGENTINA", 
+                        "UNITED KINGDOM", 
+                        "KENYA", 
+                        "NORWAY", 
+                        "POLAND", 
+                        "MONTENEGRO", 
+                        "IRAQ", 
+                        "HUNGARY", 
+                        "CZECH REPUBLIC", 
+                        "NETHERLANDS", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "URUGUAY", 
+                        "ARMENIA", 
+                        "PARAGUAY", 
+                        "RUSSIAN FEDERATION", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "SOUTH AFRICA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Malaysia", 
+                "nameofficial": "Malaysia"
+            }
+        }, 
+        {
+            "index": 19, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.50069228, 
+                    65.04680297
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 19, 
+            "score": 6, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM", 
+                    "NORWAY", 
+                    "NORWAY", 
+                    "NORWAY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ambio", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "climate change is likely to be one of the most important factors affecting our future food security. to mitigate negative impacts, we will require our crops to be more genetically diverse. such diversity is available in crop wild relatives (cwrs), the wild taxa relatively closely related to crops and from which diverse traits can be transferred to the crop. conservation of such genetic resources resides within the nation where they are found; therefore, national-level conservation recommendations are fundamental to global food security. we investigate the potential impact of climate change on cwr richness in norway. the consequences of a 1.5 and 3.0 \u00b0c temperature rise were studied for the years 2030, 2050, 2070, 2080 and then compared to the present climate. the results indicate a pattern of shifting cwr richness from the south to the north, with increases in taxa turnover and in the numbers of threatened taxa. recommendations for in situ and ex situ conservation actions over the short and long term for the priority cwrs in norway are presented. the methods and recommendations developed here can be applied within other nations and at regional and global levels to improve the effectiveness of conservation actions and help ensure global food security. \u00a9 2017 royal swedish academy of sciences", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Norway", 
+                "nameofficial": "Kingdom of Norway"
+            }
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 18, 
+            "score": 248, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 44, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    137.67066061, 
+                    37.51848822
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 44, 
+            "score": 41, 
+            "data": {
+                "authorsCOO": [
+                    "JAPAN", 
+                    "JAPAN", 
+                    "JAPAN", 
+                    "JAPAN"
+                ], 
+                "genetictool": [
+                    "microsatellite"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of plant research", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "nuphar submersa (nymphaeaceae) is a critically endangered freshwater macrophyte indigenous to central japan, with only four small extant populations represented across its entire range. we investigated the genotypic and genetic diversity as well as the genetic structure of all extant individuals of n. submersa based on analysis of 15 microsatellite loci. among 278 individual ramets, 52 multilocus genotypes were detected: 30 genotypes in nikko city (nik), 18 in nasukarasuyama city (nas), 3 in mooka city (mok), and 1 in sakura city (sak). the average number of alleles per locus ranged from 1.20 to 1.93, whereas the observed and expected heterozygosities ranged from 0.11 to 0.33 and from 0.10 to 0.24, respectively. with the exception of sak, all populations contained multiple clones, but our results indicated low levels of within-population genetic diversity. the populations nik and nas comprised few large or middle-sized genets and many small genets. the populations nik and nas were suggested to comprise large old, old fragmented, and/or young small genets resulting from seedling establishment. all four populations were differentiated, and gene flow between the populations was restricted (average level of gene flow (nm)\u00a0=\u00a00.122, g\u2019st =\u00a00.639). of the total genetic diversity, 67.20 and 9.13% were attributable to inter- and intra-population diversity, respectively. structure analysis revealed two or three well-differentiated groups of populations. cluster i comprised one population (nik) and cluster ii comprised the remaining populations at k\u00a0=\u00a02. the populations nik, nas, and the remaining populations were assigned to clusters i, ii, and iii, respectively, at k\u00a0=\u00a03. for conservation practices, we recommend that each cluster be regarded as a different management unit. we further suggest that artificial gene flow among mok and sak populations is an appropriate option, whereas nik should not be reinforced with genotypes from the remaining populations. \u00a9 2016, the botanical society of japan and springer japan.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Japan", 
+                "nameofficial": "Japan"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 372, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "applied energy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "it is challenging and interesting to establish a precise dynamic model of an otb (once-through boiler) power plant unit in order to meet large scale load demands from the power grid. this study proposes to establish such a dynamic mathematical model of an ultra-supercritical otb unit under dry operating conditions. more precisely, the dynamic model structure was derived from mass and energy conservation laws as well as thermodynamic principles under some reasonable simplifications and assumptions. then an iga (immune genetic algorithm) was improved to identify the parameters, combined with running data. after this, to further enhance model performance, the dynamic mathematical model was extended to be the one with different sets of parameters and functions under different monotonous load ranges. additionally, open- and closed-loop experiments were conducted in order to further validate the developed model. the experimental results show that the model outputs can approach the actual running data over a wide operating range with appropriate accuracy. more importantly, the dynamic model captures the essential dynamic characteristics of the unit. therefore, the model can be feasible and applicable for simulation analysis and testing control algorithms. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 51, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.29234904, 
+                    7.69154199
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 51, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "GHANA", 
+                    "GHANA", 
+                    "BENIN"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genetic resources and crop evolution", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "neglected and underutilized crop species (nus) are important genetic resources for nutrition, food security, medicine, management of agricultural risk and income generation for rural communities in ghana. little is known about their diversity, farmers\u2019 management practices and safety of nus conserved on-farm while these are prerequisites for developing strategic action plans to ensure their conservation and thus their continued utilization. this study was designed to (1) assess the diversity, forms of consumption and management practices of nus in ghana, (2) investigate constraints of on-farm conservation of nus and the linkage between cultural practices in traditional farming systems and the safety of the nus conserved on-farm in ghana. a survey involving 1800 respondents was carried out in nine (9) farming villages of ghana using participatory research appraisal tools. seventy-two nus species were identified on farmers\u2019 field. the grouping of these species into major commodity crops suggests high diversity of nus genetic resources in ghana which could be used to further enhance nutrition and food security. the high market value of some of the nus species suggest that they are well known and consumed. mass use of systemic weedicides by farmers, activities of herdsmen and lack of knowledge on conservation of seeds and tubers are the main factors reported by farmers as the cause of genetic erosion of nus on their farms. these findings create an urgency to collect and conserve genetic resources of nus in ghana to promote their utilization and breeding of improved varieties. \u00a9 2015, springer science+business media dordrecht.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Ghana", 
+                "nameofficial": "Republic of Ghana"
+            }
+        }, 
+        {
+            "index": 95, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.82270352, 
+                    12.91806226
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 95, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "NIGERIA", 
+                    "GHANA", 
+                    "GHANA", 
+                    "UNITED STATES", 
+                    "NICARAGUA", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [
+                    "single nucleotide polymorphism", 
+                    "SNP", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "bmc genetics", 
+                "focalspecies": [
+                    "Manihot esculenta"
+                ], 
+                "fundingCOO": [], 
+                "year": 2015, 
+                "abstracttext": "background: accurate identification of crop cultivars is crucial in assessing the impact of crop improvement research outputs. two commonly used identification approaches, elicitation of variety names from farmer interviews and morphological plant descriptors, have inherent uncertainty levels. genotyping-by-sequencing (gbs) was used in a case study as an alternative method to track released varieties in farmers' fields, using cassava, a clonally propagated root crop widely grown in the tropics, and often disseminated through extension services and informal seed systems. a total of 917 accessions collected from 495 farming households across ghana were genotyped at 56,489 snp loci along with a \"reference library\" of 64 accessions of released varieties and popular landraces. results: accurate cultivar identification and ancestry estimation was accomplished through two complementary clustering methods: (i) distance-based hierarchical clustering; and (ii) model-based maximum likelihood admixture analysis. subsequently, 30 % of the identified accessions from farmers' fields were matched to specific released varieties represented in the reference library. admixture analysis revealed that the optimum number of major varieties was 11 and matched the hierarchical clustering results. the majority of the accessions (69 %) belonged purely to one of the 11 groups, while the remaining accessions showed two or more ancestries. further analysis using subsets of snp markers reproduced results obtained from the full-set of markers, suggesting that gbs can be done at higher dna multiplexing, thereby reducing the costs of variety fingerprinting. a large proportion of discrepancy between genetically unique cultivars as identified by markers and variety names as elicited from farmers were observed. clustering results from admixture analysis was validated using the assumption-free discriminant analysis of principal components (dapc) method. conclusion: we show that genome-wide snp markers from increasingly affordable gbs methods coupled with complementary cluster analysis is a powerful tool for fine-scale population structure analysis and variety identification. moreover, the ancestry estimation provides a framework for quantifying the contribution of exotic germplasm or older improved varieties to the genetic background of contemporary improved cultivars. \u00a9 2015 rabbi et al.", 
+                "focalspeciesCOO": [
+                    [
+                        "BRAZIL", 
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "PARAGUAY", 
+                        "JAMAICA", 
+                        "PALAU", 
+                        "JAPAN", 
+                        "CHINA", 
+                        "MARTINIQUE", 
+                        "GUATEMALA", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "COLOMBIA", 
+                        "FRENCH POLYNESIA", 
+                        "SRI LANKA", 
+                        "HONDURAS", 
+                        "ECUADOR", 
+                        "NEW CALEDONIA", 
+                        "PERU", 
+                        "COSTA RICA", 
+                        "ANGOLA", 
+                        "LIBERIA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GABON", 
+                        "TOGO", 
+                        "ETHIOPIA", 
+                        "BENIN", 
+                        "GHANA", 
+                        "CAMEROON", 
+                        "SIERRA LEONE", 
+                        "INDONESIA", 
+                        "TRINIDAD AND TOBAGO", 
+                        "UNITED STATES", 
+                        "SURINAME", 
+                        "PAPUA NEW GUINEA", 
+                        "BRUNEI DARUSSALAM", 
+                        "MALAYSIA", 
+                        "PHILIPPINES", 
+                        "INDIA", 
+                        "POLAND", 
+                        "EQUATORIAL GUINEA", 
+                        "THAILAND", 
+                        "SOLOMON ISLANDS", 
+                        "CHAD", 
+                        "SWEDEN", 
+                        "GUYANA", 
+                        "FIJI", 
+                        "TONGA", 
+                        "COOK ISLANDS", 
+                        "SAMOA", 
+                        "NIUE", 
+                        "AMERICAN SAMOA", 
+                        "WALLIS AND FUTUNA", 
+                        "KIRIBATI", 
+                        "PITCAIRN", 
+                        "NIGERIA", 
+                        "BURKINA FASO", 
+                        "SAO TOME AND PRINCIPE", 
+                        "ARGENTINA", 
+                        "EL SALVADOR", 
+                        "PANAMA", 
+                        "PUERTO RICO", 
+                        "MADAGASCAR", 
+                        "R\u00c9UNION", 
+                        "CUBA", 
+                        "AFGHANISTAN", 
+                        "MOZAMBIQUE", 
+                        "FRENCH GUIANA", 
+                        "VIETNAM", 
+                        "GERMANY", 
+                        "BARBADOS", 
+                        "MAYOTTE", 
+                        "UNITED STATES MINOR OUTLYING ISLANDS", 
+                        "BELIZE", 
+                        "NEW ZEALAND", 
+                        "GUADELOUPE", 
+                        "BAHAMAS", 
+                        "CAYMAN ISLANDS", 
+                        "DOMINICAN REPUBLIC", 
+                        "HAITI", 
+                        "BERMUDA", 
+                        "GUAM", 
+                        "PORTUGAL", 
+                        "YEMEN", 
+                        "MAURITIUS", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "NICARAGUA", 
+                        "MALDIVES", 
+                        "KENYA", 
+                        "UGANDA", 
+                        "CAPE VERDE", 
+                        "CONGO", 
+                        "GAMBIA", 
+                        "MALAWI", 
+                        "GUINEA", 
+                        "NIGER", 
+                        "RWANDA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "MALI", 
+                        "ZAMBIA", 
+                        "BURUNDI", 
+                        "CHILE", 
+                        "TUVALU", 
+                        "NAMIBIA", 
+                        "SOUTH AFRICA", 
+                        "MAURITANIA", 
+                        "TIMOR-LESTE", 
+                        "CHRISTMAS ISLAND", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "SINGAPORE", 
+                        "BELGIUM", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "SAUDI ARABIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Nicaragua", 
+                "nameofficial": "Republic of Nicaragua"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 67, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 42, 
+            "target": 42, 
+            "value": 3
+        }, 
+        {
+            "source": 42, 
+            "target": 60, 
+            "value": 1
+        }, 
+        {
+            "source": 42, 
+            "target": 19, 
+            "value": 1
+        }, 
+        {
+            "source": 42, 
+            "target": 18, 
+            "value": 3
+        }, 
+        {
+            "source": 42, 
+            "target": 44, 
+            "value": 1
+        }, 
+        {
+            "source": 42, 
+            "target": 17, 
+            "value": 1
+        }, 
+        {
+            "source": 42, 
+            "target": 51, 
+            "value": 2
+        }, 
+        {
+            "source": 42, 
+            "target": 95, 
+            "value": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 42, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 42, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.82933373, 
+                    9.02165273
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 42, 
+            "score": 7, 
+            "data": {
+                "authorsCOO": [
+                    "NIGERIA"
+                ], 
+                "genetictool": [
+                    "random amplified polymorphic DNA", 
+                    "RAPD", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "international journal of vegetable science", 
+                "focalspecies": [
+                    "Crassocephalum crepidioides"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "crassocephalum crepidioides (benth) s. moore is an important african traditional leaf vegetable, but its production is very low and its existence threatened. an efficient and reproducible micropropagation protocol of c. crepidioides was developed from nodal stem segments of pot-grown plants. shoot induction was obtained on murashige and skoog (ms) medium supplemented with benzineamino purine (bap) alone and in combination with zeatin and naphthalene acetic acid (naa). elongated shoots successfully rooted on zeatin alone and in combination with indole butyric acid (iba). molecular stability of micropropagated plants was evaluated using random amplified polymorphic dna (rapd) markers. survival of nodal segments in micropropagation medium was greater than 70% in all treatments. the presence of plant growth regulators (pgrs) in ms medium influenced shoot formation, rooting, and number of shoots and roots per explant. the best shoot formation frequency (88.7%), number of shoots per explant (3.7), and shoot length (30 mm) were from a medium containing ms supplemented with 10 mg\u00b7l\u22121 bap, 15 mg\u00b7l\u22121 naa, and 1.5 mg\u00b7l\u22121 zeatin. frequency of root formation and survival of regenerated plants were greater on medium containing half-strength ms salt than medium fortified with full-strength ms salt. the best frequency of root formation (average 87.4%) and survival of regenerated plants (average 95.4%) were from media containing 6.0 mg\u00b7l\u22121 zeatin and 1.0\u20131.5 mg\u00b7l\u22121 iba and half-strength ms salt. micropropagated shoots with well-developed roots were acclimatized under greenhouse conditions in pots containing rich sandy loam soil (ph = 7.2). the rapd amplification products were monomorphic in micropropagated plants and similar to those of the mother plant. no polymorphism was detected, indicating genetic uniformity of micropropagated plants. this is the first report of micropropagation of c. crepidioides, which will facilitate in vitro mass propagation, conservation, and germplasm exchange of this endangered african vegetable. \u00a9 2017 taylor & francis group, llc.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "PAPUA NEW GUINEA", 
+                        "NEPAL", 
+                        "VIETNAM", 
+                        "INDONESIA", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "UNITED STATES", 
+                        "DOMINICAN REPUBLIC", 
+                        "PHILIPPINES", 
+                        "SIERRA LEONE", 
+                        "JAPAN", 
+                        "MALAWI", 
+                        "KENYA", 
+                        "GUINEA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GHANA", 
+                        "BENIN", 
+                        "CAMEROON", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "GABON", 
+                        "FIJI", 
+                        "GUAM", 
+                        "ZAMBIA", 
+                        "MADAGASCAR", 
+                        "ETHIOPIA", 
+                        "CAMBODIA", 
+                        "CONGO", 
+                        "VANUATU", 
+                        "NIGERIA", 
+                        "MOZAMBIQUE", 
+                        "CHRISTMAS ISLAND", 
+                        "SINGAPORE", 
+                        "MYANMAR", 
+                        "MALAYSIA", 
+                        "BRUNEI DARUSSALAM", 
+                        "THAILAND", 
+                        "INDIA", 
+                        "UGANDA", 
+                        "LIBERIA", 
+                        "SAO TOME AND PRINCIPE", 
+                        "SRI LANKA", 
+                        "BURUNDI", 
+                        "ZIMBABWE", 
+                        "SOUTH AFRICA", 
+                        "BHUTAN", 
+                        "PAKISTAN", 
+                        "TURKEY", 
+                        "BANGLADESH", 
+                        "TONGA", 
+                        "SWEDEN", 
+                        "ANGOLA", 
+                        "EQUATORIAL GUINEA", 
+                        "SPAIN", 
+                        "NEW ZEALAND", 
+                        "PUERTO RICO", 
+                        "FRENCH POLYNESIA", 
+                        "SAMOA", 
+                        "COOK ISLANDS", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "PALAU", 
+                        "TIMOR-LESTE", 
+                        "NORFOLK ISLAND", 
+                        "SENEGAL", 
+                        "WALLIS AND FUTUNA", 
+                        "JAMAICA", 
+                        "COSTA RICA", 
+                        "NIUE", 
+                        "AMERICAN SAMOA", 
+                        "TOGO", 
+                        "SWAZILAND", 
+                        "ARGENTINA", 
+                        "HONDURAS", 
+                        "R\u00c9UNION", 
+                        "YEMEN", 
+                        "SOLOMON ISLANDS", 
+                        "ERITREA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Nigeria", 
+                "nameofficial": "Federal Republic of Nigeria"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 328, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "applied energy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "it is challenging and interesting to establish a precise dynamic model of an otb (once-through boiler) power plant unit in order to meet large scale load demands from the power grid. this study proposes to establish such a dynamic mathematical model of an ultra-supercritical otb unit under dry operating conditions. more precisely, the dynamic model structure was derived from mass and energy conservation laws as well as thermodynamic principles under some reasonable simplifications and assumptions. then an iga (immune genetic algorithm) was improved to identify the parameters, combined with running data. after this, to further enhance model performance, the dynamic mathematical model was extended to be the one with different sets of parameters and functions under different monotonous load ranges. additionally, open- and closed-loop experiments were conducted in order to further validate the developed model. the experimental results show that the model outputs can approach the actual running data over a wide operating range with appropriate accuracy. more importantly, the dynamic model captures the essential dynamic characteristics of the unit. therefore, the model can be feasible and applicable for simulation analysis and testing control algorithms. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 18, 
+            "score": 301, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 78, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 18, 
+            "score": 301, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 42, 
+            "target": 42, 
+            "value": 3
+        }, 
+        {
+            "source": 17, 
+            "target": 42, 
+            "value": 1
+        }, 
+        {
+            "source": 18, 
+            "target": 42, 
+            "value": 1
+        }, 
+        {
+            "source": 42, 
+            "target": 1, 
+            "value": 4
+        }, 
+        {
+            "source": 42, 
+            "target": 18, 
+            "value": 1
+        }
+    ]
+}
+]

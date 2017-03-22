@@ -1,0 +1,485 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 109, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    51.2443148, 
+                    25.24551555
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 109, 
+            "score": 5, 
+            "data": {
+                "authorsCOO": [
+                    "QATAR", 
+                    "GERMANY", 
+                    "QATAR", 
+                    "QATAR", 
+                    "QATAR", 
+                    "QATAR"
+                ], 
+                "genetictool": [
+                    "genetic marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "bmc genomics", 
+                "focalspecies": [
+                    "Phoenix dactylifera"
+                ], 
+                "fundingCOO": [], 
+                "year": 2014, 
+                "abstracttext": "background: the date palm is one of the oldest cultivated fruit trees. it is critical in many ways to cultures in arid lands by providing highly nutritious fruit while surviving extreme heat and environmental conditions. despite its importance from antiquity, few genetic resources are available for improving the productivity and development of the dioecious date palm. to date there has been no genetic map and no sex chromosome has been identified.results: here we present the first genetic map for date palm and identify the putative date palm sex chromosome. we placed ~4000 markers on the map using nearly 1200 framework markers spanning a total of 1293 cm. we have integrated the genetic map, derived from the khalas cultivar, with the draft genome and placed up to 19% of the draft genome sequence scaffolds onto linkage groups for the first time. this analysis revealed approximately ~1.9 cm/mb on the map. comparison of the date palm linkage groups revealed significant long-range synteny to oil palm. analysis of the date palm sex-determination region suggests it is telomeric on linkage group 12 and recombination is not suppressed in the full chromosome.conclusions: based on a modified gentoyping-by-sequencing approach we have overcome challenges due to lack of genetic resources and provide the first genetic map for date palm. combined with the recent draft genome sequence of the same cultivar, this resource offers a critical new tool for date palm biotechnology, palm comparative genomics and a better understanding of sex chromosome development in the palms. \u00a9 2014 mathew et al.; licensee biomed central ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "UNITED KINGDOM", 
+                        "DOMINICAN REPUBLIC", 
+                        "JAMAICA", 
+                        "FRANCE", 
+                        "SPAIN", 
+                        "JORDAN", 
+                        "ALGERIA", 
+                        "LUXEMBOURG", 
+                        "ERITREA", 
+                        "SRI LANKA", 
+                        "EGYPT", 
+                        "CAPE VERDE", 
+                        "IRAQ", 
+                        "ETHIOPIA", 
+                        "NETHERLANDS", 
+                        "SAUDI ARABIA", 
+                        "UNITED ARAB EMIRATES", 
+                        "BAHRAIN", 
+                        "ISRAEL", 
+                        "FIJI", 
+                        "OMAN", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "FRENCH POLYNESIA", 
+                        "CUBA", 
+                        "PITCAIRN", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "CHINA", 
+                        "PORTUGAL", 
+                        "MEXICO", 
+                        "LIBYA", 
+                        "BURKINA FASO", 
+                        "AUSTRALIA", 
+                        "NEW ZEALAND", 
+                        "PARAGUAY", 
+                        "PUERTO RICO", 
+                        "LEBANON", 
+                        "EL SALVADOR", 
+                        "SUDAN", 
+                        "AFGHANISTAN", 
+                        "CYPRUS", 
+                        "NORWAY", 
+                        "CURA\u00c7AO", 
+                        "MAURITIUS", 
+                        "POLAND", 
+                        "PAKISTAN", 
+                        "INDIA", 
+                        "GUATEMALA", 
+                        "JAPAN", 
+                        "GERMANY", 
+                        "ITALY", 
+                        "GREECE", 
+                        "RUSSIAN FEDERATION", 
+                        "YEMEN", 
+                        "SOUTH AFRICA", 
+                        "CHAD", 
+                        "BELGIUM", 
+                        "MAURITANIA", 
+                        "NIGER", 
+                        "THAILAND", 
+                        "DENMARK", 
+                        "R\u00c9UNION", 
+                        "QATAR", 
+                        "NAMIBIA", 
+                        "TURKEY", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "NIUE", 
+                        "BENIN"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Qatar", 
+                "nameofficial": "State of Qatar"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 252, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 109, 
+            "target": 2, 
+            "value": 5
+        }, 
+        {
+            "source": 109, 
+            "target": 109, 
+            "value": 10
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 109, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    51.2443148, 
+                    25.24551555
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 109, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "QATAR", 
+                    "GERMANY", 
+                    "QATAR", 
+                    "QATAR", 
+                    "QATAR", 
+                    "QATAR"
+                ], 
+                "genetictool": [
+                    "genetic marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "bmc genomics", 
+                "focalspecies": [
+                    "Phoenix dactylifera"
+                ], 
+                "fundingCOO": [], 
+                "year": 2014, 
+                "abstracttext": "background: the date palm is one of the oldest cultivated fruit trees. it is critical in many ways to cultures in arid lands by providing highly nutritious fruit while surviving extreme heat and environmental conditions. despite its importance from antiquity, few genetic resources are available for improving the productivity and development of the dioecious date palm. to date there has been no genetic map and no sex chromosome has been identified.results: here we present the first genetic map for date palm and identify the putative date palm sex chromosome. we placed ~4000 markers on the map using nearly 1200 framework markers spanning a total of 1293 cm. we have integrated the genetic map, derived from the khalas cultivar, with the draft genome and placed up to 19% of the draft genome sequence scaffolds onto linkage groups for the first time. this analysis revealed approximately ~1.9 cm/mb on the map. comparison of the date palm linkage groups revealed significant long-range synteny to oil palm. analysis of the date palm sex-determination region suggests it is telomeric on linkage group 12 and recombination is not suppressed in the full chromosome.conclusions: based on a modified gentoyping-by-sequencing approach we have overcome challenges due to lack of genetic resources and provide the first genetic map for date palm. combined with the recent draft genome sequence of the same cultivar, this resource offers a critical new tool for date palm biotechnology, palm comparative genomics and a better understanding of sex chromosome development in the palms. \u00a9 2014 mathew et al.; licensee biomed central ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "UNITED KINGDOM", 
+                        "DOMINICAN REPUBLIC", 
+                        "JAMAICA", 
+                        "FRANCE", 
+                        "SPAIN", 
+                        "JORDAN", 
+                        "ALGERIA", 
+                        "LUXEMBOURG", 
+                        "ERITREA", 
+                        "SRI LANKA", 
+                        "EGYPT", 
+                        "CAPE VERDE", 
+                        "IRAQ", 
+                        "ETHIOPIA", 
+                        "NETHERLANDS", 
+                        "SAUDI ARABIA", 
+                        "UNITED ARAB EMIRATES", 
+                        "BAHRAIN", 
+                        "ISRAEL", 
+                        "FIJI", 
+                        "OMAN", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "FRENCH POLYNESIA", 
+                        "CUBA", 
+                        "PITCAIRN", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "CHINA", 
+                        "PORTUGAL", 
+                        "MEXICO", 
+                        "LIBYA", 
+                        "BURKINA FASO", 
+                        "AUSTRALIA", 
+                        "NEW ZEALAND", 
+                        "PARAGUAY", 
+                        "PUERTO RICO", 
+                        "LEBANON", 
+                        "EL SALVADOR", 
+                        "SUDAN", 
+                        "AFGHANISTAN", 
+                        "CYPRUS", 
+                        "NORWAY", 
+                        "CURA\u00c7AO", 
+                        "MAURITIUS", 
+                        "POLAND", 
+                        "PAKISTAN", 
+                        "INDIA", 
+                        "GUATEMALA", 
+                        "JAPAN", 
+                        "GERMANY", 
+                        "ITALY", 
+                        "GREECE", 
+                        "RUSSIAN FEDERATION", 
+                        "YEMEN", 
+                        "SOUTH AFRICA", 
+                        "CHAD", 
+                        "BELGIUM", 
+                        "MAURITANIA", 
+                        "NIGER", 
+                        "THAILAND", 
+                        "DENMARK", 
+                        "R\u00c9UNION", 
+                        "QATAR", 
+                        "NAMIBIA", 
+                        "TURKEY", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "NIUE", 
+                        "BENIN"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Qatar", 
+                "nameofficial": "State of Qatar"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 67, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 109, 
+            "target": 2, 
+            "value": 1
+        }, 
+        {
+            "source": 109, 
+            "target": 109, 
+            "value": 4
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 109, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    51.2443148, 
+                    25.24551555
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 109, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "QATAR", 
+                    "GERMANY", 
+                    "QATAR", 
+                    "QATAR", 
+                    "QATAR", 
+                    "QATAR"
+                ], 
+                "genetictool": [
+                    "genetic marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "bmc genomics", 
+                "focalspecies": [
+                    "Phoenix dactylifera"
+                ], 
+                "fundingCOO": [], 
+                "year": 2014, 
+                "abstracttext": "background: the date palm is one of the oldest cultivated fruit trees. it is critical in many ways to cultures in arid lands by providing highly nutritious fruit while surviving extreme heat and environmental conditions. despite its importance from antiquity, few genetic resources are available for improving the productivity and development of the dioecious date palm. to date there has been no genetic map and no sex chromosome has been identified.results: here we present the first genetic map for date palm and identify the putative date palm sex chromosome. we placed ~4000 markers on the map using nearly 1200 framework markers spanning a total of 1293 cm. we have integrated the genetic map, derived from the khalas cultivar, with the draft genome and placed up to 19% of the draft genome sequence scaffolds onto linkage groups for the first time. this analysis revealed approximately ~1.9 cm/mb on the map. comparison of the date palm linkage groups revealed significant long-range synteny to oil palm. analysis of the date palm sex-determination region suggests it is telomeric on linkage group 12 and recombination is not suppressed in the full chromosome.conclusions: based on a modified gentoyping-by-sequencing approach we have overcome challenges due to lack of genetic resources and provide the first genetic map for date palm. combined with the recent draft genome sequence of the same cultivar, this resource offers a critical new tool for date palm biotechnology, palm comparative genomics and a better understanding of sex chromosome development in the palms. \u00a9 2014 mathew et al.; licensee biomed central ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "UNITED KINGDOM", 
+                        "DOMINICAN REPUBLIC", 
+                        "JAMAICA", 
+                        "FRANCE", 
+                        "SPAIN", 
+                        "JORDAN", 
+                        "ALGERIA", 
+                        "LUXEMBOURG", 
+                        "ERITREA", 
+                        "SRI LANKA", 
+                        "EGYPT", 
+                        "CAPE VERDE", 
+                        "IRAQ", 
+                        "ETHIOPIA", 
+                        "NETHERLANDS", 
+                        "SAUDI ARABIA", 
+                        "UNITED ARAB EMIRATES", 
+                        "BAHRAIN", 
+                        "ISRAEL", 
+                        "FIJI", 
+                        "OMAN", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "FRENCH POLYNESIA", 
+                        "CUBA", 
+                        "PITCAIRN", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "CHINA", 
+                        "PORTUGAL", 
+                        "MEXICO", 
+                        "LIBYA", 
+                        "BURKINA FASO", 
+                        "AUSTRALIA", 
+                        "NEW ZEALAND", 
+                        "PARAGUAY", 
+                        "PUERTO RICO", 
+                        "LEBANON", 
+                        "EL SALVADOR", 
+                        "SUDAN", 
+                        "AFGHANISTAN", 
+                        "CYPRUS", 
+                        "NORWAY", 
+                        "CURA\u00c7AO", 
+                        "MAURITIUS", 
+                        "POLAND", 
+                        "PAKISTAN", 
+                        "INDIA", 
+                        "GUATEMALA", 
+                        "JAPAN", 
+                        "GERMANY", 
+                        "ITALY", 
+                        "GREECE", 
+                        "RUSSIAN FEDERATION", 
+                        "YEMEN", 
+                        "SOUTH AFRICA", 
+                        "CHAD", 
+                        "BELGIUM", 
+                        "MAURITANIA", 
+                        "NIGER", 
+                        "THAILAND", 
+                        "DENMARK", 
+                        "R\u00c9UNION", 
+                        "QATAR", 
+                        "NAMIBIA", 
+                        "TURKEY", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "NIUE", 
+                        "BENIN"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Qatar", 
+                "nameofficial": "State of Qatar"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 78, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 109, 
+            "target": 1, 
+            "value": 1
+        }, 
+        {
+            "source": 109, 
+            "target": 109, 
+            "value": 4
+        }
+    ]
+}
+]

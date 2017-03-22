@@ -1,0 +1,541 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 110, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.75444978, 
+                    43.7046362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 110, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "SAUDI ARABIA", 
+                    "UNITED KINGDOM", 
+                    "MONACO"
+                ], 
+                "genetictool": [
+                    "RNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2014, 
+                "abstracttext": "coral reefs are major contributors to marine biodiversity. however, they are in rapid decline due to global environmental changes such as rising sea surface temperatures, ocean acidification, and pollution. genomic and transcriptomic analyses have broadened our understanding of coral biology, but a study of the microrna (mirna) repertoire of corals is missing. mirnas constitute a class of small non-coding rnas of \u223c22 nt in size that play crucial roles in development, metabolism, and stress response in plants and animals alike. in this study, we examined the coral stylophora pistillata for the presence of mirnas and the corresponding core protein machinery required for their processing and function. based on small rna sequencing, we present evidence for 31 bona fide micrornas, 5 of which (mir-100, mir-2022, mir-2023, mir-2030, and mir-2036) are conserved in other metazoans. homologues of argonaute, piwi, dicer, drosha, pasha, and hen1 were identified in the transcriptome of s. pistillata based on strong sequence conservation with known rnai proteins, with additional support derived from phylogenetic trees. examination of putative mirna gene targets indicates potential roles in development, metabolism, immunity, and biomineralisation for several of the micrornas. here, we present first evidence of a functional rnai machinery and five conserved mirnas in s. pistillata , implying that mirnas play a role in organismal biology of scleractinian corals. analysis of predicted mirna target genes in s. pistillata suggests potential roles of mirnas in symbiosis and coral calcification. given the importance of mirnas in regulating gene expression in other metazoans, further expression analyses of small non-coding rnas in transcriptional studies of corals should be informative about mirna-affected processes and pathways. \u00a9 2014 liew et al.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Monaco", 
+                "nameofficial": "Principality of Monaco"
+            }
+        }, 
+        {
+            "index": 10, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    42.88190638, 
+                    24.16687314
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 10, 
+            "score": 20, 
+            "data": {
+                "authorsCOO": [
+                    "SAUDI ARABIA", 
+                    "INDIA", 
+                    "SAUDI ARABIA"
+                ], 
+                "genetictool": [
+                    "ISSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of horticultural science and biotechnology", 
+                "focalspecies": [
+                    "Vitex trifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "in the present study we have developed an efficient and effective method of synthetic seed production and its two-way germination system of vitex trifolia, for easy transport of the propagules and efficient utilization of its in vitro regeneration system. nodal segments harvested from 8-week-old in vitro cultures were encapsulated in calcium alginate beads. three percent (w/v) na-alginate polymerized in 100\u00a0mmol/l cacl2.2h2o for 30\u00a0min produced clear and uniform beads. germination of encapsulated beads with shoot and roots was achieved on murashige and skoog (ms) medium augmented with 6-furfurylaminopurine (kn, 2.5\u00a0\u00b5mol/l) + \u03b1-naphthalene acetic acid (naa, 1.0\u00a0\u00b5mol/l). for multiple shoot production, synseeds were incubated on 6-benzyladenine (ba, 5.0\u00a0\u00b5mol/l) + naa (0.5\u00a0\u00b5mol/l) augmented ms medium followed by in vitro rooting on ms + indole-3-butyric acid (iba, 1.0\u00a0\u00b5mol/l). the synseeds produced retained about 90% regeneration potential even after 4\u00a0weeks of storage at 4\u00b0c. genetic stability of the regenerated plants was evaluated using 13 inter simple sequence repeats (issr) primers. the study thus provides an efficient system for production of synthetic seeds, their storage and subsequent conversion into genetically identical plants. \u00a9 2016 the journal of horticultural science & biotechnology trust.", 
+                "focalspeciesCOO": [
+                    [
+                        "MYANMAR", 
+                        "AUSTRALIA", 
+                        "PAPUA NEW GUINEA", 
+                        "MALAYSIA", 
+                        "UNITED STATES", 
+                        "FIJI", 
+                        "CHINA", 
+                        "SOLOMON ISLANDS", 
+                        "VANUATU", 
+                        "NEW CALEDONIA", 
+                        "INDONESIA", 
+                        "SAMOA", 
+                        "GUAM", 
+                        "PALAU", 
+                        "SRI LANKA", 
+                        "PAKISTAN", 
+                        "MACAO", 
+                        "TIMOR-LESTE", 
+                        "PHILIPPINES", 
+                        "MAURITIUS", 
+                        "BAHAMAS", 
+                        "JAPAN", 
+                        "THAILAND", 
+                        "MEXICO", 
+                        "WALLIS AND FUTUNA", 
+                        "COMOROS", 
+                        "FRENCH POLYNESIA", 
+                        "R\u00c9UNION", 
+                        "SEYCHELLES", 
+                        "BRAZIL", 
+                        "SINGAPORE", 
+                        "INDIA", 
+                        "NEPAL", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "TONGA", 
+                        "AMERICAN SAMOA", 
+                        "MARSHALL ISLANDS", 
+                        "COOK ISLANDS", 
+                        "NIUE", 
+                        "HONG KONG", 
+                        "CHRISTMAS ISLAND", 
+                        "GABON", 
+                        "PERU", 
+                        "MADAGASCAR", 
+                        "EL SALVADOR", 
+                        "NICARAGUA", 
+                        "MAYOTTE", 
+                        "COSTA RICA", 
+                        "GEORGIA", 
+                        "VIETNAM", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "BRUNEI DARUSSALAM", 
+                        "SOUTH AFRICA", 
+                        "JAMAICA", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "FRANCE", 
+                        "CAMBODIA", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Saudi Arabia", 
+                "nameofficial": "Kingdom of Saudi Arabia"
+            }
+        }, 
+        {
+            "index": 15, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 15, 
+            "score": 233, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 10, 
+            "target": 110, 
+            "value": 1
+        }, 
+        {
+            "source": 15, 
+            "target": 110, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 110, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.75444978, 
+                    43.7046362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 110, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "SAUDI ARABIA", 
+                    "UNITED KINGDOM", 
+                    "MONACO"
+                ], 
+                "genetictool": [
+                    "RNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2014, 
+                "abstracttext": "coral reefs are major contributors to marine biodiversity. however, they are in rapid decline due to global environmental changes such as rising sea surface temperatures, ocean acidification, and pollution. genomic and transcriptomic analyses have broadened our understanding of coral biology, but a study of the microrna (mirna) repertoire of corals is missing. mirnas constitute a class of small non-coding rnas of \u223c22 nt in size that play crucial roles in development, metabolism, and stress response in plants and animals alike. in this study, we examined the coral stylophora pistillata for the presence of mirnas and the corresponding core protein machinery required for their processing and function. based on small rna sequencing, we present evidence for 31 bona fide micrornas, 5 of which (mir-100, mir-2022, mir-2023, mir-2030, and mir-2036) are conserved in other metazoans. homologues of argonaute, piwi, dicer, drosha, pasha, and hen1 were identified in the transcriptome of s. pistillata based on strong sequence conservation with known rnai proteins, with additional support derived from phylogenetic trees. examination of putative mirna gene targets indicates potential roles in development, metabolism, immunity, and biomineralisation for several of the micrornas. here, we present first evidence of a functional rnai machinery and five conserved mirnas in s. pistillata , implying that mirnas play a role in organismal biology of scleractinian corals. analysis of predicted mirna target genes in s. pistillata suggests potential roles of mirnas in symbiosis and coral calcification. given the importance of mirnas in regulating gene expression in other metazoans, further expression analyses of small non-coding rnas in transcriptional studies of corals should be informative about mirna-affected processes and pathways. \u00a9 2014 liew et al.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Monaco", 
+                "nameofficial": "Principality of Monaco"
+            }
+        }, 
+        {
+            "index": 10, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    42.88190638, 
+                    24.16687314
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 10, 
+            "score": 7, 
+            "data": {
+                "authorsCOO": [
+                    "SAUDI ARABIA", 
+                    "INDIA", 
+                    "SAUDI ARABIA"
+                ], 
+                "genetictool": [
+                    "ISSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of horticultural science and biotechnology", 
+                "focalspecies": [
+                    "Vitex trifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "in the present study we have developed an efficient and effective method of synthetic seed production and its two-way germination system of vitex trifolia, for easy transport of the propagules and efficient utilization of its in vitro regeneration system. nodal segments harvested from 8-week-old in vitro cultures were encapsulated in calcium alginate beads. three percent (w/v) na-alginate polymerized in 100\u00a0mmol/l cacl2.2h2o for 30\u00a0min produced clear and uniform beads. germination of encapsulated beads with shoot and roots was achieved on murashige and skoog (ms) medium augmented with 6-furfurylaminopurine (kn, 2.5\u00a0\u00b5mol/l) + \u03b1-naphthalene acetic acid (naa, 1.0\u00a0\u00b5mol/l). for multiple shoot production, synseeds were incubated on 6-benzyladenine (ba, 5.0\u00a0\u00b5mol/l) + naa (0.5\u00a0\u00b5mol/l) augmented ms medium followed by in vitro rooting on ms + indole-3-butyric acid (iba, 1.0\u00a0\u00b5mol/l). the synseeds produced retained about 90% regeneration potential even after 4\u00a0weeks of storage at 4\u00b0c. genetic stability of the regenerated plants was evaluated using 13 inter simple sequence repeats (issr) primers. the study thus provides an efficient system for production of synthetic seeds, their storage and subsequent conversion into genetically identical plants. \u00a9 2016 the journal of horticultural science & biotechnology trust.", 
+                "focalspeciesCOO": [
+                    [
+                        "MYANMAR", 
+                        "AUSTRALIA", 
+                        "PAPUA NEW GUINEA", 
+                        "MALAYSIA", 
+                        "UNITED STATES", 
+                        "FIJI", 
+                        "CHINA", 
+                        "SOLOMON ISLANDS", 
+                        "VANUATU", 
+                        "NEW CALEDONIA", 
+                        "INDONESIA", 
+                        "SAMOA", 
+                        "GUAM", 
+                        "PALAU", 
+                        "SRI LANKA", 
+                        "PAKISTAN", 
+                        "MACAO", 
+                        "TIMOR-LESTE", 
+                        "PHILIPPINES", 
+                        "MAURITIUS", 
+                        "BAHAMAS", 
+                        "JAPAN", 
+                        "THAILAND", 
+                        "MEXICO", 
+                        "WALLIS AND FUTUNA", 
+                        "COMOROS", 
+                        "FRENCH POLYNESIA", 
+                        "R\u00c9UNION", 
+                        "SEYCHELLES", 
+                        "BRAZIL", 
+                        "SINGAPORE", 
+                        "INDIA", 
+                        "NEPAL", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "TONGA", 
+                        "AMERICAN SAMOA", 
+                        "MARSHALL ISLANDS", 
+                        "COOK ISLANDS", 
+                        "NIUE", 
+                        "HONG KONG", 
+                        "CHRISTMAS ISLAND", 
+                        "GABON", 
+                        "PERU", 
+                        "MADAGASCAR", 
+                        "EL SALVADOR", 
+                        "NICARAGUA", 
+                        "MAYOTTE", 
+                        "COSTA RICA", 
+                        "GEORGIA", 
+                        "VIETNAM", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "BRUNEI DARUSSALAM", 
+                        "SOUTH AFRICA", 
+                        "JAMAICA", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "FRANCE", 
+                        "CAMBODIA", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Saudi Arabia", 
+                "nameofficial": "Kingdom of Saudi Arabia"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 10, 
+            "target": 110, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 110, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.75444978, 
+                    43.7046362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 110, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "SAUDI ARABIA", 
+                    "UNITED KINGDOM", 
+                    "MONACO"
+                ], 
+                "genetictool": [
+                    "RNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2014, 
+                "abstracttext": "coral reefs are major contributors to marine biodiversity. however, they are in rapid decline due to global environmental changes such as rising sea surface temperatures, ocean acidification, and pollution. genomic and transcriptomic analyses have broadened our understanding of coral biology, but a study of the microrna (mirna) repertoire of corals is missing. mirnas constitute a class of small non-coding rnas of \u223c22 nt in size that play crucial roles in development, metabolism, and stress response in plants and animals alike. in this study, we examined the coral stylophora pistillata for the presence of mirnas and the corresponding core protein machinery required for their processing and function. based on small rna sequencing, we present evidence for 31 bona fide micrornas, 5 of which (mir-100, mir-2022, mir-2023, mir-2030, and mir-2036) are conserved in other metazoans. homologues of argonaute, piwi, dicer, drosha, pasha, and hen1 were identified in the transcriptome of s. pistillata based on strong sequence conservation with known rnai proteins, with additional support derived from phylogenetic trees. examination of putative mirna gene targets indicates potential roles in development, metabolism, immunity, and biomineralisation for several of the micrornas. here, we present first evidence of a functional rnai machinery and five conserved mirnas in s. pistillata , implying that mirnas play a role in organismal biology of scleractinian corals. analysis of predicted mirna target genes in s. pistillata suggests potential roles of mirnas in symbiosis and coral calcification. given the importance of mirnas in regulating gene expression in other metazoans, further expression analyses of small non-coding rnas in transcriptional studies of corals should be informative about mirna-affected processes and pathways. \u00a9 2014 liew et al.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Monaco", 
+                "nameofficial": "Principality of Monaco"
+            }
+        }, 
+        {
+            "index": 10, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    42.88190638, 
+                    24.16687314
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 10, 
+            "score": 13, 
+            "data": {
+                "authorsCOO": [
+                    "SAUDI ARABIA", 
+                    "INDIA", 
+                    "SAUDI ARABIA"
+                ], 
+                "genetictool": [
+                    "ISSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of horticultural science and biotechnology", 
+                "focalspecies": [
+                    "Vitex trifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "in the present study we have developed an efficient and effective method of synthetic seed production and its two-way germination system of vitex trifolia, for easy transport of the propagules and efficient utilization of its in vitro regeneration system. nodal segments harvested from 8-week-old in vitro cultures were encapsulated in calcium alginate beads. three percent (w/v) na-alginate polymerized in 100\u00a0mmol/l cacl2.2h2o for 30\u00a0min produced clear and uniform beads. germination of encapsulated beads with shoot and roots was achieved on murashige and skoog (ms) medium augmented with 6-furfurylaminopurine (kn, 2.5\u00a0\u00b5mol/l) + \u03b1-naphthalene acetic acid (naa, 1.0\u00a0\u00b5mol/l). for multiple shoot production, synseeds were incubated on 6-benzyladenine (ba, 5.0\u00a0\u00b5mol/l) + naa (0.5\u00a0\u00b5mol/l) augmented ms medium followed by in vitro rooting on ms + indole-3-butyric acid (iba, 1.0\u00a0\u00b5mol/l). the synseeds produced retained about 90% regeneration potential even after 4\u00a0weeks of storage at 4\u00b0c. genetic stability of the regenerated plants was evaluated using 13 inter simple sequence repeats (issr) primers. the study thus provides an efficient system for production of synthetic seeds, their storage and subsequent conversion into genetically identical plants. \u00a9 2016 the journal of horticultural science & biotechnology trust.", 
+                "focalspeciesCOO": [
+                    [
+                        "MYANMAR", 
+                        "AUSTRALIA", 
+                        "PAPUA NEW GUINEA", 
+                        "MALAYSIA", 
+                        "UNITED STATES", 
+                        "FIJI", 
+                        "CHINA", 
+                        "SOLOMON ISLANDS", 
+                        "VANUATU", 
+                        "NEW CALEDONIA", 
+                        "INDONESIA", 
+                        "SAMOA", 
+                        "GUAM", 
+                        "PALAU", 
+                        "SRI LANKA", 
+                        "PAKISTAN", 
+                        "MACAO", 
+                        "TIMOR-LESTE", 
+                        "PHILIPPINES", 
+                        "MAURITIUS", 
+                        "BAHAMAS", 
+                        "JAPAN", 
+                        "THAILAND", 
+                        "MEXICO", 
+                        "WALLIS AND FUTUNA", 
+                        "COMOROS", 
+                        "FRENCH POLYNESIA", 
+                        "R\u00c9UNION", 
+                        "SEYCHELLES", 
+                        "BRAZIL", 
+                        "SINGAPORE", 
+                        "INDIA", 
+                        "NEPAL", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "TONGA", 
+                        "AMERICAN SAMOA", 
+                        "MARSHALL ISLANDS", 
+                        "COOK ISLANDS", 
+                        "NIUE", 
+                        "HONG KONG", 
+                        "CHRISTMAS ISLAND", 
+                        "GABON", 
+                        "PERU", 
+                        "MADAGASCAR", 
+                        "EL SALVADOR", 
+                        "NICARAGUA", 
+                        "MAYOTTE", 
+                        "COSTA RICA", 
+                        "GEORGIA", 
+                        "VIETNAM", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "BRUNEI DARUSSALAM", 
+                        "SOUTH AFRICA", 
+                        "JAMAICA", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "FRANCE", 
+                        "CAMBODIA", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Saudi Arabia", 
+                "nameofficial": "Kingdom of Saudi Arabia"
+            }
+        }, 
+        {
+            "index": 11, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 11, 
+            "score": 68, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 110, 
+            "target": 10, 
+            "value": 1
+        }, 
+        {
+            "source": 110, 
+            "target": 11, 
+            "value": 1
+        }
+    ]
+}
+]

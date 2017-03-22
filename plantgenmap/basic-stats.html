@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Scopus Analysis</title>
+  <meta charset="utf-8" />
+ <link rel="stylesheet" href="/ext/css/d3.slider.css"/>  
+ <link rel="stylesheet" href="/ext/css/bootstrap.min.css"/>  
+  <link rel="stylesheet" href="/ext/css/dc.css"/> 
+ <style>
+
+ </style>
+ 
+</head>
+<body ng-app="twitterstuff">
+  <div class='container-fluid'>
+    <div ng-controller="twitterselect">
+
+
+
+ 
+      <div class='row'>
+        <div class='col-lg-12 '>
+        <h1 style='font-family: Helvetica'>
+     Basic Scopus Statistics View
+        </h1>
+        </div>
+      </div>
+      <div class='row'>
+       <div class='col-lg-12'>
+        <div id="graph"></div>
+        </div>
+      </div>
+     <div class= 'row'>
+      <div class='col-lg-6'>
+         <div class='dc-data-count'>
+            <h6>
+            <span>
+            <span class="filter-count"></span>
+             selected out of 
+            <span class="total-count"></span>
+             records | 
+            <a href="javascript:dc.filterAll(); dc.renderAll()" ng-click="changeTagLabels()">Reset All</a>
+          </span>
+           </h6>
+         </div>
+      </div>
+    </div>
+    <div class='row'>
+      <div class='col-lg-6'>
+        <div id='year-chart'>
+              <h4>
+   Number of Articles by Year
+        <span>
+          <a class="reset"
+            href="javascript:yearChart.filterAll();dc.redrawAll();"
+            style="display: none;">
+            reset
+          </a>
+        </span>
+    </h4>     
+        </div>
+      </div>
+    </div>
+      <div class='row'>
+      <div class='col-lg-3'>
+        <div id='tech-chart'>
+              <h4>
+      Number of Articles by Genetic Tool
+        <span>
+          <a class="reset"
+            href="javascript:techChart.filterAll();dc.redrawAll();"
+            style="display: none;">
+            reset
+          </a>
+        </span>
+    </h4>     
+        </div>
+      </div>
+    <div class='col-lg-3'>
+        <div id='journal-chart'>
+              <h4>
+      Number of Articles by Journal
+        <span>
+          <a class="reset"
+            href="javascript:journalChart.filterAll();dc.redrawAll();"
+            style="display: none;">
+            reset
+          </a>
+        </span>
+    </h4>     
+        </div>
+      </div>
+    </div>
+   
+
+</div>
+      
+</div>
+
+      
+    
+    
+    <script src="/ext/angular.js"></script>
+    <script src="/ext/d3.v3.min.js"></script>
+    <script src="/ext/crossfilter.js"></script>
+     <script src="/ext/dc.js"></script>
+   
+    <script src="/ext/jquery.min.js"></script>
+    <script src="/ext/d3.slider.js"></script>
+    <script src="/ext/bootstrap.min.js"></script>
+  
+
+
+
+  <script>
+
+  var yearChart = dc.barChart('#year-chart');
+  var techChart = dc.rowChart('#tech-chart');
+  /*var dayOfWeekChart = dc.rowChart('#day-of-week-chart');
+  var groupChart = dc.rowChart('#group-chart');
+  var retweetedChart = dc.pieChart('#retweet-chart');
+  var moveChart = dc.lineChart('#move-chart');*/
+  var termiteTopics = angular.module('twitterstuff', [], function($locationProvider) {
+    $locationProvider.html5Mode(true);
+  });
+
+  termiteTopics.controller('twitterselect',['$scope', function($scope){
+
+  var width = 1000
+  var height = 1000
+
+    var labelcols = 4
+
+  labelenclosewidth = width
+
+  var labelwidth = (width)/4 - 10
+  var square = 15
+
+  var textboxwidth = 170;
+
+  var color = d3.scale.category20();
+
+//  console.log(color(20))
+
+
+var parseDate = d3.time.format('%Y')//.parse();
+
+console.log(parseDate.parse('2016'))
+
+
+  d3.json('nat_test.json', function(error,graph){
+    console.log(graph)
+
+
+
+
+
+    var stats = crossfilter(graph)
+    var all = stats.groupAll()
+var thing = dc.dataCount(".dc-data-count")
+    .dimension(stats)
+    .group(all);
+
+    yearDimension = stats.dimension(function(d){
+      return d.year
+    })
+
+   techDimension = stats.dimension(function(d){
+    if (d.genetictool.length > 0){
+      if (d.genetictool[0] == 'cleaved amplified polymorphic sequence'){
+        console.log('here')
+      }
+       return d.genetictool[0]
+      }
+    })
+    yearGroup = yearDimension.group()
+    techGroup = techDimension.group()
+
+    techGroup.order()
+
+      yearChart.width(500) 
+        .height(500)
+        .margins({top: 0, right: 50, bottom: 20, left: 40})
+        .dimension(yearDimension)
+        .group(yearGroup)
+        .centerBar(true)
+        .transitionDuration(250)
+        .gap(0)
+        .x(d3.scale.linear().domain([2012, 2018]))
+        .elasticY(true)
+        .xAxis().ticks(4);  
+      
+
+techChart.width(300)
+    .height(1000)
+    .margins({top: 5, left: 10, right: 10, bottom: 20})
+    .dimension(techDimension)
+    .group(techGroup)
+    .colors(['steelblue'])
+    .label(function (d){
+      console.log(d)
+       return d.key;
+    })
+    .title(function(d){return d.value;})
+    .elasticX(true)
+    .xAxis().ticks()
+    //.ordered()
+    //.ordering(function(d) { return - d.value; });
+
+
+
+
+  dc.renderAll();     
+  })//d3.json fetch
+
+
+
+
+  }]);//controller
+  </script>
+
+
+
+</body>
+</html>

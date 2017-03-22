@@ -1,0 +1,958 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 108, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -18.57038755, 
+                    64.99294495
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 108, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "SWITZERLAND", 
+                    "ICELAND", 
+                    "GERMANY", 
+                    "AUSTRIA"
+                ], 
+                "genetictool": [
+                    "microsatellite"
+                ], 
+                "fundingorganization": "", 
+                "journal": "freshwater biology", 
+                "focalspecies": [
+                    "Myricaria germanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2014, 
+                "abstracttext": "natural and man-made barriers have a significant impact on the population structure and genetic diversity of aquatic species. little is known whether terrestrial, riparian species are affected in the same way by barriers. here, we analysed the genetic structure of a threatened riparian shrub based on 20 microsatellite markers and 1176 individuals collected from 34 localities in four alpine rivers in europe (isar, lech, rhine and tagliamento). the catchments comprised a variety of potential barriers to gene flow for terrestrial riparian plants: dams, channelised stretches of river and canyons. we compared the average level of genetic differentiation (pairwise fst) between connected localities and localities isolated by natural or man-made barriers. genetic differentiation was higher between localities isolated by a barrier than between connected localities, indicating genetic isolation caused by barriers. this increased degree of genetic differentiation across barriers was evident in geographic tree models. our results demonstrate genetic isolation effects due to large dams in a characteristic plant of central european floodplains, highlighting that these types of barriers may negatively impact riparian plant populations. we also found genetic isolation effects in populations separated by natural barriers (canyons). these results have important implications for understanding the dynamics of riparian plant populations and for designing suitable management strategies for an effective conservation of riparian plants. \u00a9 2014 john wiley & sons ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "AUSTRIA", 
+                        "ITALY", 
+                        "NETHERLANDS", 
+                        "FRANCE", 
+                        "KAZAKHSTAN", 
+                        "NORWAY", 
+                        "GERMANY", 
+                        "SWITZERLAND", 
+                        "POLAND", 
+                        "TURKEY", 
+                        "AFGHANISTAN", 
+                        "CHINA", 
+                        "PAKISTAN", 
+                        "ARMENIA", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "RUSSIAN FEDERATION", 
+                        "NEW ZEALAND", 
+                        "GEORGIA", 
+                        "ROMANIA", 
+                        "UNITED KINGDOM", 
+                        "INDIA", 
+                        "DENMARK", 
+                        "CZECH REPUBLIC", 
+                        "SLOVENIA", 
+                        "UKRAINE", 
+                        "HUNGARY", 
+                        "FINLAND", 
+                        "ARGENTINA", 
+                        "LIECHTENSTEIN"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Iceland", 
+                "nameofficial": "Republic of Iceland"
+            }
+        }, 
+        {
+            "index": 38, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    8.227512, 
+                    46.81010721
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 38, 
+            "score": 51, 
+            "data": {
+                "authorsCOO": [
+                    "SWITZERLAND", 
+                    "SPAIN", 
+                    "SPAIN", 
+                    "SPAIN"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "genetica", 
+                "focalspecies": [
+                    "Limonium macrophyllum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "oceanic archipelagos are typically rich in endemic taxa, because they offer ideal conditions for diversification and speciation in isolation. one of the most remarkable evolutionary radiations on the canary islands comprises the 16 species included in limonium subsection nobiles, all of which are subject to diverse threats, and legally protected. since many of them are single-island endemics limited to one or a few populations, there exists a risk that a loss of genetic variation might limit their long-term survival. in this study, we used eight newly developed microsatellite markers to characterize the levels of genetic variation and inbreeding in l. macrophyllum, a species endemic to the north-east of tenerife that belongs to limonium subsection nobiles. we detected generally low levels of genetic variation over all populations (ht = 0.363), and substantial differentiation among populations (fst = 0.188; rst = 0.186) coupled with a negligible degree of inbreeding (f = 0.042). obligate outcrossing may have maintained l. macrophyllum relatively unaffected by inbreeding despite the species\u2019 limited dispersal ability and the genetic bottlenecks likely caused by a prolonged history of grazing. although several factors still constitute a risk for the conservation of l. macrophyllum, the lack of inbreeding and the recent positive demographic trends observed in the populations of this species are factors that favour its future persistence. \u00a9 2017, springer international publishing switzerland.", 
+                "focalspeciesCOO": [
+                    [
+                        "SPAIN", 
+                        "PORTUGAL", 
+                        "NEW ZEALAND"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Switzerland", 
+                "nameofficial": "Swiss Confederation"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 252, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.18776731, 
+                    47.63125476
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 30, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Austria", 
+                "nameofficial": "Republic of Austria"
+            }
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 18, 
+            "score": 873, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 5, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    78.50146222, 
+                    20.46549519
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 5, 
+            "score": 357, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA", 
+                    "AUSTRALIA", 
+                    "INDIA", 
+                    "AUSTRALIA", 
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "crop protection", 
+                "focalspecies": [
+                    "Gossypium hirsutum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the agriculture sector is embracing energy efficient conservation systems and technological innovations to meet the ever increasing demand for food, fibre, and fuel in tune with the rapidly increasing human population. the genetic modification of plants is one of the technological innovations that is adopted rapidly across the world. in cotton, many major producing countries have adopted herbicide-tolerant genetically modified crops. over-reliance on herbicides for weed management in both genetically modified and conventional systems has led to the rapid evolution of herbicide-resistant weeds. poor weed management can cause up to 90% yield loss in cotton. undoubtedly, integration of non-chemical methods and diversifying weed control options would ensure the sustainability of available weed management options, including herbicides. increasing crop competitiveness is one of the approaches that could be integrated with the current weed management systems. choosing cultivars with early vigour, use of narrow row planting, orienting crop rows with regard to sunlight, and adjusting planting density are some of the approaches that could enhance the competitiveness of crops over weeds. review of the available literature on cotton indicates weed suppressive benefits by enhancing crop competitiveness through increasing planting density and narrow row spacing. early canopy closure in narrow row spaced systems would suppress many problem weeds. in addition, herbicide efficacy may be increased due to competition offered by a dense crop stand, which may reduce herbicide selection pressure on weeds. however, the use of narrow row spacing is still in an infant stage in many cotton-growing countries and the success may depend on the environment, soil type, and resource availability. this review analyses and reports the potential benefits of increasing crop competition as a weed management option and also highlights research to be undertaken to ensure the adoption of different strategies on a much wider scale. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "ECUADOR", 
+                        "CHINA", 
+                        "FRENCH POLYNESIA", 
+                        "UNITED STATES", 
+                        "INDONESIA", 
+                        "MARSHALL ISLANDS", 
+                        "PERU", 
+                        "PHILIPPINES", 
+                        "GUATEMALA", 
+                        "HAITI", 
+                        "COSTA RICA", 
+                        "PUERTO RICO", 
+                        "EL SALVADOR", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "NICARAGUA", 
+                        "SEYCHELLES", 
+                        "CAMBODIA", 
+                        "GUADELOUPE", 
+                        "BAHAMAS", 
+                        "MAURITIUS", 
+                        "MONTSERRAT", 
+                        "PANAMA", 
+                        "PARAGUAY", 
+                        "UNITED KINGDOM", 
+                        "KENYA", 
+                        "AZERBAIJAN", 
+                        "MADAGASCAR", 
+                        "COMOROS", 
+                        "MAYOTTE", 
+                        "SENEGAL", 
+                        "BENIN", 
+                        "PAPUA NEW GUINEA", 
+                        "SURINAME", 
+                        "ETHIOPIA", 
+                        "GHANA", 
+                        "SIERRA LEONE", 
+                        "ANGOLA", 
+                        "CUBA", 
+                        "NEW CALEDONIA", 
+                        "CAMEROON", 
+                        "NIGERIA", 
+                        "NETHERLANDS", 
+                        "CURA\u00c7AO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GABON", 
+                        "SWEDEN", 
+                        "YEMEN", 
+                        "OMAN", 
+                        "NEPAL", 
+                        "JAMAICA", 
+                        "TONGA", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "FIJI", 
+                        "EGYPT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "ARGENTINA", 
+                        "AMERICAN SAMOA", 
+                        "CHILE", 
+                        "BELIZE", 
+                        "BULGARIA", 
+                        "AFGHANISTAN", 
+                        "CAYMAN ISLANDS", 
+                        "DOMINICAN REPUBLIC", 
+                        "ARUBA", 
+                        "DOMINICA", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "ALGERIA", 
+                        "INDIA", 
+                        "GREECE", 
+                        "GRENADA", 
+                        "SAINT KITTS AND NEVIS", 
+                        "GUAM", 
+                        "SAINT LUCIA", 
+                        "SPAIN", 
+                        "FRENCH GUIANA", 
+                        "MALDIVES", 
+                        "TRINIDAD AND TOBAGO", 
+                        "MARTINIQUE", 
+                        "PORTUGAL", 
+                        "MOZAMBIQUE", 
+                        "CHAD", 
+                        "MALI", 
+                        "R\u00c9UNION", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "SOUTH AFRICA", 
+                        "SAMOA", 
+                        "NIUE", 
+                        "VANUATU", 
+                        "SOLOMON ISLANDS", 
+                        "COOK ISLANDS", 
+                        "CONGO", 
+                        "SUDAN", 
+                        "HONDURAS", 
+                        "GUYANA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "THAILAND", 
+                        "FRANCE", 
+                        "ZAMBIA", 
+                        "TURKEY", 
+                        "UGANDA", 
+                        "SWAZILAND", 
+                        "EQUATORIAL GUINEA", 
+                        "SRI LANKA", 
+                        "MALAYSIA", 
+                        "ISRAEL", 
+                        "JAPAN", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "GUINEA", 
+                        "TIMOR-LESTE", 
+                        "BURKINA FASO", 
+                        "CAPE VERDE", 
+                        "SOMALIA", 
+                        "NAMIBIA", 
+                        "MALTA", 
+                        "MALAWI", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "BERMUDA", 
+                        "TOGO", 
+                        "ZIMBABWE", 
+                        "TURKMENISTAN", 
+                        "TAJIKISTAN", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "KIRIBATI", 
+                        "VIETNAM", 
+                        "NIGER", 
+                        "MAURITANIA", 
+                        "NEW ZEALAND", 
+                        "PAKISTAN", 
+                        "BRITISH INDIAN OCEAN TERRITORY", 
+                        "GAMBIA", 
+                        "LIBYA", 
+                        "SAINT BARTH\u00c9LEMY", 
+                        "ANGUILLA", 
+                        "GUINEA-BISSAU", 
+                        "UKRAINE", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "GEORGIA", 
+                        "ITALY", 
+                        "PALAU", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "India", 
+                "nameofficial": "Republic of India"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 38, 
+            "target": 108, 
+            "value": 1
+        }, 
+        {
+            "source": 108, 
+            "target": 2, 
+            "value": 1
+        }, 
+        {
+            "source": 108, 
+            "target": 1, 
+            "value": 1
+        }, 
+        {
+            "source": 18, 
+            "target": 108, 
+            "value": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 108, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 108, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -18.57038755, 
+                    64.99294495
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 108, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "SWITZERLAND", 
+                    "ICELAND", 
+                    "GERMANY", 
+                    "AUSTRIA"
+                ], 
+                "genetictool": [
+                    "microsatellite"
+                ], 
+                "fundingorganization": "", 
+                "journal": "freshwater biology", 
+                "focalspecies": [
+                    "Myricaria germanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2014, 
+                "abstracttext": "natural and man-made barriers have a significant impact on the population structure and genetic diversity of aquatic species. little is known whether terrestrial, riparian species are affected in the same way by barriers. here, we analysed the genetic structure of a threatened riparian shrub based on 20 microsatellite markers and 1176 individuals collected from 34 localities in four alpine rivers in europe (isar, lech, rhine and tagliamento). the catchments comprised a variety of potential barriers to gene flow for terrestrial riparian plants: dams, channelised stretches of river and canyons. we compared the average level of genetic differentiation (pairwise fst) between connected localities and localities isolated by natural or man-made barriers. genetic differentiation was higher between localities isolated by a barrier than between connected localities, indicating genetic isolation caused by barriers. this increased degree of genetic differentiation across barriers was evident in geographic tree models. our results demonstrate genetic isolation effects due to large dams in a characteristic plant of central european floodplains, highlighting that these types of barriers may negatively impact riparian plant populations. we also found genetic isolation effects in populations separated by natural barriers (canyons). these results have important implications for understanding the dynamics of riparian plant populations and for designing suitable management strategies for an effective conservation of riparian plants. \u00a9 2014 john wiley & sons ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "AUSTRIA", 
+                        "ITALY", 
+                        "NETHERLANDS", 
+                        "FRANCE", 
+                        "KAZAKHSTAN", 
+                        "NORWAY", 
+                        "GERMANY", 
+                        "SWITZERLAND", 
+                        "POLAND", 
+                        "TURKEY", 
+                        "AFGHANISTAN", 
+                        "CHINA", 
+                        "PAKISTAN", 
+                        "ARMENIA", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "RUSSIAN FEDERATION", 
+                        "NEW ZEALAND", 
+                        "GEORGIA", 
+                        "ROMANIA", 
+                        "UNITED KINGDOM", 
+                        "INDIA", 
+                        "DENMARK", 
+                        "CZECH REPUBLIC", 
+                        "SLOVENIA", 
+                        "UKRAINE", 
+                        "HUNGARY", 
+                        "FINLAND", 
+                        "ARGENTINA", 
+                        "LIECHTENSTEIN"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Iceland", 
+                "nameofficial": "Republic of Iceland"
+            }
+        }, 
+        {
+            "index": 38, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    8.227512, 
+                    46.81010721
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 38, 
+            "score": 19, 
+            "data": {
+                "authorsCOO": [
+                    "SWITZERLAND", 
+                    "SPAIN", 
+                    "SPAIN", 
+                    "SPAIN"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "genetica", 
+                "focalspecies": [
+                    "Limonium macrophyllum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "oceanic archipelagos are typically rich in endemic taxa, because they offer ideal conditions for diversification and speciation in isolation. one of the most remarkable evolutionary radiations on the canary islands comprises the 16 species included in limonium subsection nobiles, all of which are subject to diverse threats, and legally protected. since many of them are single-island endemics limited to one or a few populations, there exists a risk that a loss of genetic variation might limit their long-term survival. in this study, we used eight newly developed microsatellite markers to characterize the levels of genetic variation and inbreeding in l. macrophyllum, a species endemic to the north-east of tenerife that belongs to limonium subsection nobiles. we detected generally low levels of genetic variation over all populations (ht = 0.363), and substantial differentiation among populations (fst = 0.188; rst = 0.186) coupled with a negligible degree of inbreeding (f = 0.042). obligate outcrossing may have maintained l. macrophyllum relatively unaffected by inbreeding despite the species\u2019 limited dispersal ability and the genetic bottlenecks likely caused by a prolonged history of grazing. although several factors still constitute a risk for the conservation of l. macrophyllum, the lack of inbreeding and the recent positive demographic trends observed in the populations of this species are factors that favour its future persistence. \u00a9 2017, springer international publishing switzerland.", 
+                "focalspeciesCOO": [
+                    [
+                        "SPAIN", 
+                        "PORTUGAL", 
+                        "NEW ZEALAND"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Switzerland", 
+                "nameofficial": "Swiss Confederation"
+            }
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 18, 
+            "score": 248, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 38, 
+            "target": 108, 
+            "value": 1
+        }, 
+        {
+            "source": 18, 
+            "target": 108, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 108, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -18.57038755, 
+                    64.99294495
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 108, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "SWITZERLAND", 
+                    "ICELAND", 
+                    "GERMANY", 
+                    "AUSTRIA"
+                ], 
+                "genetictool": [
+                    "microsatellite"
+                ], 
+                "fundingorganization": "", 
+                "journal": "freshwater biology", 
+                "focalspecies": [
+                    "Myricaria germanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2014, 
+                "abstracttext": "natural and man-made barriers have a significant impact on the population structure and genetic diversity of aquatic species. little is known whether terrestrial, riparian species are affected in the same way by barriers. here, we analysed the genetic structure of a threatened riparian shrub based on 20 microsatellite markers and 1176 individuals collected from 34 localities in four alpine rivers in europe (isar, lech, rhine and tagliamento). the catchments comprised a variety of potential barriers to gene flow for terrestrial riparian plants: dams, channelised stretches of river and canyons. we compared the average level of genetic differentiation (pairwise fst) between connected localities and localities isolated by natural or man-made barriers. genetic differentiation was higher between localities isolated by a barrier than between connected localities, indicating genetic isolation caused by barriers. this increased degree of genetic differentiation across barriers was evident in geographic tree models. our results demonstrate genetic isolation effects due to large dams in a characteristic plant of central european floodplains, highlighting that these types of barriers may negatively impact riparian plant populations. we also found genetic isolation effects in populations separated by natural barriers (canyons). these results have important implications for understanding the dynamics of riparian plant populations and for designing suitable management strategies for an effective conservation of riparian plants. \u00a9 2014 john wiley & sons ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "AUSTRIA", 
+                        "ITALY", 
+                        "NETHERLANDS", 
+                        "FRANCE", 
+                        "KAZAKHSTAN", 
+                        "NORWAY", 
+                        "GERMANY", 
+                        "SWITZERLAND", 
+                        "POLAND", 
+                        "TURKEY", 
+                        "AFGHANISTAN", 
+                        "CHINA", 
+                        "PAKISTAN", 
+                        "ARMENIA", 
+                        "SPAIN", 
+                        "SLOVAKIA", 
+                        "RUSSIAN FEDERATION", 
+                        "NEW ZEALAND", 
+                        "GEORGIA", 
+                        "ROMANIA", 
+                        "UNITED KINGDOM", 
+                        "INDIA", 
+                        "DENMARK", 
+                        "CZECH REPUBLIC", 
+                        "SLOVENIA", 
+                        "UKRAINE", 
+                        "HUNGARY", 
+                        "FINLAND", 
+                        "ARGENTINA", 
+                        "LIECHTENSTEIN"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Iceland", 
+                "nameofficial": "Republic of Iceland"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.18776731, 
+                    47.63125476
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 12, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Austria", 
+                "nameofficial": "Republic of Austria"
+            }
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 18, 
+            "score": 301, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 5, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    78.50146222, 
+                    20.46549519
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 5, 
+            "score": 161, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA", 
+                    "AUSTRALIA", 
+                    "INDIA", 
+                    "AUSTRALIA", 
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "crop protection", 
+                "focalspecies": [
+                    "Gossypium hirsutum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the agriculture sector is embracing energy efficient conservation systems and technological innovations to meet the ever increasing demand for food, fibre, and fuel in tune with the rapidly increasing human population. the genetic modification of plants is one of the technological innovations that is adopted rapidly across the world. in cotton, many major producing countries have adopted herbicide-tolerant genetically modified crops. over-reliance on herbicides for weed management in both genetically modified and conventional systems has led to the rapid evolution of herbicide-resistant weeds. poor weed management can cause up to 90% yield loss in cotton. undoubtedly, integration of non-chemical methods and diversifying weed control options would ensure the sustainability of available weed management options, including herbicides. increasing crop competitiveness is one of the approaches that could be integrated with the current weed management systems. choosing cultivars with early vigour, use of narrow row planting, orienting crop rows with regard to sunlight, and adjusting planting density are some of the approaches that could enhance the competitiveness of crops over weeds. review of the available literature on cotton indicates weed suppressive benefits by enhancing crop competitiveness through increasing planting density and narrow row spacing. early canopy closure in narrow row spaced systems would suppress many problem weeds. in addition, herbicide efficacy may be increased due to competition offered by a dense crop stand, which may reduce herbicide selection pressure on weeds. however, the use of narrow row spacing is still in an infant stage in many cotton-growing countries and the success may depend on the environment, soil type, and resource availability. this review analyses and reports the potential benefits of increasing crop competition as a weed management option and also highlights research to be undertaken to ensure the adoption of different strategies on a much wider scale. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "ECUADOR", 
+                        "CHINA", 
+                        "FRENCH POLYNESIA", 
+                        "UNITED STATES", 
+                        "INDONESIA", 
+                        "MARSHALL ISLANDS", 
+                        "PERU", 
+                        "PHILIPPINES", 
+                        "GUATEMALA", 
+                        "HAITI", 
+                        "COSTA RICA", 
+                        "PUERTO RICO", 
+                        "EL SALVADOR", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "NICARAGUA", 
+                        "SEYCHELLES", 
+                        "CAMBODIA", 
+                        "GUADELOUPE", 
+                        "BAHAMAS", 
+                        "MAURITIUS", 
+                        "MONTSERRAT", 
+                        "PANAMA", 
+                        "PARAGUAY", 
+                        "UNITED KINGDOM", 
+                        "KENYA", 
+                        "AZERBAIJAN", 
+                        "MADAGASCAR", 
+                        "COMOROS", 
+                        "MAYOTTE", 
+                        "SENEGAL", 
+                        "BENIN", 
+                        "PAPUA NEW GUINEA", 
+                        "SURINAME", 
+                        "ETHIOPIA", 
+                        "GHANA", 
+                        "SIERRA LEONE", 
+                        "ANGOLA", 
+                        "CUBA", 
+                        "NEW CALEDONIA", 
+                        "CAMEROON", 
+                        "NIGERIA", 
+                        "NETHERLANDS", 
+                        "CURA\u00c7AO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GABON", 
+                        "SWEDEN", 
+                        "YEMEN", 
+                        "OMAN", 
+                        "NEPAL", 
+                        "JAMAICA", 
+                        "TONGA", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "FIJI", 
+                        "EGYPT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "ARGENTINA", 
+                        "AMERICAN SAMOA", 
+                        "CHILE", 
+                        "BELIZE", 
+                        "BULGARIA", 
+                        "AFGHANISTAN", 
+                        "CAYMAN ISLANDS", 
+                        "DOMINICAN REPUBLIC", 
+                        "ARUBA", 
+                        "DOMINICA", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "ALGERIA", 
+                        "INDIA", 
+                        "GREECE", 
+                        "GRENADA", 
+                        "SAINT KITTS AND NEVIS", 
+                        "GUAM", 
+                        "SAINT LUCIA", 
+                        "SPAIN", 
+                        "FRENCH GUIANA", 
+                        "MALDIVES", 
+                        "TRINIDAD AND TOBAGO", 
+                        "MARTINIQUE", 
+                        "PORTUGAL", 
+                        "MOZAMBIQUE", 
+                        "CHAD", 
+                        "MALI", 
+                        "R\u00c9UNION", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "SOUTH AFRICA", 
+                        "SAMOA", 
+                        "NIUE", 
+                        "VANUATU", 
+                        "SOLOMON ISLANDS", 
+                        "COOK ISLANDS", 
+                        "CONGO", 
+                        "SUDAN", 
+                        "HONDURAS", 
+                        "GUYANA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "THAILAND", 
+                        "FRANCE", 
+                        "ZAMBIA", 
+                        "TURKEY", 
+                        "UGANDA", 
+                        "SWAZILAND", 
+                        "EQUATORIAL GUINEA", 
+                        "SRI LANKA", 
+                        "MALAYSIA", 
+                        "ISRAEL", 
+                        "JAPAN", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "GUINEA", 
+                        "TIMOR-LESTE", 
+                        "BURKINA FASO", 
+                        "CAPE VERDE", 
+                        "SOMALIA", 
+                        "NAMIBIA", 
+                        "MALTA", 
+                        "MALAWI", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "BERMUDA", 
+                        "TOGO", 
+                        "ZIMBABWE", 
+                        "TURKMENISTAN", 
+                        "TAJIKISTAN", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "KIRIBATI", 
+                        "VIETNAM", 
+                        "NIGER", 
+                        "MAURITANIA", 
+                        "NEW ZEALAND", 
+                        "PAKISTAN", 
+                        "BRITISH INDIAN OCEAN TERRITORY", 
+                        "GAMBIA", 
+                        "LIBYA", 
+                        "SAINT BARTH\u00c9LEMY", 
+                        "ANGUILLA", 
+                        "GUINEA-BISSAU", 
+                        "UKRAINE", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "GEORGIA", 
+                        "ITALY", 
+                        "PALAU", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "India", 
+                "nameofficial": "Republic of India"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 2, 
+            "target": 108, 
+            "value": 1
+        }, 
+        {
+            "source": 108, 
+            "target": 18, 
+            "value": 1
+        }, 
+        {
+            "source": 108, 
+            "target": 5, 
+            "value": 1
+        }
+    ]
+}
+]

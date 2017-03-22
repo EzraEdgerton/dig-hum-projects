@@ -1,0 +1,486 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 87, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -61.222503, 
+                    10.43241863
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 87, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "TRINIDAD AND TOBAGO", 
+                    "UNITED KINGDOM", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "phytotaxa", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "although the publication of the vascular flora of the caribbean islands of trinidad and tobago extended from 1928\u20131992, it is incomplete with the family poaceae still outstanding. many of the early recorded families are in need of extensive revision. therefore, this checklist is intended to fill these gaps by providing a comprehensive list of the vascular plants for the islands. we compiled the checklist using the results from herbarium records, literature citations, online resources and a rapid botanic survey (rbs) of 240 sample plots across the islands. from the rbs plots 22,500 vascular plant specimens were collected, yielding 1530 species. the herbarium records, literature citations and the rbs plots yielded a total of 3639 species, of which 2407 are indigenous, 1222 are exotic and 108 are endemic or near endemic. the low endemism is attributed to the islands\u2019 close proximity to and recent separation from the south american continent. a total of 262 species of grasses (poaceae) is published here for the first time along with the results from the rbs plots. our annotated checklist further presents two types of conservation rating: the international union for the conservation of nature red list categories and a global star rating system. based on the clustering of the \u2018star rating\u2019 of each species, plant communities in the following areas: the heights of aripo, parts of the nariva swamp and the north-west islands were identified as \u2018hot spots\u2019 of high conservation value which should continue to, or receive greater protection in the national parks and protected areas system established in trinidad and tobago \u00a9 2016 magnolia press.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Trinidad and Tobago", 
+                "nameofficial": "Republic of Trinidad and Tobago"
+            }
+        }, 
+        {
+            "index": 15, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 15, 
+            "score": 233, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 18, 
+            "score": 873, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 881, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "applied energy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "it is challenging and interesting to establish a precise dynamic model of an otb (once-through boiler) power plant unit in order to meet large scale load demands from the power grid. this study proposes to establish such a dynamic mathematical model of an ultra-supercritical otb unit under dry operating conditions. more precisely, the dynamic model structure was derived from mass and energy conservation laws as well as thermodynamic principles under some reasonable simplifications and assumptions. then an iga (immune genetic algorithm) was improved to identify the parameters, combined with running data. after this, to further enhance model performance, the dynamic mathematical model was extended to be the one with different sets of parameters and functions under different monotonous load ranges. additionally, open- and closed-loop experiments were conducted in order to further validate the developed model. the experimental results show that the model outputs can approach the actual running data over a wide operating range with appropriate accuracy. more importantly, the dynamic model captures the essential dynamic characteristics of the unit. therefore, the model can be feasible and applicable for simulation analysis and testing control algorithms. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 87, 
+            "target": 15, 
+            "value": 2
+        }, 
+        {
+            "source": 18, 
+            "target": 87, 
+            "value": 1
+        }, 
+        {
+            "source": 17, 
+            "target": 87, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 87, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -61.222503, 
+                    10.43241863
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 87, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "TRINIDAD AND TOBAGO", 
+                    "UNITED KINGDOM", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "phytotaxa", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "although the publication of the vascular flora of the caribbean islands of trinidad and tobago extended from 1928\u20131992, it is incomplete with the family poaceae still outstanding. many of the early recorded families are in need of extensive revision. therefore, this checklist is intended to fill these gaps by providing a comprehensive list of the vascular plants for the islands. we compiled the checklist using the results from herbarium records, literature citations, online resources and a rapid botanic survey (rbs) of 240 sample plots across the islands. from the rbs plots 22,500 vascular plant specimens were collected, yielding 1530 species. the herbarium records, literature citations and the rbs plots yielded a total of 3639 species, of which 2407 are indigenous, 1222 are exotic and 108 are endemic or near endemic. the low endemism is attributed to the islands\u2019 close proximity to and recent separation from the south american continent. a total of 262 species of grasses (poaceae) is published here for the first time along with the results from the rbs plots. our annotated checklist further presents two types of conservation rating: the international union for the conservation of nature red list categories and a global star rating system. based on the clustering of the \u2018star rating\u2019 of each species, plant communities in the following areas: the heights of aripo, parts of the nariva swamp and the north-west islands were identified as \u2018hot spots\u2019 of high conservation value which should continue to, or receive greater protection in the national parks and protected areas system established in trinidad and tobago \u00a9 2016 magnolia press.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Trinidad and Tobago", 
+                "nameofficial": "Republic of Trinidad and Tobago"
+            }
+        }, 
+        {
+            "index": 15, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 15, 
+            "score": 61, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 18, 
+            "score": 248, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 87, 
+            "target": 15, 
+            "value": 2
+        }, 
+        {
+            "source": 18, 
+            "target": 87, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 87, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -61.222503, 
+                    10.43241863
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 87, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "TRINIDAD AND TOBAGO", 
+                    "UNITED KINGDOM", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "phytotaxa", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "although the publication of the vascular flora of the caribbean islands of trinidad and tobago extended from 1928\u20131992, it is incomplete with the family poaceae still outstanding. many of the early recorded families are in need of extensive revision. therefore, this checklist is intended to fill these gaps by providing a comprehensive list of the vascular plants for the islands. we compiled the checklist using the results from herbarium records, literature citations, online resources and a rapid botanic survey (rbs) of 240 sample plots across the islands. from the rbs plots 22,500 vascular plant specimens were collected, yielding 1530 species. the herbarium records, literature citations and the rbs plots yielded a total of 3639 species, of which 2407 are indigenous, 1222 are exotic and 108 are endemic or near endemic. the low endemism is attributed to the islands\u2019 close proximity to and recent separation from the south american continent. a total of 262 species of grasses (poaceae) is published here for the first time along with the results from the rbs plots. our annotated checklist further presents two types of conservation rating: the international union for the conservation of nature red list categories and a global star rating system. based on the clustering of the \u2018star rating\u2019 of each species, plant communities in the following areas: the heights of aripo, parts of the nariva swamp and the north-west islands were identified as \u2018hot spots\u2019 of high conservation value which should continue to, or receive greater protection in the national parks and protected areas system established in trinidad and tobago \u00a9 2016 magnolia press.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Trinidad and Tobago", 
+                "nameofficial": "Republic of Trinidad and Tobago"
+            }
+        }, 
+        {
+            "index": 11, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 11, 
+            "score": 68, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 18, 
+            "score": 301, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 328, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "applied energy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "it is challenging and interesting to establish a precise dynamic model of an otb (once-through boiler) power plant unit in order to meet large scale load demands from the power grid. this study proposes to establish such a dynamic mathematical model of an ultra-supercritical otb unit under dry operating conditions. more precisely, the dynamic model structure was derived from mass and energy conservation laws as well as thermodynamic principles under some reasonable simplifications and assumptions. then an iga (immune genetic algorithm) was improved to identify the parameters, combined with running data. after this, to further enhance model performance, the dynamic mathematical model was extended to be the one with different sets of parameters and functions under different monotonous load ranges. additionally, open- and closed-loop experiments were conducted in order to further validate the developed model. the experimental results show that the model outputs can approach the actual running data over a wide operating range with appropriate accuracy. more importantly, the dynamic model captures the essential dynamic characteristics of the unit. therefore, the model can be feasible and applicable for simulation analysis and testing control algorithms. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 11, 
+            "target": 87, 
+            "value": 1
+        }, 
+        {
+            "source": 87, 
+            "target": 18, 
+            "value": 1
+        }, 
+        {
+            "source": 87, 
+            "target": 17, 
+            "value": 1
+        }
+    ]
+}
+]

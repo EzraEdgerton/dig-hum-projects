@@ -1,0 +1,692 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 70, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.75396564, 
+                    48.66923253
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 70, 
+            "score": 9, 
+            "data": {
+                "authorsCOO": [
+                    "SLOVAKIA", 
+                    "SLOVAKIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "acta horticulturae", 
+                "focalspecies": [
+                    "Prunus mahaleb", 
+                    "Prunus avium"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "the cherry trees have attractive fruits suitable for direct consumption and industrial processing. in slovakia they have been grown for a long time as an important source of food. monitoring, preservation and growing of old cherry cultivars are valuable both within the preservation of cultural heritage and as a part of biodiversity conservation. researchers from the gene bank of the slovak republic focus on the monitoring of old cherry cultivars in the slovak republic, evaluation of their fruits, assessing the molecular variability, screening of the occurrence of economically important and emerging viruses of red stone-fruits and development of molecular techniques for their sensitive and specific detection. nine localities of cherry occurrence in slovakia were monitored in 2014 and 130 samples of plant material (flowers, leaves, fruits) were obtained. basic description and evaluation was carried out according to the cherry descriptor list. the most promising genotypes of cherries found in different parts of slovakia were grafted on three different rootstocks (prunus avium seedlings, prunus mahaleb seedlings and 'gisela 5'). thirty five most promising genotypes are planted in a nursery of the research institute of plant production in piestany. all obtained samples were tested and characterized for the presence of prune dwarf virus (pdv), arabis mosaic virus (armv), plum pox virus (ppv) and apple chlorotic leaf spot virus (aclsv).", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "KYRGYZSTAN", 
+                        "GERMANY", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "ARMENIA", 
+                        "NETHERLANDS", 
+                        "LEBANON", 
+                        "GREECE", 
+                        "SPAIN", 
+                        "ARGENTINA", 
+                        "BELGIUM", 
+                        "LUXEMBOURG", 
+                        "SLOVENIA", 
+                        "ROMANIA", 
+                        "SWITZERLAND", 
+                        "CROATIA", 
+                        "TURKEY", 
+                        "HUNGARY", 
+                        "RUSSIAN FEDERATION", 
+                        "IRAQ", 
+                        "GEORGIA", 
+                        "POLAND", 
+                        "KAZAKHSTAN", 
+                        "PAKISTAN", 
+                        "PORTUGAL", 
+                        "MALAYSIA", 
+                        "MOROCCO", 
+                        "FAROE ISLANDS", 
+                        "SLOVAKIA", 
+                        "NEW ZEALAND", 
+                        "UZBEKISTAN", 
+                        "TAJIKISTAN", 
+                        "AZERBAIJAN", 
+                        "UKRAINE", 
+                        "TURKMENISTAN", 
+                        "CANADA", 
+                        "AFGHANISTAN", 
+                        "ANDORRA", 
+                        "ISRAEL", 
+                        "PANAMA", 
+                        "SOUTH AFRICA", 
+                        "CZECH REPUBLIC", 
+                        "DENMARK", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "BULGARIA", 
+                        "SINGAPORE", 
+                        "MONTENEGRO", 
+                        "ESTONIA", 
+                        "ALBANIA", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "UNITED KINGDOM", 
+                        "SERBIA", 
+                        "JAPAN"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "CHINA", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "UNITED STATES", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "AUSTRIA", 
+                        "UNITED KINGDOM", 
+                        "SWITZERLAND", 
+                        "NETHERLANDS", 
+                        "ITALY", 
+                        "IRELAND", 
+                        "SPAIN", 
+                        "PORTUGAL", 
+                        "ARMENIA", 
+                        "CANADA", 
+                        "SLOVAKIA", 
+                        "CROATIA", 
+                        "ALBANIA", 
+                        "ARGENTINA", 
+                        "HUNGARY", 
+                        "POLAND", 
+                        "ROMANIA", 
+                        "BULGARIA", 
+                        "CZECH REPUBLIC", 
+                        "TURKEY", 
+                        "TUNISIA", 
+                        "LUXEMBOURG", 
+                        "JAPAN", 
+                        "CHILE", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "CYPRUS", 
+                        "GEORGIA", 
+                        "UKRAINE", 
+                        "RUSSIAN FEDERATION", 
+                        "NEW ZEALAND", 
+                        "INDIA", 
+                        "SERBIA", 
+                        "KAZAKHSTAN", 
+                        "TURKMENISTAN", 
+                        "BRAZIL", 
+                        "AZERBAIJAN", 
+                        "COLOMBIA", 
+                        "FINLAND", 
+                        "MOROCCO", 
+                        "GREECE", 
+                        "LATVIA", 
+                        "LEBANON", 
+                        "ESTONIA", 
+                        "TAJIKISTAN", 
+                        "UZBEKISTAN", 
+                        "LITHUANIA", 
+                        "KYRGYZSTAN", 
+                        "MEXICO", 
+                        "ANDORRA", 
+                        "PANAMA", 
+                        "SLOVENIA", 
+                        "SVALBARD AND JAN MAYEN", 
+                        "R\u00c9UNION", 
+                        "LIECHTENSTEIN", 
+                        "BELARUS", 
+                        "ALGERIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Slovakia", 
+                "nameofficial": "Slovak Republic"
+            }
+        }, 
+        {
+            "index": 11, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.53888197, 
+                    49.76026136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 11, 
+            "score": 49, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Czech Republic", 
+                "nameofficial": "Czech Republic"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 70, 
+            "target": 70, 
+            "value": 4
+        }, 
+        {
+            "source": 11, 
+            "target": 70, 
+            "value": 2
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 70, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.75396564, 
+                    48.66923253
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 70, 
+            "score": 5, 
+            "data": {
+                "authorsCOO": [
+                    "SLOVAKIA", 
+                    "SLOVAKIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "acta horticulturae", 
+                "focalspecies": [
+                    "Prunus mahaleb", 
+                    "Prunus avium"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "the cherry trees have attractive fruits suitable for direct consumption and industrial processing. in slovakia they have been grown for a long time as an important source of food. monitoring, preservation and growing of old cherry cultivars are valuable both within the preservation of cultural heritage and as a part of biodiversity conservation. researchers from the gene bank of the slovak republic focus on the monitoring of old cherry cultivars in the slovak republic, evaluation of their fruits, assessing the molecular variability, screening of the occurrence of economically important and emerging viruses of red stone-fruits and development of molecular techniques for their sensitive and specific detection. nine localities of cherry occurrence in slovakia were monitored in 2014 and 130 samples of plant material (flowers, leaves, fruits) were obtained. basic description and evaluation was carried out according to the cherry descriptor list. the most promising genotypes of cherries found in different parts of slovakia were grafted on three different rootstocks (prunus avium seedlings, prunus mahaleb seedlings and 'gisela 5'). thirty five most promising genotypes are planted in a nursery of the research institute of plant production in piestany. all obtained samples were tested and characterized for the presence of prune dwarf virus (pdv), arabis mosaic virus (armv), plum pox virus (ppv) and apple chlorotic leaf spot virus (aclsv).", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "KYRGYZSTAN", 
+                        "GERMANY", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "ARMENIA", 
+                        "NETHERLANDS", 
+                        "LEBANON", 
+                        "GREECE", 
+                        "SPAIN", 
+                        "ARGENTINA", 
+                        "BELGIUM", 
+                        "LUXEMBOURG", 
+                        "SLOVENIA", 
+                        "ROMANIA", 
+                        "SWITZERLAND", 
+                        "CROATIA", 
+                        "TURKEY", 
+                        "HUNGARY", 
+                        "RUSSIAN FEDERATION", 
+                        "IRAQ", 
+                        "GEORGIA", 
+                        "POLAND", 
+                        "KAZAKHSTAN", 
+                        "PAKISTAN", 
+                        "PORTUGAL", 
+                        "MALAYSIA", 
+                        "MOROCCO", 
+                        "FAROE ISLANDS", 
+                        "SLOVAKIA", 
+                        "NEW ZEALAND", 
+                        "UZBEKISTAN", 
+                        "TAJIKISTAN", 
+                        "AZERBAIJAN", 
+                        "UKRAINE", 
+                        "TURKMENISTAN", 
+                        "CANADA", 
+                        "AFGHANISTAN", 
+                        "ANDORRA", 
+                        "ISRAEL", 
+                        "PANAMA", 
+                        "SOUTH AFRICA", 
+                        "CZECH REPUBLIC", 
+                        "DENMARK", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "BULGARIA", 
+                        "SINGAPORE", 
+                        "MONTENEGRO", 
+                        "ESTONIA", 
+                        "ALBANIA", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "UNITED KINGDOM", 
+                        "SERBIA", 
+                        "JAPAN"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "CHINA", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "UNITED STATES", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "AUSTRIA", 
+                        "UNITED KINGDOM", 
+                        "SWITZERLAND", 
+                        "NETHERLANDS", 
+                        "ITALY", 
+                        "IRELAND", 
+                        "SPAIN", 
+                        "PORTUGAL", 
+                        "ARMENIA", 
+                        "CANADA", 
+                        "SLOVAKIA", 
+                        "CROATIA", 
+                        "ALBANIA", 
+                        "ARGENTINA", 
+                        "HUNGARY", 
+                        "POLAND", 
+                        "ROMANIA", 
+                        "BULGARIA", 
+                        "CZECH REPUBLIC", 
+                        "TURKEY", 
+                        "TUNISIA", 
+                        "LUXEMBOURG", 
+                        "JAPAN", 
+                        "CHILE", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "CYPRUS", 
+                        "GEORGIA", 
+                        "UKRAINE", 
+                        "RUSSIAN FEDERATION", 
+                        "NEW ZEALAND", 
+                        "INDIA", 
+                        "SERBIA", 
+                        "KAZAKHSTAN", 
+                        "TURKMENISTAN", 
+                        "BRAZIL", 
+                        "AZERBAIJAN", 
+                        "COLOMBIA", 
+                        "FINLAND", 
+                        "MOROCCO", 
+                        "GREECE", 
+                        "LATVIA", 
+                        "LEBANON", 
+                        "ESTONIA", 
+                        "TAJIKISTAN", 
+                        "UZBEKISTAN", 
+                        "LITHUANIA", 
+                        "KYRGYZSTAN", 
+                        "MEXICO", 
+                        "ANDORRA", 
+                        "PANAMA", 
+                        "SLOVENIA", 
+                        "SVALBARD AND JAN MAYEN", 
+                        "R\u00c9UNION", 
+                        "LIECHTENSTEIN", 
+                        "BELARUS", 
+                        "ALGERIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Slovakia", 
+                "nameofficial": "Slovak Republic"
+            }
+        }, 
+        {
+            "index": 11, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.53888197, 
+                    49.76026136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 11, 
+            "score": 15, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Czech Republic", 
+                "nameofficial": "Czech Republic"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 70, 
+            "target": 70, 
+            "value": 3
+        }, 
+        {
+            "source": 11, 
+            "target": 70, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 70, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.75396564, 
+                    48.66923253
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 70, 
+            "score": 6, 
+            "data": {
+                "authorsCOO": [
+                    "SLOVAKIA", 
+                    "SLOVAKIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "acta horticulturae", 
+                "focalspecies": [
+                    "Prunus mahaleb", 
+                    "Prunus avium"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "the cherry trees have attractive fruits suitable for direct consumption and industrial processing. in slovakia they have been grown for a long time as an important source of food. monitoring, preservation and growing of old cherry cultivars are valuable both within the preservation of cultural heritage and as a part of biodiversity conservation. researchers from the gene bank of the slovak republic focus on the monitoring of old cherry cultivars in the slovak republic, evaluation of their fruits, assessing the molecular variability, screening of the occurrence of economically important and emerging viruses of red stone-fruits and development of molecular techniques for their sensitive and specific detection. nine localities of cherry occurrence in slovakia were monitored in 2014 and 130 samples of plant material (flowers, leaves, fruits) were obtained. basic description and evaluation was carried out according to the cherry descriptor list. the most promising genotypes of cherries found in different parts of slovakia were grafted on three different rootstocks (prunus avium seedlings, prunus mahaleb seedlings and 'gisela 5'). thirty five most promising genotypes are planted in a nursery of the research institute of plant production in piestany. all obtained samples were tested and characterized for the presence of prune dwarf virus (pdv), arabis mosaic virus (armv), plum pox virus (ppv) and apple chlorotic leaf spot virus (aclsv).", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "KYRGYZSTAN", 
+                        "GERMANY", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "ARMENIA", 
+                        "NETHERLANDS", 
+                        "LEBANON", 
+                        "GREECE", 
+                        "SPAIN", 
+                        "ARGENTINA", 
+                        "BELGIUM", 
+                        "LUXEMBOURG", 
+                        "SLOVENIA", 
+                        "ROMANIA", 
+                        "SWITZERLAND", 
+                        "CROATIA", 
+                        "TURKEY", 
+                        "HUNGARY", 
+                        "RUSSIAN FEDERATION", 
+                        "IRAQ", 
+                        "GEORGIA", 
+                        "POLAND", 
+                        "KAZAKHSTAN", 
+                        "PAKISTAN", 
+                        "PORTUGAL", 
+                        "MALAYSIA", 
+                        "MOROCCO", 
+                        "FAROE ISLANDS", 
+                        "SLOVAKIA", 
+                        "NEW ZEALAND", 
+                        "UZBEKISTAN", 
+                        "TAJIKISTAN", 
+                        "AZERBAIJAN", 
+                        "UKRAINE", 
+                        "TURKMENISTAN", 
+                        "CANADA", 
+                        "AFGHANISTAN", 
+                        "ANDORRA", 
+                        "ISRAEL", 
+                        "PANAMA", 
+                        "SOUTH AFRICA", 
+                        "CZECH REPUBLIC", 
+                        "DENMARK", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "BULGARIA", 
+                        "SINGAPORE", 
+                        "MONTENEGRO", 
+                        "ESTONIA", 
+                        "ALBANIA", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "UNITED KINGDOM", 
+                        "SERBIA", 
+                        "JAPAN"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "CHINA", 
+                        "AUSTRALIA", 
+                        "DENMARK", 
+                        "UNITED STATES", 
+                        "NORWAY", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "GERMANY", 
+                        "AUSTRIA", 
+                        "UNITED KINGDOM", 
+                        "SWITZERLAND", 
+                        "NETHERLANDS", 
+                        "ITALY", 
+                        "IRELAND", 
+                        "SPAIN", 
+                        "PORTUGAL", 
+                        "ARMENIA", 
+                        "CANADA", 
+                        "SLOVAKIA", 
+                        "CROATIA", 
+                        "ALBANIA", 
+                        "ARGENTINA", 
+                        "HUNGARY", 
+                        "POLAND", 
+                        "ROMANIA", 
+                        "BULGARIA", 
+                        "CZECH REPUBLIC", 
+                        "TURKEY", 
+                        "TUNISIA", 
+                        "LUXEMBOURG", 
+                        "JAPAN", 
+                        "CHILE", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "CYPRUS", 
+                        "GEORGIA", 
+                        "UKRAINE", 
+                        "RUSSIAN FEDERATION", 
+                        "NEW ZEALAND", 
+                        "INDIA", 
+                        "SERBIA", 
+                        "KAZAKHSTAN", 
+                        "TURKMENISTAN", 
+                        "BRAZIL", 
+                        "AZERBAIJAN", 
+                        "COLOMBIA", 
+                        "FINLAND", 
+                        "MOROCCO", 
+                        "GREECE", 
+                        "LATVIA", 
+                        "LEBANON", 
+                        "ESTONIA", 
+                        "TAJIKISTAN", 
+                        "UZBEKISTAN", 
+                        "LITHUANIA", 
+                        "KYRGYZSTAN", 
+                        "MEXICO", 
+                        "ANDORRA", 
+                        "PANAMA", 
+                        "SLOVENIA", 
+                        "SVALBARD AND JAN MAYEN", 
+                        "R\u00c9UNION", 
+                        "LIECHTENSTEIN", 
+                        "BELARUS", 
+                        "ALGERIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Slovakia", 
+                "nameofficial": "Slovak Republic"
+            }
+        }, 
+        {
+            "index": 12, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.53888197, 
+                    49.76026136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 12, 
+            "score": 15, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Czech Republic", 
+                "nameofficial": "Czech Republic"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 70, 
+            "target": 70, 
+            "value": 3
+        }, 
+        {
+            "source": 70, 
+            "target": 12, 
+            "value": 2
+        }
+    ]
+}
+]

@@ -1,0 +1,935 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 61, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    30.8025, 
+                    26.71650873
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 61, 
+            "score": 13, 
+            "data": {
+                "authorsCOO": [
+                    "EGYPT", 
+                    "EGYPT"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "asian pacific journal of tropical disease", 
+                "focalspecies": [
+                    "Arum palaestinum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "scientists continue to search for and conserve plants whose medicinal properties have become crucial in the fight against diseases. moreover, lessons from folk medicine, indigenous knowledge and chinese medicine on crude extracts points to possible findings of novel promising and strong pharmaceutically bioactive constituents. arum palaestinum, commonly known as black calla lily, is one of the most important medicinal plants belonging to the family araceae, which has not been well studied. little is known about its pharmaceutically bioactive constituents and the effective conservation through the use of biotechnology. thus, arum palaestinum is selected and reviewed for its phytochemical analysis and biological activities. besides, the tissue culture and genetic characterization developed for effective conservation of the plant were also summarized. \u00a9 2016 asian pacific tropical medicine press", 
+                "focalspeciesCOO": [
+                    [
+                        "TURKEY", 
+                        "ISRAEL", 
+                        "JORDAN", 
+                        "AUSTRALIA", 
+                        "NEW ZEALAND", 
+                        "UNITED STATES", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "LEBANON", 
+                        "SOUTH AFRICA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Egypt", 
+                "nameofficial": "Arab Republic of Egypt"
+            }
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 18, 
+            "score": 873, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 35, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.6983315, 
+                    60.36196817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 35, 
+            "score": 152, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Canada", 
+                "nameofficial": "Canada"
+            }
+        }, 
+        {
+            "index": 10, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    42.88190638, 
+                    24.16687314
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 10, 
+            "score": 20, 
+            "data": {
+                "authorsCOO": [
+                    "SAUDI ARABIA", 
+                    "INDIA", 
+                    "SAUDI ARABIA"
+                ], 
+                "genetictool": [
+                    "ISSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of horticultural science and biotechnology", 
+                "focalspecies": [
+                    "Vitex trifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "in the present study we have developed an efficient and effective method of synthetic seed production and its two-way germination system of vitex trifolia, for easy transport of the propagules and efficient utilization of its in vitro regeneration system. nodal segments harvested from 8-week-old in vitro cultures were encapsulated in calcium alginate beads. three percent (w/v) na-alginate polymerized in 100\u00a0mmol/l cacl2.2h2o for 30\u00a0min produced clear and uniform beads. germination of encapsulated beads with shoot and roots was achieved on murashige and skoog (ms) medium augmented with 6-furfurylaminopurine (kn, 2.5\u00a0\u00b5mol/l) + \u03b1-naphthalene acetic acid (naa, 1.0\u00a0\u00b5mol/l). for multiple shoot production, synseeds were incubated on 6-benzyladenine (ba, 5.0\u00a0\u00b5mol/l) + naa (0.5\u00a0\u00b5mol/l) augmented ms medium followed by in vitro rooting on ms + indole-3-butyric acid (iba, 1.0\u00a0\u00b5mol/l). the synseeds produced retained about 90% regeneration potential even after 4\u00a0weeks of storage at 4\u00b0c. genetic stability of the regenerated plants was evaluated using 13 inter simple sequence repeats (issr) primers. the study thus provides an efficient system for production of synthetic seeds, their storage and subsequent conversion into genetically identical plants. \u00a9 2016 the journal of horticultural science & biotechnology trust.", 
+                "focalspeciesCOO": [
+                    [
+                        "MYANMAR", 
+                        "AUSTRALIA", 
+                        "PAPUA NEW GUINEA", 
+                        "MALAYSIA", 
+                        "UNITED STATES", 
+                        "FIJI", 
+                        "CHINA", 
+                        "SOLOMON ISLANDS", 
+                        "VANUATU", 
+                        "NEW CALEDONIA", 
+                        "INDONESIA", 
+                        "SAMOA", 
+                        "GUAM", 
+                        "PALAU", 
+                        "SRI LANKA", 
+                        "PAKISTAN", 
+                        "MACAO", 
+                        "TIMOR-LESTE", 
+                        "PHILIPPINES", 
+                        "MAURITIUS", 
+                        "BAHAMAS", 
+                        "JAPAN", 
+                        "THAILAND", 
+                        "MEXICO", 
+                        "WALLIS AND FUTUNA", 
+                        "COMOROS", 
+                        "FRENCH POLYNESIA", 
+                        "R\u00c9UNION", 
+                        "SEYCHELLES", 
+                        "BRAZIL", 
+                        "SINGAPORE", 
+                        "INDIA", 
+                        "NEPAL", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "TONGA", 
+                        "AMERICAN SAMOA", 
+                        "MARSHALL ISLANDS", 
+                        "COOK ISLANDS", 
+                        "NIUE", 
+                        "HONG KONG", 
+                        "CHRISTMAS ISLAND", 
+                        "GABON", 
+                        "PERU", 
+                        "MADAGASCAR", 
+                        "EL SALVADOR", 
+                        "NICARAGUA", 
+                        "MAYOTTE", 
+                        "COSTA RICA", 
+                        "GEORGIA", 
+                        "VIETNAM", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "BRUNEI DARUSSALAM", 
+                        "SOUTH AFRICA", 
+                        "JAMAICA", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "FRANCE", 
+                        "CAMBODIA", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Saudi Arabia", 
+                "nameofficial": "Kingdom of Saudi Arabia"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 61, 
+            "target": 61, 
+            "value": 11
+        }, 
+        {
+            "source": 18, 
+            "target": 61, 
+            "value": 5
+        }, 
+        {
+            "source": 35, 
+            "target": 61, 
+            "value": 3
+        }, 
+        {
+            "source": 10, 
+            "target": 61, 
+            "value": 6
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 61, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    30.8025, 
+                    26.71650873
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 61, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "EGYPT", 
+                    "EGYPT"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "asian pacific journal of tropical disease", 
+                "focalspecies": [
+                    "Arum palaestinum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "scientists continue to search for and conserve plants whose medicinal properties have become crucial in the fight against diseases. moreover, lessons from folk medicine, indigenous knowledge and chinese medicine on crude extracts points to possible findings of novel promising and strong pharmaceutically bioactive constituents. arum palaestinum, commonly known as black calla lily, is one of the most important medicinal plants belonging to the family araceae, which has not been well studied. little is known about its pharmaceutically bioactive constituents and the effective conservation through the use of biotechnology. thus, arum palaestinum is selected and reviewed for its phytochemical analysis and biological activities. besides, the tissue culture and genetic characterization developed for effective conservation of the plant were also summarized. \u00a9 2016 asian pacific tropical medicine press", 
+                "focalspeciesCOO": [
+                    [
+                        "TURKEY", 
+                        "ISRAEL", 
+                        "JORDAN", 
+                        "AUSTRALIA", 
+                        "NEW ZEALAND", 
+                        "UNITED STATES", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "LEBANON", 
+                        "SOUTH AFRICA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Egypt", 
+                "nameofficial": "Arab Republic of Egypt"
+            }
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 18, 
+            "score": 248, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 10, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    42.88190638, 
+                    24.16687314
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 10, 
+            "score": 7, 
+            "data": {
+                "authorsCOO": [
+                    "SAUDI ARABIA", 
+                    "INDIA", 
+                    "SAUDI ARABIA"
+                ], 
+                "genetictool": [
+                    "ISSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of horticultural science and biotechnology", 
+                "focalspecies": [
+                    "Vitex trifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "in the present study we have developed an efficient and effective method of synthetic seed production and its two-way germination system of vitex trifolia, for easy transport of the propagules and efficient utilization of its in vitro regeneration system. nodal segments harvested from 8-week-old in vitro cultures were encapsulated in calcium alginate beads. three percent (w/v) na-alginate polymerized in 100\u00a0mmol/l cacl2.2h2o for 30\u00a0min produced clear and uniform beads. germination of encapsulated beads with shoot and roots was achieved on murashige and skoog (ms) medium augmented with 6-furfurylaminopurine (kn, 2.5\u00a0\u00b5mol/l) + \u03b1-naphthalene acetic acid (naa, 1.0\u00a0\u00b5mol/l). for multiple shoot production, synseeds were incubated on 6-benzyladenine (ba, 5.0\u00a0\u00b5mol/l) + naa (0.5\u00a0\u00b5mol/l) augmented ms medium followed by in vitro rooting on ms + indole-3-butyric acid (iba, 1.0\u00a0\u00b5mol/l). the synseeds produced retained about 90% regeneration potential even after 4\u00a0weeks of storage at 4\u00b0c. genetic stability of the regenerated plants was evaluated using 13 inter simple sequence repeats (issr) primers. the study thus provides an efficient system for production of synthetic seeds, their storage and subsequent conversion into genetically identical plants. \u00a9 2016 the journal of horticultural science & biotechnology trust.", 
+                "focalspeciesCOO": [
+                    [
+                        "MYANMAR", 
+                        "AUSTRALIA", 
+                        "PAPUA NEW GUINEA", 
+                        "MALAYSIA", 
+                        "UNITED STATES", 
+                        "FIJI", 
+                        "CHINA", 
+                        "SOLOMON ISLANDS", 
+                        "VANUATU", 
+                        "NEW CALEDONIA", 
+                        "INDONESIA", 
+                        "SAMOA", 
+                        "GUAM", 
+                        "PALAU", 
+                        "SRI LANKA", 
+                        "PAKISTAN", 
+                        "MACAO", 
+                        "TIMOR-LESTE", 
+                        "PHILIPPINES", 
+                        "MAURITIUS", 
+                        "BAHAMAS", 
+                        "JAPAN", 
+                        "THAILAND", 
+                        "MEXICO", 
+                        "WALLIS AND FUTUNA", 
+                        "COMOROS", 
+                        "FRENCH POLYNESIA", 
+                        "R\u00c9UNION", 
+                        "SEYCHELLES", 
+                        "BRAZIL", 
+                        "SINGAPORE", 
+                        "INDIA", 
+                        "NEPAL", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "TONGA", 
+                        "AMERICAN SAMOA", 
+                        "MARSHALL ISLANDS", 
+                        "COOK ISLANDS", 
+                        "NIUE", 
+                        "HONG KONG", 
+                        "CHRISTMAS ISLAND", 
+                        "GABON", 
+                        "PERU", 
+                        "MADAGASCAR", 
+                        "EL SALVADOR", 
+                        "NICARAGUA", 
+                        "MAYOTTE", 
+                        "COSTA RICA", 
+                        "GEORGIA", 
+                        "VIETNAM", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "BRUNEI DARUSSALAM", 
+                        "SOUTH AFRICA", 
+                        "JAMAICA", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "FRANCE", 
+                        "CAMBODIA", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Saudi Arabia", 
+                "nameofficial": "Kingdom of Saudi Arabia"
+            }
+        }, 
+        {
+            "index": 35, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.6983315, 
+                    60.36196817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 35, 
+            "score": 51, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Canada", 
+                "nameofficial": "Canada"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 61, 
+            "target": 61, 
+            "value": 5
+        }, 
+        {
+            "source": 18, 
+            "target": 61, 
+            "value": 1
+        }, 
+        {
+            "source": 10, 
+            "target": 61, 
+            "value": 3
+        }, 
+        {
+            "source": 35, 
+            "target": 61, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 61, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    30.8025, 
+                    26.71650873
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 61, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "EGYPT", 
+                    "EGYPT"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "asian pacific journal of tropical disease", 
+                "focalspecies": [
+                    "Arum palaestinum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "scientists continue to search for and conserve plants whose medicinal properties have become crucial in the fight against diseases. moreover, lessons from folk medicine, indigenous knowledge and chinese medicine on crude extracts points to possible findings of novel promising and strong pharmaceutically bioactive constituents. arum palaestinum, commonly known as black calla lily, is one of the most important medicinal plants belonging to the family araceae, which has not been well studied. little is known about its pharmaceutically bioactive constituents and the effective conservation through the use of biotechnology. thus, arum palaestinum is selected and reviewed for its phytochemical analysis and biological activities. besides, the tissue culture and genetic characterization developed for effective conservation of the plant were also summarized. \u00a9 2016 asian pacific tropical medicine press", 
+                "focalspeciesCOO": [
+                    [
+                        "TURKEY", 
+                        "ISRAEL", 
+                        "JORDAN", 
+                        "AUSTRALIA", 
+                        "NEW ZEALAND", 
+                        "UNITED STATES", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "LEBANON", 
+                        "SOUTH AFRICA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Egypt", 
+                "nameofficial": "Arab Republic of Egypt"
+            }
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 18, 
+            "score": 301, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 10, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    42.88190638, 
+                    24.16687314
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 10, 
+            "score": 13, 
+            "data": {
+                "authorsCOO": [
+                    "SAUDI ARABIA", 
+                    "INDIA", 
+                    "SAUDI ARABIA"
+                ], 
+                "genetictool": [
+                    "ISSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of horticultural science and biotechnology", 
+                "focalspecies": [
+                    "Vitex trifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "in the present study we have developed an efficient and effective method of synthetic seed production and its two-way germination system of vitex trifolia, for easy transport of the propagules and efficient utilization of its in vitro regeneration system. nodal segments harvested from 8-week-old in vitro cultures were encapsulated in calcium alginate beads. three percent (w/v) na-alginate polymerized in 100\u00a0mmol/l cacl2.2h2o for 30\u00a0min produced clear and uniform beads. germination of encapsulated beads with shoot and roots was achieved on murashige and skoog (ms) medium augmented with 6-furfurylaminopurine (kn, 2.5\u00a0\u00b5mol/l) + \u03b1-naphthalene acetic acid (naa, 1.0\u00a0\u00b5mol/l). for multiple shoot production, synseeds were incubated on 6-benzyladenine (ba, 5.0\u00a0\u00b5mol/l) + naa (0.5\u00a0\u00b5mol/l) augmented ms medium followed by in vitro rooting on ms + indole-3-butyric acid (iba, 1.0\u00a0\u00b5mol/l). the synseeds produced retained about 90% regeneration potential even after 4\u00a0weeks of storage at 4\u00b0c. genetic stability of the regenerated plants was evaluated using 13 inter simple sequence repeats (issr) primers. the study thus provides an efficient system for production of synthetic seeds, their storage and subsequent conversion into genetically identical plants. \u00a9 2016 the journal of horticultural science & biotechnology trust.", 
+                "focalspeciesCOO": [
+                    [
+                        "MYANMAR", 
+                        "AUSTRALIA", 
+                        "PAPUA NEW GUINEA", 
+                        "MALAYSIA", 
+                        "UNITED STATES", 
+                        "FIJI", 
+                        "CHINA", 
+                        "SOLOMON ISLANDS", 
+                        "VANUATU", 
+                        "NEW CALEDONIA", 
+                        "INDONESIA", 
+                        "SAMOA", 
+                        "GUAM", 
+                        "PALAU", 
+                        "SRI LANKA", 
+                        "PAKISTAN", 
+                        "MACAO", 
+                        "TIMOR-LESTE", 
+                        "PHILIPPINES", 
+                        "MAURITIUS", 
+                        "BAHAMAS", 
+                        "JAPAN", 
+                        "THAILAND", 
+                        "MEXICO", 
+                        "WALLIS AND FUTUNA", 
+                        "COMOROS", 
+                        "FRENCH POLYNESIA", 
+                        "R\u00c9UNION", 
+                        "SEYCHELLES", 
+                        "BRAZIL", 
+                        "SINGAPORE", 
+                        "INDIA", 
+                        "NEPAL", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "TONGA", 
+                        "AMERICAN SAMOA", 
+                        "MARSHALL ISLANDS", 
+                        "COOK ISLANDS", 
+                        "NIUE", 
+                        "HONG KONG", 
+                        "CHRISTMAS ISLAND", 
+                        "GABON", 
+                        "PERU", 
+                        "MADAGASCAR", 
+                        "EL SALVADOR", 
+                        "NICARAGUA", 
+                        "MAYOTTE", 
+                        "COSTA RICA", 
+                        "GEORGIA", 
+                        "VIETNAM", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "BRUNEI DARUSSALAM", 
+                        "SOUTH AFRICA", 
+                        "JAMAICA", 
+                        "COCOS (KEELING) ISLANDS", 
+                        "FRANCE", 
+                        "CAMBODIA", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Saudi Arabia", 
+                "nameofficial": "Kingdom of Saudi Arabia"
+            }
+        }, 
+        {
+            "index": 25, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.6983315, 
+                    60.36196817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 25, 
+            "score": 49, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Canada", 
+                "nameofficial": "Canada"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 61, 
+            "target": 61, 
+            "value": 5
+        }, 
+        {
+            "source": 18, 
+            "target": 61, 
+            "value": 1
+        }, 
+        {
+            "source": 10, 
+            "target": 61, 
+            "value": 3
+        }, 
+        {
+            "source": 61, 
+            "target": 25, 
+            "value": 2
+        }
+    ]
+}
+]

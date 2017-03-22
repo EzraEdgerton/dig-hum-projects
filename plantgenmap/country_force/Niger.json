@@ -1,0 +1,811 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 100, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    8.2354786, 
+                    17.23446679
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 100, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "ERITREA", 
+                    "ERITREA", 
+                    "KENYA", 
+                    "NETHERLANDS", 
+                    "NIGER", 
+                    "KENYA", 
+                    "UGANDA", 
+                    "KENYA", 
+                    "KENYA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "quantitative trait loci", 
+                    "SSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "field crops research", 
+                "focalspecies": [
+                    "Striga hermonthica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2015, 
+                "abstracttext": "the parasitic weed striga hermonthica hampers the production of sorghum, the most important cereal crop in eritrea. this weed has a complex mode of infestation that adapts to many hosts and environments, complicating conventional breeding for resistance, which is the only form of crop improvement available to eritrean breeders, but has failed. this study aimed at improving resistance against this parasite by transferring 5 striga resistant quantitative trait loci (qtls) from resistance donor n13 to striga susceptible farmer-preferred sorghum variety (fpsv) hugurtay from eritrea. the method involved backcrossing using marker-assisted selection (mas) and evaluation of the best introgressed lines for striga resistance in artificially infested fields. foreground selection was performed with up to 11 polymorphic simple sequence repeat (ssr) markers linked to striga resistance qtls, while background selection was conducted in the bc3f2 generation with 27 polymorphic unlinked ssr markers to identify the best recovery of the recurrent parent (rp) genetic background. out of 84 bc3f3 lines, l2p3-b, l1p5-a and l2p5p35 performed best with respect to both grain yield and reduced striga infestation. these lines were more resistant to striga than hugurtay, but less resistant than n13. the three lines yielded twice as much as n13, with area under striga number progression curve (ausnpc) values on average 18% higher than that of n13 and 38% lower than that of hugurtay. this suggests that the introgressed qtls conferred significant striga resistance and yield advantage to these bc3f3 backcross progenies under striga pressure. these lines have good potential for future release and demonstrate that when mas is available to conventional breeders, even in countries with no genotyping facilities, it is a useful tool for enhancement, expediency and precision in crop improvement. \u00a9 2015.", 
+                "focalspeciesCOO": [
+                    [
+                        "EGYPT", 
+                        "ERITREA", 
+                        "SUDAN", 
+                        "MALI", 
+                        "BURKINA FASO", 
+                        "BENIN", 
+                        "SENEGAL", 
+                        "CAMEROON", 
+                        "NIGERIA", 
+                        "GUINEA-BISSAU", 
+                        "NIGER", 
+                        "GHANA", 
+                        "ETHIOPIA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "TOGO", 
+                        "KENYA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "UGANDA", 
+                        "SAUDI ARABIA", 
+                        "ZAMBIA", 
+                        "NAMIBIA", 
+                        "ANGOLA", 
+                        "GUINEA", 
+                        "YEMEN"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Niger", 
+                "nameofficial": "Republic of the Niger"
+            }
+        }, 
+        {
+            "index": 99, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    39.61204792, 
+                    15.21227764
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 99, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "ERITREA", 
+                    "ERITREA", 
+                    "KENYA", 
+                    "NETHERLANDS", 
+                    "NIGER", 
+                    "KENYA", 
+                    "UGANDA", 
+                    "KENYA", 
+                    "KENYA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "quantitative trait loci", 
+                    "SSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "field crops research", 
+                "focalspecies": [
+                    "Striga hermonthica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2015, 
+                "abstracttext": "the parasitic weed striga hermonthica hampers the production of sorghum, the most important cereal crop in eritrea. this weed has a complex mode of infestation that adapts to many hosts and environments, complicating conventional breeding for resistance, which is the only form of crop improvement available to eritrean breeders, but has failed. this study aimed at improving resistance against this parasite by transferring 5 striga resistant quantitative trait loci (qtls) from resistance donor n13 to striga susceptible farmer-preferred sorghum variety (fpsv) hugurtay from eritrea. the method involved backcrossing using marker-assisted selection (mas) and evaluation of the best introgressed lines for striga resistance in artificially infested fields. foreground selection was performed with up to 11 polymorphic simple sequence repeat (ssr) markers linked to striga resistance qtls, while background selection was conducted in the bc3f2 generation with 27 polymorphic unlinked ssr markers to identify the best recovery of the recurrent parent (rp) genetic background. out of 84 bc3f3 lines, l2p3-b, l1p5-a and l2p5p35 performed best with respect to both grain yield and reduced striga infestation. these lines were more resistant to striga than hugurtay, but less resistant than n13. the three lines yielded twice as much as n13, with area under striga number progression curve (ausnpc) values on average 18% higher than that of n13 and 38% lower than that of hugurtay. this suggests that the introgressed qtls conferred significant striga resistance and yield advantage to these bc3f3 backcross progenies under striga pressure. these lines have good potential for future release and demonstrate that when mas is available to conventional breeders, even in countries with no genotyping facilities, it is a useful tool for enhancement, expediency and precision in crop improvement. \u00a9 2015.", 
+                "focalspeciesCOO": [
+                    [
+                        "EGYPT", 
+                        "ERITREA", 
+                        "SUDAN", 
+                        "MALI", 
+                        "BURKINA FASO", 
+                        "BENIN", 
+                        "SENEGAL", 
+                        "CAMEROON", 
+                        "NIGERIA", 
+                        "GUINEA-BISSAU", 
+                        "NIGER", 
+                        "GHANA", 
+                        "ETHIOPIA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "TOGO", 
+                        "KENYA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "UGANDA", 
+                        "SAUDI ARABIA", 
+                        "ZAMBIA", 
+                        "NAMIBIA", 
+                        "ANGOLA", 
+                        "GUINEA", 
+                        "YEMEN"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Eritrea", 
+                "nameofficial": "State of Eritrea"
+            }
+        }, 
+        {
+            "index": 62, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    37.97212297, 
+                    0.19582452
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 62, 
+            "score": 29, 
+            "data": {
+                "authorsCOO": [
+                    "KENYA", 
+                    "KENYA", 
+                    "KENYA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "forests trees and livelihoods", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "mango fruits are highly nutritious and economically important to kenyan farmers, who cultivate three categories of cultivars/landraces; local small-fruited, local big-fruited and improved, introduced cultivars. the small-fruited landraces are said to be well adapted to the local environment but are being replaced by introduced cultivars before their diversity has been documented. this study aimed at assessing morphological and genetic diversity of 36 local mango landraces from 35 randomly selected farms in eastern kenya. fruits were collected from three locations for morphological characterization using the \u2018descriptors for mango\u2019 of the international plant genetic resources institute. leaves of the same accessions were sampled for genetic diversity assessment using microsatellites. morphological characterization showed that mean fruit length was 5.6\u201312.5\u00a0cm, while mean fruit weight was 93\u2013578\u00a0g. fruit shape was mostly \u2018roundish\u2019, while fruit ground colour \u2018green\u2019. hierarchical cluster analysis with seven discriminant morphological variables resulted in four clusters. analysis of molecular variance (amova) indicated that variation was high (97%) among, but low (3%) within groups. phylogenetic analysis using neighbor joining method resulted in three clusters that lacked consistency with the morphological clusters. findings from this study may assist to select superior local mango accessions for future breeding programmes and to develop \u2018conservation through use\u2019 strategies for kenyan local mangoes to retain their valuable genetic resources. \u00a9 2016 the author(s). published by informa uk limited, trading as taylor & francis group.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Kenya", 
+                "nameofficial": "Republic of Kenya"
+            }
+        }, 
+        {
+            "index": 25, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.98914998, 
+                    52.33939951
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 25, 
+            "score": 68, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Netherlands", 
+                "nameofficial": "Kingdom of the Netherlands"
+            }
+        }, 
+        {
+            "index": 85, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    32.44409759, 
+                    1.5476062
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 85, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "UGANDA", 
+                    "CONGO", 
+                    "CONGO", 
+                    "BELGIUM", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "KENYA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "acta horticulturae", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "a musa germplasm diagnostic study assessed on-farm musa diversity and farmer selection criteria in different altitudes of north kivu (nk) and south kivu (sk) in eastern democratic republic of congo, an important zone of secondary diversification of plantains (aab genome) and east african highland bananas (eahb, aaa genome). diversity was defined using the indices of richness and dominance/evenness. more cultivars (35) were recorded in sk compared to nk (32). however, nk sites had higher cultivar evenness compared with sk. for example, 21 cultivars were grown widely (in three localities) in nk compared with 12 in sk. longterm on-farm musa diversity conservation will hence be easier in nk. cooking eahb cultivars (35% of musa landscape) dominated in nk, followed by beer (27%, eahb + abb), plantain (21%) and dessert (aab + aaa, 17%) cultivars. cooking cultivars were grown across all altitudes, while beer types dominated at the higher altitudes of munoli (1,733 m) and plantains at the low altitudes in mutwanga (1,049 m) and mangodomu (969 m). sk, with predominantly high altitudes (1,553 to 1,992 m), was dominated by beer types (72%). vulambya (eahb cooking, 22%), nguma (plantain, 13%), tundu (eahb beer, 10%), pisang awak (abb genome, pisang awak subgroup, beer, 8%), and mukingiro (eahb beer, 7%) dominated in nk, while nshikazi (eahb beer, 66%) dominates in sk. tolerance of infertile soil, pest and disease resistance and availability of planting materials were key farmer selection criteria that influenced musa diversity on-farm. ex situ conservation of rare cultivars with limited cultural importance is recommended to prevent genetic erosion.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Uganda", 
+                "nameofficial": "Republic of Uganda"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 63, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "ISRAEL", 
+                    "SWEDEN", 
+                    "THAILAND", 
+                    "PORTUGAL", 
+                    "BELGIUM", 
+                    "AUSTRALIA", 
+                    "PORTUGAL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Posidonia oceanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "here we present the results of a multiple organizational level analysis conceived to identify acclimative/adaptive strategies exhibited by the seagrass posidonia oceanica to the daily fluctuations in the light environment, at contrasting depths. we assessed changes in photophysiological parameters, leaf respiration, pigments, and protein and mrna expression levels. the results show that the diel oscillations of p. oceanica photophysiological and respiratory responses were related to transcripts and proteins expression of the genes involved in those processes and that there was a response asynchrony between shallow and deep plants probably caused by the strong differences in the light environment. the photochemical pathway of energy use was more effective in shallow plants due to higher light availability, but these plants needed more investment in photoprotection and photorepair, requiring higher translation and protein synthesis than deep plants. the genetic differentiation between deep and shallow stands suggests the existence of locally adapted genotypes to contrasting light environments. the depth-specific diel rhythms of photosynthetic and respiratory processes, from molecular to physiological levels, must be considered in the management and conservation of these key coastal ecosystems. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "MALTA", 
+                        "TUNISIA", 
+                        "EGYPT", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "IRELAND", 
+                        "GERMANY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 99, 
+            "target": 100, 
+            "value": 2
+        }, 
+        {
+            "source": 62, 
+            "target": 100, 
+            "value": 4
+        }, 
+        {
+            "source": 25, 
+            "target": 100, 
+            "value": 1
+        }, 
+        {
+            "source": 100, 
+            "target": 85, 
+            "value": 1
+        }, 
+        {
+            "source": 24, 
+            "target": 100, 
+            "value": 3
+        }, 
+        {
+            "source": 100, 
+            "target": 100, 
+            "value": 3
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 100, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    8.2354786, 
+                    17.23446679
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 100, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "ERITREA", 
+                    "ERITREA", 
+                    "KENYA", 
+                    "NETHERLANDS", 
+                    "NIGER", 
+                    "KENYA", 
+                    "UGANDA", 
+                    "KENYA", 
+                    "KENYA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "quantitative trait loci", 
+                    "SSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "field crops research", 
+                "focalspecies": [
+                    "Striga hermonthica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2015, 
+                "abstracttext": "the parasitic weed striga hermonthica hampers the production of sorghum, the most important cereal crop in eritrea. this weed has a complex mode of infestation that adapts to many hosts and environments, complicating conventional breeding for resistance, which is the only form of crop improvement available to eritrean breeders, but has failed. this study aimed at improving resistance against this parasite by transferring 5 striga resistant quantitative trait loci (qtls) from resistance donor n13 to striga susceptible farmer-preferred sorghum variety (fpsv) hugurtay from eritrea. the method involved backcrossing using marker-assisted selection (mas) and evaluation of the best introgressed lines for striga resistance in artificially infested fields. foreground selection was performed with up to 11 polymorphic simple sequence repeat (ssr) markers linked to striga resistance qtls, while background selection was conducted in the bc3f2 generation with 27 polymorphic unlinked ssr markers to identify the best recovery of the recurrent parent (rp) genetic background. out of 84 bc3f3 lines, l2p3-b, l1p5-a and l2p5p35 performed best with respect to both grain yield and reduced striga infestation. these lines were more resistant to striga than hugurtay, but less resistant than n13. the three lines yielded twice as much as n13, with area under striga number progression curve (ausnpc) values on average 18% higher than that of n13 and 38% lower than that of hugurtay. this suggests that the introgressed qtls conferred significant striga resistance and yield advantage to these bc3f3 backcross progenies under striga pressure. these lines have good potential for future release and demonstrate that when mas is available to conventional breeders, even in countries with no genotyping facilities, it is a useful tool for enhancement, expediency and precision in crop improvement. \u00a9 2015.", 
+                "focalspeciesCOO": [
+                    [
+                        "EGYPT", 
+                        "ERITREA", 
+                        "SUDAN", 
+                        "MALI", 
+                        "BURKINA FASO", 
+                        "BENIN", 
+                        "SENEGAL", 
+                        "CAMEROON", 
+                        "NIGERIA", 
+                        "GUINEA-BISSAU", 
+                        "NIGER", 
+                        "GHANA", 
+                        "ETHIOPIA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "TOGO", 
+                        "KENYA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "UGANDA", 
+                        "SAUDI ARABIA", 
+                        "ZAMBIA", 
+                        "NAMIBIA", 
+                        "ANGOLA", 
+                        "GUINEA", 
+                        "YEMEN"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Niger", 
+                "nameofficial": "Republic of the Niger"
+            }
+        }, 
+        {
+            "index": 99, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    39.61204792, 
+                    15.21227764
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 99, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "ERITREA", 
+                    "ERITREA", 
+                    "KENYA", 
+                    "NETHERLANDS", 
+                    "NIGER", 
+                    "KENYA", 
+                    "UGANDA", 
+                    "KENYA", 
+                    "KENYA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "quantitative trait loci", 
+                    "SSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "field crops research", 
+                "focalspecies": [
+                    "Striga hermonthica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2015, 
+                "abstracttext": "the parasitic weed striga hermonthica hampers the production of sorghum, the most important cereal crop in eritrea. this weed has a complex mode of infestation that adapts to many hosts and environments, complicating conventional breeding for resistance, which is the only form of crop improvement available to eritrean breeders, but has failed. this study aimed at improving resistance against this parasite by transferring 5 striga resistant quantitative trait loci (qtls) from resistance donor n13 to striga susceptible farmer-preferred sorghum variety (fpsv) hugurtay from eritrea. the method involved backcrossing using marker-assisted selection (mas) and evaluation of the best introgressed lines for striga resistance in artificially infested fields. foreground selection was performed with up to 11 polymorphic simple sequence repeat (ssr) markers linked to striga resistance qtls, while background selection was conducted in the bc3f2 generation with 27 polymorphic unlinked ssr markers to identify the best recovery of the recurrent parent (rp) genetic background. out of 84 bc3f3 lines, l2p3-b, l1p5-a and l2p5p35 performed best with respect to both grain yield and reduced striga infestation. these lines were more resistant to striga than hugurtay, but less resistant than n13. the three lines yielded twice as much as n13, with area under striga number progression curve (ausnpc) values on average 18% higher than that of n13 and 38% lower than that of hugurtay. this suggests that the introgressed qtls conferred significant striga resistance and yield advantage to these bc3f3 backcross progenies under striga pressure. these lines have good potential for future release and demonstrate that when mas is available to conventional breeders, even in countries with no genotyping facilities, it is a useful tool for enhancement, expediency and precision in crop improvement. \u00a9 2015.", 
+                "focalspeciesCOO": [
+                    [
+                        "EGYPT", 
+                        "ERITREA", 
+                        "SUDAN", 
+                        "MALI", 
+                        "BURKINA FASO", 
+                        "BENIN", 
+                        "SENEGAL", 
+                        "CAMEROON", 
+                        "NIGERIA", 
+                        "GUINEA-BISSAU", 
+                        "NIGER", 
+                        "GHANA", 
+                        "ETHIOPIA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "TOGO", 
+                        "KENYA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "UGANDA", 
+                        "SAUDI ARABIA", 
+                        "ZAMBIA", 
+                        "NAMIBIA", 
+                        "ANGOLA", 
+                        "GUINEA", 
+                        "YEMEN"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Eritrea", 
+                "nameofficial": "State of Eritrea"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 15, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "ISRAEL", 
+                    "SWEDEN", 
+                    "THAILAND", 
+                    "PORTUGAL", 
+                    "BELGIUM", 
+                    "AUSTRALIA", 
+                    "PORTUGAL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Posidonia oceanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "here we present the results of a multiple organizational level analysis conceived to identify acclimative/adaptive strategies exhibited by the seagrass posidonia oceanica to the daily fluctuations in the light environment, at contrasting depths. we assessed changes in photophysiological parameters, leaf respiration, pigments, and protein and mrna expression levels. the results show that the diel oscillations of p. oceanica photophysiological and respiratory responses were related to transcripts and proteins expression of the genes involved in those processes and that there was a response asynchrony between shallow and deep plants probably caused by the strong differences in the light environment. the photochemical pathway of energy use was more effective in shallow plants due to higher light availability, but these plants needed more investment in photoprotection and photorepair, requiring higher translation and protein synthesis than deep plants. the genetic differentiation between deep and shallow stands suggests the existence of locally adapted genotypes to contrasting light environments. the depth-specific diel rhythms of photosynthetic and respiratory processes, from molecular to physiological levels, must be considered in the management and conservation of these key coastal ecosystems. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "MALTA", 
+                        "TUNISIA", 
+                        "EGYPT", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "IRELAND", 
+                        "GERMANY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 99, 
+            "target": 100, 
+            "value": 1
+        }, 
+        {
+            "source": 24, 
+            "target": 100, 
+            "value": 3
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 100, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    8.2354786, 
+                    17.23446679
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 100, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "ERITREA", 
+                    "ERITREA", 
+                    "KENYA", 
+                    "NETHERLANDS", 
+                    "NIGER", 
+                    "KENYA", 
+                    "UGANDA", 
+                    "KENYA", 
+                    "KENYA"
+                ], 
+                "genetictool": [
+                    "simple sequence repeat", 
+                    "quantitative trait loci", 
+                    "SSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "field crops research", 
+                "focalspecies": [
+                    "Striga hermonthica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2015, 
+                "abstracttext": "the parasitic weed striga hermonthica hampers the production of sorghum, the most important cereal crop in eritrea. this weed has a complex mode of infestation that adapts to many hosts and environments, complicating conventional breeding for resistance, which is the only form of crop improvement available to eritrean breeders, but has failed. this study aimed at improving resistance against this parasite by transferring 5 striga resistant quantitative trait loci (qtls) from resistance donor n13 to striga susceptible farmer-preferred sorghum variety (fpsv) hugurtay from eritrea. the method involved backcrossing using marker-assisted selection (mas) and evaluation of the best introgressed lines for striga resistance in artificially infested fields. foreground selection was performed with up to 11 polymorphic simple sequence repeat (ssr) markers linked to striga resistance qtls, while background selection was conducted in the bc3f2 generation with 27 polymorphic unlinked ssr markers to identify the best recovery of the recurrent parent (rp) genetic background. out of 84 bc3f3 lines, l2p3-b, l1p5-a and l2p5p35 performed best with respect to both grain yield and reduced striga infestation. these lines were more resistant to striga than hugurtay, but less resistant than n13. the three lines yielded twice as much as n13, with area under striga number progression curve (ausnpc) values on average 18% higher than that of n13 and 38% lower than that of hugurtay. this suggests that the introgressed qtls conferred significant striga resistance and yield advantage to these bc3f3 backcross progenies under striga pressure. these lines have good potential for future release and demonstrate that when mas is available to conventional breeders, even in countries with no genotyping facilities, it is a useful tool for enhancement, expediency and precision in crop improvement. \u00a9 2015.", 
+                "focalspeciesCOO": [
+                    [
+                        "EGYPT", 
+                        "ERITREA", 
+                        "SUDAN", 
+                        "MALI", 
+                        "BURKINA FASO", 
+                        "BENIN", 
+                        "SENEGAL", 
+                        "CAMEROON", 
+                        "NIGERIA", 
+                        "GUINEA-BISSAU", 
+                        "NIGER", 
+                        "GHANA", 
+                        "ETHIOPIA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "TOGO", 
+                        "KENYA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "UGANDA", 
+                        "SAUDI ARABIA", 
+                        "ZAMBIA", 
+                        "NAMIBIA", 
+                        "ANGOLA", 
+                        "GUINEA", 
+                        "YEMEN"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Niger", 
+                "nameofficial": "Republic of the Niger"
+            }
+        }, 
+        {
+            "index": 62, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    37.97212297, 
+                    0.19582452
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 62, 
+            "score": 10, 
+            "data": {
+                "authorsCOO": [
+                    "KENYA", 
+                    "KENYA", 
+                    "KENYA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "forests trees and livelihoods", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "mango fruits are highly nutritious and economically important to kenyan farmers, who cultivate three categories of cultivars/landraces; local small-fruited, local big-fruited and improved, introduced cultivars. the small-fruited landraces are said to be well adapted to the local environment but are being replaced by introduced cultivars before their diversity has been documented. this study aimed at assessing morphological and genetic diversity of 36 local mango landraces from 35 randomly selected farms in eastern kenya. fruits were collected from three locations for morphological characterization using the \u2018descriptors for mango\u2019 of the international plant genetic resources institute. leaves of the same accessions were sampled for genetic diversity assessment using microsatellites. morphological characterization showed that mean fruit length was 5.6\u201312.5\u00a0cm, while mean fruit weight was 93\u2013578\u00a0g. fruit shape was mostly \u2018roundish\u2019, while fruit ground colour \u2018green\u2019. hierarchical cluster analysis with seven discriminant morphological variables resulted in four clusters. analysis of molecular variance (amova) indicated that variation was high (97%) among, but low (3%) within groups. phylogenetic analysis using neighbor joining method resulted in three clusters that lacked consistency with the morphological clusters. findings from this study may assist to select superior local mango accessions for future breeding programmes and to develop \u2018conservation through use\u2019 strategies for kenyan local mangoes to retain their valuable genetic resources. \u00a9 2016 the author(s). published by informa uk limited, trading as taylor & francis group.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Kenya", 
+                "nameofficial": "Republic of Kenya"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 18, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "ISRAEL", 
+                    "SWEDEN", 
+                    "THAILAND", 
+                    "PORTUGAL", 
+                    "BELGIUM", 
+                    "AUSTRALIA", 
+                    "PORTUGAL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Posidonia oceanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "here we present the results of a multiple organizational level analysis conceived to identify acclimative/adaptive strategies exhibited by the seagrass posidonia oceanica to the daily fluctuations in the light environment, at contrasting depths. we assessed changes in photophysiological parameters, leaf respiration, pigments, and protein and mrna expression levels. the results show that the diel oscillations of p. oceanica photophysiological and respiratory responses were related to transcripts and proteins expression of the genes involved in those processes and that there was a response asynchrony between shallow and deep plants probably caused by the strong differences in the light environment. the photochemical pathway of energy use was more effective in shallow plants due to higher light availability, but these plants needed more investment in photoprotection and photorepair, requiring higher translation and protein synthesis than deep plants. the genetic differentiation between deep and shallow stands suggests the existence of locally adapted genotypes to contrasting light environments. the depth-specific diel rhythms of photosynthetic and respiratory processes, from molecular to physiological levels, must be considered in the management and conservation of these key coastal ecosystems. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "MALTA", 
+                        "TUNISIA", 
+                        "EGYPT", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "IRELAND", 
+                        "GERMANY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 62, 
+            "target": 100, 
+            "value": 1
+        }, 
+        {
+            "source": 100, 
+            "target": 24, 
+            "value": 1
+        }, 
+        {
+            "source": 100, 
+            "target": 100, 
+            "value": 2
+        }
+    ]
+}
+]

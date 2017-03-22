@@ -1,0 +1,2083 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 77, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    17.8164091, 
+                    44.00040856
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 77, 
+            "score": 6, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "ROMANIA", 
+                    "CROATIA", 
+                    "GREECE", 
+                    "SERBIA", 
+                    "MOLDOVA", 
+                    "ALBANIA", 
+                    "CROATIA", 
+                    "GERMANY", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "MACEDONIA", 
+                    "MONTENEGRO"
+                ], 
+                "genetictool": [
+                    "microsatellite"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Salvia officinalis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "dalmatian sage (salvia officinalis l., lamiaceae) is a well-known aromatic and medicinal mediterranean plant that is native in coastal regions of the western balkan and southern apennine peninsulas and is commonly cultivated worldwide. it is widely used in the food, pharmaceutical and cosmetic industries. knowledge of its genetic diversity and spatiotemporal patterns is important for plant breeding programmes and conservation. we used eight microsatellite markers to investigate evolutionary history of indigenous populations as well as genetic diversity and structure within and among indigenous and cultivated/naturalised populations distributed across the balkan peninsula. the results showed a clear separation between the indigenous and cultivated/naturalised groups, with the cultivated material originating from one restricted geographical area. most of the genetic diversity in both groups was attributable to differences among individuals within populations, although spatial genetic analysis of indigenous populations indicated the existence of isolation by distance. geographical structuring of indigenous populations was found using clustering analysis, with three sub-clusters of indigenous populations. the highest level of gene diversity and the greatest number of private alleles were found in the central part of the eastern adriatic coast, while decreases in gene diversity and number of private alleles were evident towards the northwestern adriatic coast and southern and eastern regions of the balkan peninsula. the results of ecological niche modelling during last glacial maximum and approximate bayesian computation suggested two plausible evolutionary trajectories: 1) the species survived in the glacial refugium in southern adriatic coastal region with subsequent colonization events towards northern, eastern and southern balkan peninsula; 2) species survived in several refugia exhibiting concurrent divergence into three genetic groups. the insight into genetic diversity and structure also provide the baseline data for conservation of s. officinalis genetic resources valuable for future breeding programmes. \u00a9 2016 re\u0161etnik et al. this is an open access article distributed under the terms of the creative commons attribution license, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Bosnia and Herzegovina", 
+                "nameofficial": "Bosnia and Herzegovina"
+            }
+        }, 
+        {
+            "index": 74, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.29039507, 
+                    44.81372482
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 74, 
+            "score": 7, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "ROMANIA", 
+                    "CROATIA", 
+                    "GREECE", 
+                    "SERBIA", 
+                    "MOLDOVA", 
+                    "ALBANIA", 
+                    "CROATIA", 
+                    "GERMANY", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "MACEDONIA", 
+                    "MONTENEGRO"
+                ], 
+                "genetictool": [
+                    "microsatellite"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Salvia officinalis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "dalmatian sage (salvia officinalis l., lamiaceae) is a well-known aromatic and medicinal mediterranean plant that is native in coastal regions of the western balkan and southern apennine peninsulas and is commonly cultivated worldwide. it is widely used in the food, pharmaceutical and cosmetic industries. knowledge of its genetic diversity and spatiotemporal patterns is important for plant breeding programmes and conservation. we used eight microsatellite markers to investigate evolutionary history of indigenous populations as well as genetic diversity and structure within and among indigenous and cultivated/naturalised populations distributed across the balkan peninsula. the results showed a clear separation between the indigenous and cultivated/naturalised groups, with the cultivated material originating from one restricted geographical area. most of the genetic diversity in both groups was attributable to differences among individuals within populations, although spatial genetic analysis of indigenous populations indicated the existence of isolation by distance. geographical structuring of indigenous populations was found using clustering analysis, with three sub-clusters of indigenous populations. the highest level of gene diversity and the greatest number of private alleles were found in the central part of the eastern adriatic coast, while decreases in gene diversity and number of private alleles were evident towards the northwestern adriatic coast and southern and eastern regions of the balkan peninsula. the results of ecological niche modelling during last glacial maximum and approximate bayesian computation suggested two plausible evolutionary trajectories: 1) the species survived in the glacial refugium in southern adriatic coastal region with subsequent colonization events towards northern, eastern and southern balkan peninsula; 2) species survived in several refugia exhibiting concurrent divergence into three genetic groups. the insight into genetic diversity and structure also provide the baseline data for conservation of s. officinalis genetic resources valuable for future breeding programmes. \u00a9 2016 re\u0161etnik et al. this is an open access article distributed under the terms of the creative commons attribution license, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Croatia", 
+                "nameofficial": "Republic of Croatia"
+            }
+        }, 
+        {
+            "index": 27, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    14.995463, 
+                    46.14315048
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 27, 
+            "score": 13, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Slovenia", 
+                "nameofficial": "Republic of Slovenia"
+            }
+        }, 
+        {
+            "index": 72, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.21945155, 
+                    45.56450023
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 72, 
+            "score": 14, 
+            "data": {
+                "authorsCOO": [
+                    "ROMANIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genetic resources and crop evolution", 
+                "focalspecies": [
+                    "Prunus cerasus", 
+                    "Prunus domestica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "in the last 10\u00a0years traditional orchards became more and more important for biodiversity conservation as priority habitats on one hand and for in situ conservation of plant genetic resources for food and agriculture in supporting the food security resilience of local communities on the other hand. f\u00e2nt\u00e2nele is a small village positioned at the foot of c\u00e2ndrel mountain, belonging to the romanian carpathians, in the buffering zone of the protected area rosci0085 \u2018frumoasa\u2019 which is famous in the region for its traditional orchards established for more than four centuries. the main scope of this article is to survey these traditional orchards for the existing old fruit tree species and varieties. as a result from a total of 401 surveyed trees, 20 old apple tree varieties have been recorded and 55.74\u00a0% are estimated to be older than 100\u00a0years. only two modern apple tree varieties have been recorded in the village area older than 40\u00a0years (i.e. \u2018florina\u2019 and \u2018starkrimson delicious\u2019) with a low infusion rate (i.e. 16.17\u00a0%). walnut trees, plum trees, cherry trees and sour cherry trees complete the structure of traditional fruit orchards. no rejuvenating activities or pesticides use have been registered for more than 25\u00a0years. a protected habitat at european level was recorded in the area of this village for the first time (i.e. habitat of moliniacaerulea (l.) moench subsp. arundinacea) and also protected species according to the european union regulatory framework for natura 2000\u00a0have been observed. \u00a9 2015, springer science+business media dordrecht.", 
+                "focalspeciesCOO": [
+                    [
+                        "GERMANY", 
+                        "AUSTRIA", 
+                        "FRANCE"
+                    ], 
+                    [
+                        "FRANCE", 
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "UNITED STATES", 
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "POLAND", 
+                        "AUSTRIA", 
+                        "ROMANIA", 
+                        "UNITED KINGDOM", 
+                        "ITALY", 
+                        "NETHERLANDS", 
+                        "TURKMENISTAN", 
+                        "UKRAINE", 
+                        "ESTONIA", 
+                        "RUSSIAN FEDERATION", 
+                        "KYRGYZSTAN", 
+                        "UZBEKISTAN", 
+                        "AZERBAIJAN", 
+                        "HUNGARY", 
+                        "SPAIN", 
+                        "BULGARIA", 
+                        "GEORGIA", 
+                        "CANADA", 
+                        "ARMENIA", 
+                        "LITHUANIA", 
+                        "LATVIA", 
+                        "KAZAKHSTAN", 
+                        "TAJIKISTAN", 
+                        "BELGIUM", 
+                        "LEBANON", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "GREECE", 
+                        "JAPAN", 
+                        "ERITREA", 
+                        "IRELAND", 
+                        "NEW ZEALAND", 
+                        "MOROCCO", 
+                        "INDIA", 
+                        "SOUTH AFRICA", 
+                        "ISRAEL", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "BRAZIL", 
+                        "NORWAY", 
+                        "CHINA", 
+                        "AFGHANISTAN", 
+                        "DENMARK", 
+                        "FINLAND", 
+                        "CZECH REPUBLIC", 
+                        "BELARUS", 
+                        "TURKEY", 
+                        "SLOVAKIA", 
+                        "SWITZERLAND", 
+                        "PORTUGAL", 
+                        "PANAMA", 
+                        "IRAQ", 
+                        "PERU", 
+                        "PAKISTAN", 
+                        "ALGERIA", 
+                        "MALTA", 
+                        "ETHIOPIA", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "SERBIA", 
+                        "LUXEMBOURG", 
+                        "ARGENTINA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "R\u00c9UNION", 
+                        "ANDORRA", 
+                        "SLOVENIA", 
+                        "CUBA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Romania", 
+                "nameofficial": "Romania"
+            }
+        }, 
+        {
+            "index": 12, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    24.53794505, 
+                    38.52254746
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 12, 
+            "score": 32, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Greece", 
+                "nameofficial": "Hellenic Republic"
+            }
+        }, 
+        {
+            "index": 40, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    20.29725084, 
+                    44.06736041
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 40, 
+            "score": 17, 
+            "data": {
+                "authorsCOO": [
+                    "SERBIA", 
+                    "ITALY", 
+                    "AUSTRIA"
+                ], 
+                "genetictool": [
+                    "EST"
+                ], 
+                "fundingorganization": "", 
+                "journal": "conservation genetics", 
+                "focalspecies": [
+                    "Picea omorika"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the last resort for conservation of rare tree populations in refugial areas under high risk of climate driven extinction may be ex situ conservation and assisted translocation. although such actions require detailed knowledge about the spatial scale and heterogeneity of the within-population distribution of genetic diversity, it is still unknown whether fine-scale spatial genetic structure (fsgs) is present in refugial populations of forest trees. in order to address this issue, we carried out the first whole-population genetic characterisation of a small and isolated refugial population of the iucn red-listed serbian spruce [picea omorika (pan\u010d.) purk.] from the balkans. all 418 adult individuals were georeferenced and genotyped at nuclear est-ssrs and at a mitochondrial (mtdna) locus. spatial autocorrelation analyses provided only a simplified description of fsgs, which is concordant with findings in wind-pollinated species with limited seed dispersal. however, bayesian analysis revealed three heterogeneous, highly differentiated (pairwise g\u2019st &gt; 0.3), and spatially localised sub-populations showing only partial overlap with the distribution of mtdna haplotypes. such complex structure in only 0.34 ha, resulting mainly from historical events, restrictions to gene flow and high local density, was undetected in previous work based on more traditional sampling schemes for population genetics surveys. we demonstrate the usefulness of sampling schemes leaning towards a whole-population genetic characterisation in mining the finest characteristics of fsgs, and argue that our understanding of genetic structuring in highly heterogeneous refugial regions at both macro- and micro-scales is still rather limited and often oversimplified. this has severe implications on conservation of plant biodiversity from these regions in terms of responses to global climate change. \u00a9 2017 springer science+business media dordrecht", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "NETHERLANDS", 
+                        "FRANCE", 
+                        "BOSNIA AND HERZEGOVINA", 
+                        "SERBIA", 
+                        "UNITED STATES", 
+                        "FINLAND", 
+                        "POLAND", 
+                        "CZECH REPUBLIC", 
+                        "DENMARK", 
+                        "CANADA", 
+                        "NEW ZEALAND", 
+                        "UNITED KINGDOM", 
+                        "NORWAY", 
+                        "PANAMA", 
+                        "SPAIN", 
+                        "LUXEMBOURG", 
+                        "ESTONIA", 
+                        "AUSTRIA", 
+                        "SLOVENIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Serbia", 
+                "nameofficial": "Republic of Serbia"
+            }
+        }, 
+        {
+            "index": 75, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    28.54018109, 
+                    47.10710437
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 75, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "ROMANIA", 
+                    "CROATIA", 
+                    "GREECE", 
+                    "SERBIA", 
+                    "MOLDOVA", 
+                    "ALBANIA", 
+                    "CROATIA", 
+                    "GERMANY", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "MACEDONIA", 
+                    "MONTENEGRO"
+                ], 
+                "genetictool": [
+                    "microsatellite"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Salvia officinalis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "dalmatian sage (salvia officinalis l., lamiaceae) is a well-known aromatic and medicinal mediterranean plant that is native in coastal regions of the western balkan and southern apennine peninsulas and is commonly cultivated worldwide. it is widely used in the food, pharmaceutical and cosmetic industries. knowledge of its genetic diversity and spatiotemporal patterns is important for plant breeding programmes and conservation. we used eight microsatellite markers to investigate evolutionary history of indigenous populations as well as genetic diversity and structure within and among indigenous and cultivated/naturalised populations distributed across the balkan peninsula. the results showed a clear separation between the indigenous and cultivated/naturalised groups, with the cultivated material originating from one restricted geographical area. most of the genetic diversity in both groups was attributable to differences among individuals within populations, although spatial genetic analysis of indigenous populations indicated the existence of isolation by distance. geographical structuring of indigenous populations was found using clustering analysis, with three sub-clusters of indigenous populations. the highest level of gene diversity and the greatest number of private alleles were found in the central part of the eastern adriatic coast, while decreases in gene diversity and number of private alleles were evident towards the northwestern adriatic coast and southern and eastern regions of the balkan peninsula. the results of ecological niche modelling during last glacial maximum and approximate bayesian computation suggested two plausible evolutionary trajectories: 1) the species survived in the glacial refugium in southern adriatic coastal region with subsequent colonization events towards northern, eastern and southern balkan peninsula; 2) species survived in several refugia exhibiting concurrent divergence into three genetic groups. the insight into genetic diversity and structure also provide the baseline data for conservation of s. officinalis genetic resources valuable for future breeding programmes. \u00a9 2016 re\u0161etnik et al. this is an open access article distributed under the terms of the creative commons attribution license, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Moldova", 
+                "nameofficial": "Republic of Moldova"
+            }
+        }, 
+        {
+            "index": 76, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.87170014, 
+                    41.00017358
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 76, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "ROMANIA", 
+                    "CROATIA", 
+                    "GREECE", 
+                    "SERBIA", 
+                    "MOLDOVA", 
+                    "ALBANIA", 
+                    "CROATIA", 
+                    "GERMANY", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "MACEDONIA", 
+                    "MONTENEGRO"
+                ], 
+                "genetictool": [
+                    "microsatellite"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Salvia officinalis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "dalmatian sage (salvia officinalis l., lamiaceae) is a well-known aromatic and medicinal mediterranean plant that is native in coastal regions of the western balkan and southern apennine peninsulas and is commonly cultivated worldwide. it is widely used in the food, pharmaceutical and cosmetic industries. knowledge of its genetic diversity and spatiotemporal patterns is important for plant breeding programmes and conservation. we used eight microsatellite markers to investigate evolutionary history of indigenous populations as well as genetic diversity and structure within and among indigenous and cultivated/naturalised populations distributed across the balkan peninsula. the results showed a clear separation between the indigenous and cultivated/naturalised groups, with the cultivated material originating from one restricted geographical area. most of the genetic diversity in both groups was attributable to differences among individuals within populations, although spatial genetic analysis of indigenous populations indicated the existence of isolation by distance. geographical structuring of indigenous populations was found using clustering analysis, with three sub-clusters of indigenous populations. the highest level of gene diversity and the greatest number of private alleles were found in the central part of the eastern adriatic coast, while decreases in gene diversity and number of private alleles were evident towards the northwestern adriatic coast and southern and eastern regions of the balkan peninsula. the results of ecological niche modelling during last glacial maximum and approximate bayesian computation suggested two plausible evolutionary trajectories: 1) the species survived in the glacial refugium in southern adriatic coastal region with subsequent colonization events towards northern, eastern and southern balkan peninsula; 2) species survived in several refugia exhibiting concurrent divergence into three genetic groups. the insight into genetic diversity and structure also provide the baseline data for conservation of s. officinalis genetic resources valuable for future breeding programmes. \u00a9 2016 re\u0161etnik et al. this is an open access article distributed under the terms of the creative commons attribution license, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Albania", 
+                "nameofficial": "Republic of Albania"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 252, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 78, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    21.745279, 
+                    41.60059479
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 78, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "ROMANIA", 
+                    "CROATIA", 
+                    "GREECE", 
+                    "SERBIA", 
+                    "MOLDOVA", 
+                    "ALBANIA", 
+                    "CROATIA", 
+                    "GERMANY", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "MACEDONIA", 
+                    "MONTENEGRO"
+                ], 
+                "genetictool": [
+                    "microsatellite"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Salvia officinalis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "dalmatian sage (salvia officinalis l., lamiaceae) is a well-known aromatic and medicinal mediterranean plant that is native in coastal regions of the western balkan and southern apennine peninsulas and is commonly cultivated worldwide. it is widely used in the food, pharmaceutical and cosmetic industries. knowledge of its genetic diversity and spatiotemporal patterns is important for plant breeding programmes and conservation. we used eight microsatellite markers to investigate evolutionary history of indigenous populations as well as genetic diversity and structure within and among indigenous and cultivated/naturalised populations distributed across the balkan peninsula. the results showed a clear separation between the indigenous and cultivated/naturalised groups, with the cultivated material originating from one restricted geographical area. most of the genetic diversity in both groups was attributable to differences among individuals within populations, although spatial genetic analysis of indigenous populations indicated the existence of isolation by distance. geographical structuring of indigenous populations was found using clustering analysis, with three sub-clusters of indigenous populations. the highest level of gene diversity and the greatest number of private alleles were found in the central part of the eastern adriatic coast, while decreases in gene diversity and number of private alleles were evident towards the northwestern adriatic coast and southern and eastern regions of the balkan peninsula. the results of ecological niche modelling during last glacial maximum and approximate bayesian computation suggested two plausible evolutionary trajectories: 1) the species survived in the glacial refugium in southern adriatic coastal region with subsequent colonization events towards northern, eastern and southern balkan peninsula; 2) species survived in several refugia exhibiting concurrent divergence into three genetic groups. the insight into genetic diversity and structure also provide the baseline data for conservation of s. officinalis genetic resources valuable for future breeding programmes. \u00a9 2016 re\u0161etnik et al. this is an open access article distributed under the terms of the creative commons attribution license, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Macedonia", 
+                "nameofficial": "The former Yugoslav Republic of Macedonia"
+            }
+        }, 
+        {
+            "index": 79, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.09699321, 
+                    42.7169959
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 79, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "ROMANIA", 
+                    "CROATIA", 
+                    "GREECE", 
+                    "SERBIA", 
+                    "MOLDOVA", 
+                    "ALBANIA", 
+                    "CROATIA", 
+                    "GERMANY", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "MACEDONIA", 
+                    "MONTENEGRO"
+                ], 
+                "genetictool": [
+                    "microsatellite"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Salvia officinalis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "dalmatian sage (salvia officinalis l., lamiaceae) is a well-known aromatic and medicinal mediterranean plant that is native in coastal regions of the western balkan and southern apennine peninsulas and is commonly cultivated worldwide. it is widely used in the food, pharmaceutical and cosmetic industries. knowledge of its genetic diversity and spatiotemporal patterns is important for plant breeding programmes and conservation. we used eight microsatellite markers to investigate evolutionary history of indigenous populations as well as genetic diversity and structure within and among indigenous and cultivated/naturalised populations distributed across the balkan peninsula. the results showed a clear separation between the indigenous and cultivated/naturalised groups, with the cultivated material originating from one restricted geographical area. most of the genetic diversity in both groups was attributable to differences among individuals within populations, although spatial genetic analysis of indigenous populations indicated the existence of isolation by distance. geographical structuring of indigenous populations was found using clustering analysis, with three sub-clusters of indigenous populations. the highest level of gene diversity and the greatest number of private alleles were found in the central part of the eastern adriatic coast, while decreases in gene diversity and number of private alleles were evident towards the northwestern adriatic coast and southern and eastern regions of the balkan peninsula. the results of ecological niche modelling during last glacial maximum and approximate bayesian computation suggested two plausible evolutionary trajectories: 1) the species survived in the glacial refugium in southern adriatic coastal region with subsequent colonization events towards northern, eastern and southern balkan peninsula; 2) species survived in several refugia exhibiting concurrent divergence into three genetic groups. the insight into genetic diversity and structure also provide the baseline data for conservation of s. officinalis genetic resources valuable for future breeding programmes. \u00a9 2016 re\u0161etnik et al. this is an open access article distributed under the terms of the creative commons attribution license, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Montenegro", 
+                "nameofficial": "Montenegro"
+            }
+        }, 
+        {
+            "index": 22, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.73188991, 
+                    61.42370427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 22, 
+            "score": 42, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "ISRAEL", 
+                    "SWEDEN", 
+                    "THAILAND", 
+                    "PORTUGAL", 
+                    "BELGIUM", 
+                    "AUSTRALIA", 
+                    "PORTUGAL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Posidonia oceanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "here we present the results of a multiple organizational level analysis conceived to identify acclimative/adaptive strategies exhibited by the seagrass posidonia oceanica to the daily fluctuations in the light environment, at contrasting depths. we assessed changes in photophysiological parameters, leaf respiration, pigments, and protein and mrna expression levels. the results show that the diel oscillations of p. oceanica photophysiological and respiratory responses were related to transcripts and proteins expression of the genes involved in those processes and that there was a response asynchrony between shallow and deep plants probably caused by the strong differences in the light environment. the photochemical pathway of energy use was more effective in shallow plants due to higher light availability, but these plants needed more investment in photoprotection and photorepair, requiring higher translation and protein synthesis than deep plants. the genetic differentiation between deep and shallow stands suggests the existence of locally adapted genotypes to contrasting light environments. the depth-specific diel rhythms of photosynthetic and respiratory processes, from molecular to physiological levels, must be considered in the management and conservation of these key coastal ecosystems. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "MALTA", 
+                        "TUNISIA", 
+                        "EGYPT", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "IRELAND", 
+                        "GERMANY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Sweden", 
+                "nameofficial": "Kingdom of Sweden"
+            }
+        }, 
+        {
+            "index": 19, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.50069228, 
+                    65.04680297
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 19, 
+            "score": 32, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM", 
+                    "NORWAY", 
+                    "NORWAY", 
+                    "NORWAY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ambio", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "climate change is likely to be one of the most important factors affecting our future food security. to mitigate negative impacts, we will require our crops to be more genetically diverse. such diversity is available in crop wild relatives (cwrs), the wild taxa relatively closely related to crops and from which diverse traits can be transferred to the crop. conservation of such genetic resources resides within the nation where they are found; therefore, national-level conservation recommendations are fundamental to global food security. we investigate the potential impact of climate change on cwr richness in norway. the consequences of a 1.5 and 3.0 \u00b0c temperature rise were studied for the years 2030, 2050, 2070, 2080 and then compared to the present climate. the results indicate a pattern of shifting cwr richness from the south to the north, with increases in taxa turnover and in the numbers of threatened taxa. recommendations for in situ and ex situ conservation actions over the short and long term for the priority cwrs in norway are presented. the methods and recommendations developed here can be applied within other nations and at regional and global levels to improve the effectiveness of conservation actions and help ensure global food security. \u00a9 2017 royal swedish academy of sciences", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Norway", 
+                "nameofficial": "Kingdom of Norway"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 74, 
+            "target": 77, 
+            "value": 7
+        }, 
+        {
+            "source": 27, 
+            "target": 77, 
+            "value": 6
+        }, 
+        {
+            "source": 72, 
+            "target": 77, 
+            "value": 2
+        }, 
+        {
+            "source": 12, 
+            "target": 77, 
+            "value": 2
+        }, 
+        {
+            "source": 40, 
+            "target": 77, 
+            "value": 2
+        }, 
+        {
+            "source": 75, 
+            "target": 77, 
+            "value": 2
+        }, 
+        {
+            "source": 76, 
+            "target": 77, 
+            "value": 2
+        }, 
+        {
+            "source": 2, 
+            "target": 77, 
+            "value": 3
+        }, 
+        {
+            "source": 77, 
+            "target": 77, 
+            "value": 2
+        }, 
+        {
+            "source": 77, 
+            "target": 78, 
+            "value": 2
+        }, 
+        {
+            "source": 77, 
+            "target": 79, 
+            "value": 2
+        }, 
+        {
+            "source": 22, 
+            "target": 77, 
+            "value": 1
+        }, 
+        {
+            "source": 19, 
+            "target": 77, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 77, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    17.8164091, 
+                    44.00040856
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 77, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "ROMANIA", 
+                    "CROATIA", 
+                    "GREECE", 
+                    "SERBIA", 
+                    "MOLDOVA", 
+                    "ALBANIA", 
+                    "CROATIA", 
+                    "GERMANY", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "MACEDONIA", 
+                    "MONTENEGRO"
+                ], 
+                "genetictool": [
+                    "microsatellite"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Salvia officinalis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "dalmatian sage (salvia officinalis l., lamiaceae) is a well-known aromatic and medicinal mediterranean plant that is native in coastal regions of the western balkan and southern apennine peninsulas and is commonly cultivated worldwide. it is widely used in the food, pharmaceutical and cosmetic industries. knowledge of its genetic diversity and spatiotemporal patterns is important for plant breeding programmes and conservation. we used eight microsatellite markers to investigate evolutionary history of indigenous populations as well as genetic diversity and structure within and among indigenous and cultivated/naturalised populations distributed across the balkan peninsula. the results showed a clear separation between the indigenous and cultivated/naturalised groups, with the cultivated material originating from one restricted geographical area. most of the genetic diversity in both groups was attributable to differences among individuals within populations, although spatial genetic analysis of indigenous populations indicated the existence of isolation by distance. geographical structuring of indigenous populations was found using clustering analysis, with three sub-clusters of indigenous populations. the highest level of gene diversity and the greatest number of private alleles were found in the central part of the eastern adriatic coast, while decreases in gene diversity and number of private alleles were evident towards the northwestern adriatic coast and southern and eastern regions of the balkan peninsula. the results of ecological niche modelling during last glacial maximum and approximate bayesian computation suggested two plausible evolutionary trajectories: 1) the species survived in the glacial refugium in southern adriatic coastal region with subsequent colonization events towards northern, eastern and southern balkan peninsula; 2) species survived in several refugia exhibiting concurrent divergence into three genetic groups. the insight into genetic diversity and structure also provide the baseline data for conservation of s. officinalis genetic resources valuable for future breeding programmes. \u00a9 2016 re\u0161etnik et al. this is an open access article distributed under the terms of the creative commons attribution license, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Bosnia and Herzegovina", 
+                "nameofficial": "Bosnia and Herzegovina"
+            }
+        }, 
+        {
+            "index": 74, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.29039507, 
+                    44.81372482
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 74, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "ROMANIA", 
+                    "CROATIA", 
+                    "GREECE", 
+                    "SERBIA", 
+                    "MOLDOVA", 
+                    "ALBANIA", 
+                    "CROATIA", 
+                    "GERMANY", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "MACEDONIA", 
+                    "MONTENEGRO"
+                ], 
+                "genetictool": [
+                    "microsatellite"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Salvia officinalis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "dalmatian sage (salvia officinalis l., lamiaceae) is a well-known aromatic and medicinal mediterranean plant that is native in coastal regions of the western balkan and southern apennine peninsulas and is commonly cultivated worldwide. it is widely used in the food, pharmaceutical and cosmetic industries. knowledge of its genetic diversity and spatiotemporal patterns is important for plant breeding programmes and conservation. we used eight microsatellite markers to investigate evolutionary history of indigenous populations as well as genetic diversity and structure within and among indigenous and cultivated/naturalised populations distributed across the balkan peninsula. the results showed a clear separation between the indigenous and cultivated/naturalised groups, with the cultivated material originating from one restricted geographical area. most of the genetic diversity in both groups was attributable to differences among individuals within populations, although spatial genetic analysis of indigenous populations indicated the existence of isolation by distance. geographical structuring of indigenous populations was found using clustering analysis, with three sub-clusters of indigenous populations. the highest level of gene diversity and the greatest number of private alleles were found in the central part of the eastern adriatic coast, while decreases in gene diversity and number of private alleles were evident towards the northwestern adriatic coast and southern and eastern regions of the balkan peninsula. the results of ecological niche modelling during last glacial maximum and approximate bayesian computation suggested two plausible evolutionary trajectories: 1) the species survived in the glacial refugium in southern adriatic coastal region with subsequent colonization events towards northern, eastern and southern balkan peninsula; 2) species survived in several refugia exhibiting concurrent divergence into three genetic groups. the insight into genetic diversity and structure also provide the baseline data for conservation of s. officinalis genetic resources valuable for future breeding programmes. \u00a9 2016 re\u0161etnik et al. this is an open access article distributed under the terms of the creative commons attribution license, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Croatia", 
+                "nameofficial": "Republic of Croatia"
+            }
+        }, 
+        {
+            "index": 27, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    14.995463, 
+                    46.14315048
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 27, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Slovenia", 
+                "nameofficial": "Republic of Slovenia"
+            }
+        }, 
+        {
+            "index": 22, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.73188991, 
+                    61.42370427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 22, 
+            "score": 12, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "ISRAEL", 
+                    "SWEDEN", 
+                    "THAILAND", 
+                    "PORTUGAL", 
+                    "BELGIUM", 
+                    "AUSTRALIA", 
+                    "PORTUGAL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Posidonia oceanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "here we present the results of a multiple organizational level analysis conceived to identify acclimative/adaptive strategies exhibited by the seagrass posidonia oceanica to the daily fluctuations in the light environment, at contrasting depths. we assessed changes in photophysiological parameters, leaf respiration, pigments, and protein and mrna expression levels. the results show that the diel oscillations of p. oceanica photophysiological and respiratory responses were related to transcripts and proteins expression of the genes involved in those processes and that there was a response asynchrony between shallow and deep plants probably caused by the strong differences in the light environment. the photochemical pathway of energy use was more effective in shallow plants due to higher light availability, but these plants needed more investment in photoprotection and photorepair, requiring higher translation and protein synthesis than deep plants. the genetic differentiation between deep and shallow stands suggests the existence of locally adapted genotypes to contrasting light environments. the depth-specific diel rhythms of photosynthetic and respiratory processes, from molecular to physiological levels, must be considered in the management and conservation of these key coastal ecosystems. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "MALTA", 
+                        "TUNISIA", 
+                        "EGYPT", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "IRELAND", 
+                        "GERMANY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Sweden", 
+                "nameofficial": "Kingdom of Sweden"
+            }
+        }, 
+        {
+            "index": 74, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.29039507, 
+                    44.81372482
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 74, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "ROMANIA", 
+                    "CROATIA", 
+                    "GREECE", 
+                    "SERBIA", 
+                    "MOLDOVA", 
+                    "ALBANIA", 
+                    "CROATIA", 
+                    "GERMANY", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "MACEDONIA", 
+                    "MONTENEGRO"
+                ], 
+                "genetictool": [
+                    "microsatellite"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Salvia officinalis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "dalmatian sage (salvia officinalis l., lamiaceae) is a well-known aromatic and medicinal mediterranean plant that is native in coastal regions of the western balkan and southern apennine peninsulas and is commonly cultivated worldwide. it is widely used in the food, pharmaceutical and cosmetic industries. knowledge of its genetic diversity and spatiotemporal patterns is important for plant breeding programmes and conservation. we used eight microsatellite markers to investigate evolutionary history of indigenous populations as well as genetic diversity and structure within and among indigenous and cultivated/naturalised populations distributed across the balkan peninsula. the results showed a clear separation between the indigenous and cultivated/naturalised groups, with the cultivated material originating from one restricted geographical area. most of the genetic diversity in both groups was attributable to differences among individuals within populations, although spatial genetic analysis of indigenous populations indicated the existence of isolation by distance. geographical structuring of indigenous populations was found using clustering analysis, with three sub-clusters of indigenous populations. the highest level of gene diversity and the greatest number of private alleles were found in the central part of the eastern adriatic coast, while decreases in gene diversity and number of private alleles were evident towards the northwestern adriatic coast and southern and eastern regions of the balkan peninsula. the results of ecological niche modelling during last glacial maximum and approximate bayesian computation suggested two plausible evolutionary trajectories: 1) the species survived in the glacial refugium in southern adriatic coastal region with subsequent colonization events towards northern, eastern and southern balkan peninsula; 2) species survived in several refugia exhibiting concurrent divergence into three genetic groups. the insight into genetic diversity and structure also provide the baseline data for conservation of s. officinalis genetic resources valuable for future breeding programmes. \u00a9 2016 re\u0161etnik et al. this is an open access article distributed under the terms of the creative commons attribution license, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Croatia", 
+                "nameofficial": "Republic of Croatia"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 67, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 74, 
+            "target": 77, 
+            "value": 2
+        }, 
+        {
+            "source": 77, 
+            "target": 77, 
+            "value": 1
+        }, 
+        {
+            "source": 77, 
+            "target": 27, 
+            "value": 2
+        }, 
+        {
+            "source": 22, 
+            "target": 77, 
+            "value": 1
+        }, 
+        {
+            "source": 77, 
+            "target": 74, 
+            "value": 1
+        }, 
+        {
+            "source": 77, 
+            "target": 2, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 78, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    17.8164091, 
+                    44.00040856
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 78, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "ROMANIA", 
+                    "CROATIA", 
+                    "GREECE", 
+                    "SERBIA", 
+                    "MOLDOVA", 
+                    "ALBANIA", 
+                    "CROATIA", 
+                    "GERMANY", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "MACEDONIA", 
+                    "MONTENEGRO"
+                ], 
+                "genetictool": [
+                    "microsatellite"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Salvia officinalis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "dalmatian sage (salvia officinalis l., lamiaceae) is a well-known aromatic and medicinal mediterranean plant that is native in coastal regions of the western balkan and southern apennine peninsulas and is commonly cultivated worldwide. it is widely used in the food, pharmaceutical and cosmetic industries. knowledge of its genetic diversity and spatiotemporal patterns is important for plant breeding programmes and conservation. we used eight microsatellite markers to investigate evolutionary history of indigenous populations as well as genetic diversity and structure within and among indigenous and cultivated/naturalised populations distributed across the balkan peninsula. the results showed a clear separation between the indigenous and cultivated/naturalised groups, with the cultivated material originating from one restricted geographical area. most of the genetic diversity in both groups was attributable to differences among individuals within populations, although spatial genetic analysis of indigenous populations indicated the existence of isolation by distance. geographical structuring of indigenous populations was found using clustering analysis, with three sub-clusters of indigenous populations. the highest level of gene diversity and the greatest number of private alleles were found in the central part of the eastern adriatic coast, while decreases in gene diversity and number of private alleles were evident towards the northwestern adriatic coast and southern and eastern regions of the balkan peninsula. the results of ecological niche modelling during last glacial maximum and approximate bayesian computation suggested two plausible evolutionary trajectories: 1) the species survived in the glacial refugium in southern adriatic coastal region with subsequent colonization events towards northern, eastern and southern balkan peninsula; 2) species survived in several refugia exhibiting concurrent divergence into three genetic groups. the insight into genetic diversity and structure also provide the baseline data for conservation of s. officinalis genetic resources valuable for future breeding programmes. \u00a9 2016 re\u0161etnik et al. this is an open access article distributed under the terms of the creative commons attribution license, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Bosnia and Herzegovina", 
+                "nameofficial": "Bosnia and Herzegovina"
+            }
+        }, 
+        {
+            "index": 74, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.09699321, 
+                    42.7169959
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 74, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "CROATIA", 
+                    "SLOVENIA", 
+                    "ROMANIA", 
+                    "CROATIA", 
+                    "GREECE", 
+                    "SERBIA", 
+                    "MOLDOVA", 
+                    "ALBANIA", 
+                    "CROATIA", 
+                    "GERMANY", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "BOSNIA AND HERZEGOVINA", 
+                    "MACEDONIA", 
+                    "MONTENEGRO"
+                ], 
+                "genetictool": [
+                    "microsatellite"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Salvia officinalis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "dalmatian sage (salvia officinalis l., lamiaceae) is a well-known aromatic and medicinal mediterranean plant that is native in coastal regions of the western balkan and southern apennine peninsulas and is commonly cultivated worldwide. it is widely used in the food, pharmaceutical and cosmetic industries. knowledge of its genetic diversity and spatiotemporal patterns is important for plant breeding programmes and conservation. we used eight microsatellite markers to investigate evolutionary history of indigenous populations as well as genetic diversity and structure within and among indigenous and cultivated/naturalised populations distributed across the balkan peninsula. the results showed a clear separation between the indigenous and cultivated/naturalised groups, with the cultivated material originating from one restricted geographical area. most of the genetic diversity in both groups was attributable to differences among individuals within populations, although spatial genetic analysis of indigenous populations indicated the existence of isolation by distance. geographical structuring of indigenous populations was found using clustering analysis, with three sub-clusters of indigenous populations. the highest level of gene diversity and the greatest number of private alleles were found in the central part of the eastern adriatic coast, while decreases in gene diversity and number of private alleles were evident towards the northwestern adriatic coast and southern and eastern regions of the balkan peninsula. the results of ecological niche modelling during last glacial maximum and approximate bayesian computation suggested two plausible evolutionary trajectories: 1) the species survived in the glacial refugium in southern adriatic coastal region with subsequent colonization events towards northern, eastern and southern balkan peninsula; 2) species survived in several refugia exhibiting concurrent divergence into three genetic groups. the insight into genetic diversity and structure also provide the baseline data for conservation of s. officinalis genetic resources valuable for future breeding programmes. \u00a9 2016 re\u0161etnik et al. this is an open access article distributed under the terms of the creative commons attribution license, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.", 
+                "focalspeciesCOO": [
+                    [
+                        "SWEDEN", 
+                        "GERMANY", 
+                        "FRANCE", 
+                        "ROMANIA", 
+                        "CROATIA", 
+                        "CANADA", 
+                        "NETHERLANDS", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "AUSTRIA", 
+                        "HUNGARY", 
+                        "UNITED STATES", 
+                        "GREECE", 
+                        "MEXICO", 
+                        "ALBANIA", 
+                        "MONTENEGRO", 
+                        "POLAND", 
+                        "SOUTH AFRICA", 
+                        "UKRAINE", 
+                        "EGYPT", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "TURKEY", 
+                        "MOROCCO", 
+                        "LIBYA", 
+                        "BRAZIL", 
+                        "UNITED KINGDOM", 
+                        "CHINA", 
+                        "GRENADA", 
+                        "NEW ZEALAND", 
+                        "PORTUGAL", 
+                        "AZERBAIJAN", 
+                        "BULGARIA", 
+                        "SLOVAKIA", 
+                        "BERMUDA", 
+                        "NORWAY", 
+                        "COLOMBIA", 
+                        "COSTA RICA", 
+                        "ECUADOR", 
+                        "ANDORRA", 
+                        "ARGENTINA", 
+                        "PERU", 
+                        "ESTONIA", 
+                        "SLOVENIA", 
+                        "URUGUAY", 
+                        "JAPAN", 
+                        "NEW CALEDONIA", 
+                        "DENMARK"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Montenegro", 
+                "nameofficial": "Montenegro"
+            }
+        }, 
+        {
+            "index": 28, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    14.995463, 
+                    46.14315048
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 28, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Slovenia", 
+                "nameofficial": "Republic of Slovenia"
+            }
+        }, 
+        {
+            "index": 22, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.73188991, 
+                    61.42370427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 22, 
+            "score": 11, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "ISRAEL", 
+                    "SWEDEN", 
+                    "THAILAND", 
+                    "PORTUGAL", 
+                    "BELGIUM", 
+                    "AUSTRALIA", 
+                    "PORTUGAL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Posidonia oceanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "here we present the results of a multiple organizational level analysis conceived to identify acclimative/adaptive strategies exhibited by the seagrass posidonia oceanica to the daily fluctuations in the light environment, at contrasting depths. we assessed changes in photophysiological parameters, leaf respiration, pigments, and protein and mrna expression levels. the results show that the diel oscillations of p. oceanica photophysiological and respiratory responses were related to transcripts and proteins expression of the genes involved in those processes and that there was a response asynchrony between shallow and deep plants probably caused by the strong differences in the light environment. the photochemical pathway of energy use was more effective in shallow plants due to higher light availability, but these plants needed more investment in photoprotection and photorepair, requiring higher translation and protein synthesis than deep plants. the genetic differentiation between deep and shallow stands suggests the existence of locally adapted genotypes to contrasting light environments. the depth-specific diel rhythms of photosynthetic and respiratory processes, from molecular to physiological levels, must be considered in the management and conservation of these key coastal ecosystems. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "MALTA", 
+                        "TUNISIA", 
+                        "EGYPT", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "IRELAND", 
+                        "GERMANY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Sweden", 
+                "nameofficial": "Kingdom of Sweden"
+            }
+        }, 
+        {
+            "index": 19, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.50069228, 
+                    65.04680297
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 19, 
+            "score": 12, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED KINGDOM", 
+                    "NORWAY", 
+                    "NORWAY", 
+                    "NORWAY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "ambio", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "climate change is likely to be one of the most important factors affecting our future food security. to mitigate negative impacts, we will require our crops to be more genetically diverse. such diversity is available in crop wild relatives (cwrs), the wild taxa relatively closely related to crops and from which diverse traits can be transferred to the crop. conservation of such genetic resources resides within the nation where they are found; therefore, national-level conservation recommendations are fundamental to global food security. we investigate the potential impact of climate change on cwr richness in norway. the consequences of a 1.5 and 3.0 \u00b0c temperature rise were studied for the years 2030, 2050, 2070, 2080 and then compared to the present climate. the results indicate a pattern of shifting cwr richness from the south to the north, with increases in taxa turnover and in the numbers of threatened taxa. recommendations for in situ and ex situ conservation actions over the short and long term for the priority cwrs in norway are presented. the methods and recommendations developed here can be applied within other nations and at regional and global levels to improve the effectiveness of conservation actions and help ensure global food security. \u00a9 2017 royal swedish academy of sciences", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Norway", 
+                "nameofficial": "Kingdom of Norway"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 78, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 74, 
+            "target": 78, 
+            "value": 2
+        }, 
+        {
+            "source": 28, 
+            "target": 78, 
+            "value": 2
+        }, 
+        {
+            "source": 78, 
+            "target": 22, 
+            "value": 1
+        }, 
+        {
+            "source": 78, 
+            "target": 19, 
+            "value": 1
+        }, 
+        {
+            "source": 1, 
+            "target": 78, 
+            "value": 1
+        }
+    ]
+}
+]

@@ -1,0 +1,808 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 106, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    178.065036, 
+                    -17.71219757
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 106, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "UNITED STATES", 
+                    "AUSTRALIA", 
+                    "KENYA", 
+                    "DENMARK", 
+                    "PANAMA", 
+                    "FIJI", 
+                    "HUNGARY", 
+                    "MADAGASCAR"
+                ], 
+                "genetictool": [
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forest ecology and management", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2014, 
+                "abstracttext": "over the last 200. years, genetic resources of forest trees have been increasingly transferred, within and outside of species' native distribution ranges, for forestry and for research and development (r&d). transferred germplasm has been deployed to grow trees for numerous purposes, ranging from the production of wood and non-wood products to the provision of ecosystem services such as the restoration of forests for biodiversity conservation. the oldest form of r&d, provenance trials, revealed early on that seed origin has a major influence on the performance of planted trees. international provenance trials have been essential for selecting seed sources for reforestation and for improving tree germplasm through breeding. many tree breeding programmes were initiated in the 1950s, but as one round of testing and selection typically takes decades, the most advanced of them are only in their third cycle. recent advances in forest genomics have increased the understanding of the genetic basis of different traits, but it is unlikely that molecular marker-assisted approaches will quickly replace traditional tree breeding methods. furthermore, provenance trials and progeny tests are still needed to complement new research approaches. currently, seed of boreal and temperate trees for reforestation purposes are largely obtained from improved sources. the situation is similar for fast growing tropical and subtropical trees grown in plantations, but in the case of tropical hardwoods and many agroforestry trees, only limited tested or improved seed sources are available. transfers of tree germplasm involve some risks of spreading pests and diseases, of introducing invasive tree species and of polluting the genetic make-up of already present tree populations. many of these risks have been underestimated in the past, but they are now better understood and managed. relatively few tree species used for forestry have become invasive, and the risk of spreading pests and diseases while transferring seed is considerably lower than when moving live plants. the implementation of the nagoya protocol on access to genetic resources and benefit sharing (abs) may significantly change current transfer practices in the forestry sector by increasing transaction costs and the time needed to lawfully obtain forest genetic resources for r&d purposes. many countries are likely to struggle to establish a well-functioning abs regulatory system, slowing down the process of obtaining the necessary documentation for exchange. this is unfortunate, as climate change, outbreaks of pests and diseases, and continual pressure to support productivity, increase the need for transferring tree germplasm and accelerating r&d. \u00a9 2014 the authors.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Fiji", 
+                "nameofficial": "Republic of Fiji"
+            }
+        }, 
+        {
+            "index": 0, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 0, 
+            "score": 190, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 18, 
+            "score": 873, 
+            "data": {
+                "authorsCOO": [
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "UNITED STATES"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "oryx", 
+                "focalspecies": [
+                    "Schiedea adamantis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "we report on how a long-term study of the reproductive biology of the critically endangered schiedea adamantis (caryophyllaceae), one of hawai\u2018i's rarest plant species, was leveraged for conservation purposes. our major goals were to provide seeds with the greatest genetic variation possible for reintroduction and to ensure that both female and hermaphroditic plants of this wind-pollinated species were reintroduced in a manner that maximized both outcrossing and seed production. schiedea adamantis was one of the first hawaiian plant species listed under the endangered species act (usa). the species has been studied intensively to test hypotheses addressing the evolution of breeding systems. information on outcrossing levels and the extent of inbreeding depression was integrated into ongoing reintroduction efforts. population size peaked in 1994, when 267 flowering individuals were found on l\u0113\u2018ahi (diamond head crater). by 2016 only 17 flowering individuals were present, with drought and invasive species being possible causes of this decline. reintroduction attempts in 1998 using genetically diverse seeds were unsuccessful because of drought and a lack of sufficient supplemental irrigation. additional reintroduction attempts in 2012 and 2014 were more successful because of increased supplemental irrigation. plants used in reintroductions represent genotypes long since absent in the natural population, and may contain the genetic variability essential for evolutionary responses to climate change and the spread of invasive species. the destruction of many plants reintroduced in 2015 and 2016 by a fire in march 2016 highlights the need for additional restoration areas at l\u0113\u2018ahi and elsewhere, and storage of seeds for future use. copyright \u00a9 fauna & flora international 2017", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    133.55540944, 
+                    -26.29594646
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 237, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA", 
+                    "AUSTRALIA", 
+                    "INDIA", 
+                    "AUSTRALIA", 
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "crop protection", 
+                "focalspecies": [
+                    "Gossypium hirsutum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the agriculture sector is embracing energy efficient conservation systems and technological innovations to meet the ever increasing demand for food, fibre, and fuel in tune with the rapidly increasing human population. the genetic modification of plants is one of the technological innovations that is adopted rapidly across the world. in cotton, many major producing countries have adopted herbicide-tolerant genetically modified crops. over-reliance on herbicides for weed management in both genetically modified and conventional systems has led to the rapid evolution of herbicide-resistant weeds. poor weed management can cause up to 90% yield loss in cotton. undoubtedly, integration of non-chemical methods and diversifying weed control options would ensure the sustainability of available weed management options, including herbicides. increasing crop competitiveness is one of the approaches that could be integrated with the current weed management systems. choosing cultivars with early vigour, use of narrow row planting, orienting crop rows with regard to sunlight, and adjusting planting density are some of the approaches that could enhance the competitiveness of crops over weeds. review of the available literature on cotton indicates weed suppressive benefits by enhancing crop competitiveness through increasing planting density and narrow row spacing. early canopy closure in narrow row spaced systems would suppress many problem weeds. in addition, herbicide efficacy may be increased due to competition offered by a dense crop stand, which may reduce herbicide selection pressure on weeds. however, the use of narrow row spacing is still in an infant stage in many cotton-growing countries and the success may depend on the environment, soil type, and resource availability. this review analyses and reports the potential benefits of increasing crop competition as a weed management option and also highlights research to be undertaken to ensure the adoption of different strategies on a much wider scale. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "ECUADOR", 
+                        "CHINA", 
+                        "FRENCH POLYNESIA", 
+                        "UNITED STATES", 
+                        "INDONESIA", 
+                        "MARSHALL ISLANDS", 
+                        "PERU", 
+                        "PHILIPPINES", 
+                        "GUATEMALA", 
+                        "HAITI", 
+                        "COSTA RICA", 
+                        "PUERTO RICO", 
+                        "EL SALVADOR", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "NICARAGUA", 
+                        "SEYCHELLES", 
+                        "CAMBODIA", 
+                        "GUADELOUPE", 
+                        "BAHAMAS", 
+                        "MAURITIUS", 
+                        "MONTSERRAT", 
+                        "PANAMA", 
+                        "PARAGUAY", 
+                        "UNITED KINGDOM", 
+                        "KENYA", 
+                        "AZERBAIJAN", 
+                        "MADAGASCAR", 
+                        "COMOROS", 
+                        "MAYOTTE", 
+                        "SENEGAL", 
+                        "BENIN", 
+                        "PAPUA NEW GUINEA", 
+                        "SURINAME", 
+                        "ETHIOPIA", 
+                        "GHANA", 
+                        "SIERRA LEONE", 
+                        "ANGOLA", 
+                        "CUBA", 
+                        "NEW CALEDONIA", 
+                        "CAMEROON", 
+                        "NIGERIA", 
+                        "NETHERLANDS", 
+                        "CURA\u00c7AO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GABON", 
+                        "SWEDEN", 
+                        "YEMEN", 
+                        "OMAN", 
+                        "NEPAL", 
+                        "JAMAICA", 
+                        "TONGA", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "FIJI", 
+                        "EGYPT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "ARGENTINA", 
+                        "AMERICAN SAMOA", 
+                        "CHILE", 
+                        "BELIZE", 
+                        "BULGARIA", 
+                        "AFGHANISTAN", 
+                        "CAYMAN ISLANDS", 
+                        "DOMINICAN REPUBLIC", 
+                        "ARUBA", 
+                        "DOMINICA", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "ALGERIA", 
+                        "INDIA", 
+                        "GREECE", 
+                        "GRENADA", 
+                        "SAINT KITTS AND NEVIS", 
+                        "GUAM", 
+                        "SAINT LUCIA", 
+                        "SPAIN", 
+                        "FRENCH GUIANA", 
+                        "MALDIVES", 
+                        "TRINIDAD AND TOBAGO", 
+                        "MARTINIQUE", 
+                        "PORTUGAL", 
+                        "MOZAMBIQUE", 
+                        "CHAD", 
+                        "MALI", 
+                        "R\u00c9UNION", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "SOUTH AFRICA", 
+                        "SAMOA", 
+                        "NIUE", 
+                        "VANUATU", 
+                        "SOLOMON ISLANDS", 
+                        "COOK ISLANDS", 
+                        "CONGO", 
+                        "SUDAN", 
+                        "HONDURAS", 
+                        "GUYANA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "THAILAND", 
+                        "FRANCE", 
+                        "ZAMBIA", 
+                        "TURKEY", 
+                        "UGANDA", 
+                        "SWAZILAND", 
+                        "EQUATORIAL GUINEA", 
+                        "SRI LANKA", 
+                        "MALAYSIA", 
+                        "ISRAEL", 
+                        "JAPAN", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "GUINEA", 
+                        "TIMOR-LESTE", 
+                        "BURKINA FASO", 
+                        "CAPE VERDE", 
+                        "SOMALIA", 
+                        "NAMIBIA", 
+                        "MALTA", 
+                        "MALAWI", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "BERMUDA", 
+                        "TOGO", 
+                        "ZIMBABWE", 
+                        "TURKMENISTAN", 
+                        "TAJIKISTAN", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "KIRIBATI", 
+                        "VIETNAM", 
+                        "NIGER", 
+                        "MAURITANIA", 
+                        "NEW ZEALAND", 
+                        "PAKISTAN", 
+                        "BRITISH INDIAN OCEAN TERRITORY", 
+                        "GAMBIA", 
+                        "LIBYA", 
+                        "SAINT BARTH\u00c9LEMY", 
+                        "ANGUILLA", 
+                        "GUINEA-BISSAU", 
+                        "UKRAINE", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "GEORGIA", 
+                        "ITALY", 
+                        "PALAU", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Australia", 
+                "nameofficial": "Australia"
+            }
+        }, 
+        {
+            "index": 62, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    37.97212297, 
+                    0.19582452
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 62, 
+            "score": 29, 
+            "data": {
+                "authorsCOO": [
+                    "KENYA", 
+                    "KENYA", 
+                    "KENYA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "forests trees and livelihoods", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "mango fruits are highly nutritious and economically important to kenyan farmers, who cultivate three categories of cultivars/landraces; local small-fruited, local big-fruited and improved, introduced cultivars. the small-fruited landraces are said to be well adapted to the local environment but are being replaced by introduced cultivars before their diversity has been documented. this study aimed at assessing morphological and genetic diversity of 36 local mango landraces from 35 randomly selected farms in eastern kenya. fruits were collected from three locations for morphological characterization using the \u2018descriptors for mango\u2019 of the international plant genetic resources institute. leaves of the same accessions were sampled for genetic diversity assessment using microsatellites. morphological characterization showed that mean fruit length was 5.6\u201312.5\u00a0cm, while mean fruit weight was 93\u2013578\u00a0g. fruit shape was mostly \u2018roundish\u2019, while fruit ground colour \u2018green\u2019. hierarchical cluster analysis with seven discriminant morphological variables resulted in four clusters. analysis of molecular variance (amova) indicated that variation was high (97%) among, but low (3%) within groups. phylogenetic analysis using neighbor joining method resulted in three clusters that lacked consistency with the morphological clusters. findings from this study may assist to select superior local mango accessions for future breeding programmes and to develop \u2018conservation through use\u2019 strategies for kenyan local mangoes to retain their valuable genetic resources. \u00a9 2016 the author(s). published by informa uk limited, trading as taylor & francis group.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Kenya", 
+                "nameofficial": "Republic of Kenya"
+            }
+        }, 
+        {
+            "index": 20, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    9.41938953, 
+                    54.71794021
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 20, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "DENMARK", 
+                    "NORWAY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scandinavian journal of forest research", 
+                "focalspecies": [
+                    "Abies cephalonica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the fungus neonectria neomacrospora has recently caused an epidemic outbreak in conifer species within the genus abies in denmark and norway. christmas tree producers in europe and north america rely, to a large extent, on abies species. the damage caused by n.\u00a0neomacrospora, including dead shoot tips, red flagging of branches and potentially dead trees, have therefore caused concern about reduced quality and loss of trees, and thereby of revenue. field observations of natural infection of 39 taxa, from 32 species, within the genus abies in the h\u00f8rsholm arboretum, denmark, were evaluated; significant differences were seen between taxa, that is, species, and between some species and their subspecies. the greek fir, abies cephalonica, was the only species without damage. an inoculation experiment on detached twigs with mycelium plugs from a n.\u00a0neomacrospora culture showed that all species could be infected. the damage observed in the inoculation experiment could explain 30% of the variation in the field observations based on species mean values. the epidemic outbreak and the high number of species susceptible to this fungus indicate that n.\u00a0neomacrospora requires attention in the cultivation and conservation of abies species. \u00a9 2017 informa uk limited, trading as taylor & francis group", 
+                "focalspeciesCOO": [
+                    [
+                        "GREECE", 
+                        "FRANCE", 
+                        "NETHERLANDS", 
+                        "GERMANY", 
+                        "UNITED STATES", 
+                        "POLAND", 
+                        "NEW ZEALAND", 
+                        "SWEDEN", 
+                        "NORWAY", 
+                        "PORTUGAL", 
+                        "SPAIN", 
+                        "ALBANIA", 
+                        "UNITED KINGDOM", 
+                        "LUXEMBOURG", 
+                        "SWITZERLAND", 
+                        "ITALY", 
+                        "CANADA", 
+                        "MEXICO", 
+                        "HUNGARY", 
+                        "DENMARK"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Denmark", 
+                "nameofficial": "Kingdom of Denmark"
+            }
+        }, 
+        {
+            "index": 105, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.04603702, 
+                    8.52135102
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 105, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "UNITED STATES", 
+                    "AUSTRALIA", 
+                    "KENYA", 
+                    "DENMARK", 
+                    "PANAMA", 
+                    "FIJI", 
+                    "HUNGARY", 
+                    "MADAGASCAR"
+                ], 
+                "genetictool": [
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forest ecology and management", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2014, 
+                "abstracttext": "over the last 200. years, genetic resources of forest trees have been increasingly transferred, within and outside of species' native distribution ranges, for forestry and for research and development (r&d). transferred germplasm has been deployed to grow trees for numerous purposes, ranging from the production of wood and non-wood products to the provision of ecosystem services such as the restoration of forests for biodiversity conservation. the oldest form of r&d, provenance trials, revealed early on that seed origin has a major influence on the performance of planted trees. international provenance trials have been essential for selecting seed sources for reforestation and for improving tree germplasm through breeding. many tree breeding programmes were initiated in the 1950s, but as one round of testing and selection typically takes decades, the most advanced of them are only in their third cycle. recent advances in forest genomics have increased the understanding of the genetic basis of different traits, but it is unlikely that molecular marker-assisted approaches will quickly replace traditional tree breeding methods. furthermore, provenance trials and progeny tests are still needed to complement new research approaches. currently, seed of boreal and temperate trees for reforestation purposes are largely obtained from improved sources. the situation is similar for fast growing tropical and subtropical trees grown in plantations, but in the case of tropical hardwoods and many agroforestry trees, only limited tested or improved seed sources are available. transfers of tree germplasm involve some risks of spreading pests and diseases, of introducing invasive tree species and of polluting the genetic make-up of already present tree populations. many of these risks have been underestimated in the past, but they are now better understood and managed. relatively few tree species used for forestry have become invasive, and the risk of spreading pests and diseases while transferring seed is considerably lower than when moving live plants. the implementation of the nagoya protocol on access to genetic resources and benefit sharing (abs) may significantly change current transfer practices in the forestry sector by increasing transaction costs and the time needed to lawfully obtain forest genetic resources for r&d purposes. many countries are likely to struggle to establish a well-functioning abs regulatory system, slowing down the process of obtaining the necessary documentation for exchange. this is unfortunate, as climate change, outbreaks of pests and diseases, and continual pressure to support productivity, increase the need for transferring tree germplasm and accelerating r&d. \u00a9 2014 the authors.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Panama", 
+                "nameofficial": "Republic of Panama"
+            }
+        }, 
+        {
+            "index": 28, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.35499657, 
+                    46.97670384
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 28, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Hungary", 
+                "nameofficial": "Republic of Hungary"
+            }
+        }, 
+        {
+            "index": 107, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    46.97898228, 
+                    -19.79858543
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 107, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "UNITED STATES", 
+                    "AUSTRALIA", 
+                    "KENYA", 
+                    "DENMARK", 
+                    "PANAMA", 
+                    "FIJI", 
+                    "HUNGARY", 
+                    "MADAGASCAR"
+                ], 
+                "genetictool": [
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forest ecology and management", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2014, 
+                "abstracttext": "over the last 200. years, genetic resources of forest trees have been increasingly transferred, within and outside of species' native distribution ranges, for forestry and for research and development (r&d). transferred germplasm has been deployed to grow trees for numerous purposes, ranging from the production of wood and non-wood products to the provision of ecosystem services such as the restoration of forests for biodiversity conservation. the oldest form of r&d, provenance trials, revealed early on that seed origin has a major influence on the performance of planted trees. international provenance trials have been essential for selecting seed sources for reforestation and for improving tree germplasm through breeding. many tree breeding programmes were initiated in the 1950s, but as one round of testing and selection typically takes decades, the most advanced of them are only in their third cycle. recent advances in forest genomics have increased the understanding of the genetic basis of different traits, but it is unlikely that molecular marker-assisted approaches will quickly replace traditional tree breeding methods. furthermore, provenance trials and progeny tests are still needed to complement new research approaches. currently, seed of boreal and temperate trees for reforestation purposes are largely obtained from improved sources. the situation is similar for fast growing tropical and subtropical trees grown in plantations, but in the case of tropical hardwoods and many agroforestry trees, only limited tested or improved seed sources are available. transfers of tree germplasm involve some risks of spreading pests and diseases, of introducing invasive tree species and of polluting the genetic make-up of already present tree populations. many of these risks have been underestimated in the past, but they are now better understood and managed. relatively few tree species used for forestry have become invasive, and the risk of spreading pests and diseases while transferring seed is considerably lower than when moving live plants. the implementation of the nagoya protocol on access to genetic resources and benefit sharing (abs) may significantly change current transfer practices in the forestry sector by increasing transaction costs and the time needed to lawfully obtain forest genetic resources for r&d purposes. many countries are likely to struggle to establish a well-functioning abs regulatory system, slowing down the process of obtaining the necessary documentation for exchange. this is unfortunate, as climate change, outbreaks of pests and diseases, and continual pressure to support productivity, increase the need for transferring tree germplasm and accelerating r&d. \u00a9 2014 the authors.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Madagascar", 
+                "nameofficial": "Republic of Madagascar"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "target": 106, 
+            "value": 1
+        }, 
+        {
+            "source": 18, 
+            "target": 106, 
+            "value": 1
+        }, 
+        {
+            "source": 4, 
+            "target": 106, 
+            "value": 1
+        }, 
+        {
+            "source": 62, 
+            "target": 106, 
+            "value": 1
+        }, 
+        {
+            "source": 20, 
+            "target": 106, 
+            "value": 1
+        }, 
+        {
+            "source": 105, 
+            "target": 106, 
+            "value": 1
+        }, 
+        {
+            "source": 106, 
+            "target": 28, 
+            "value": 1
+        }, 
+        {
+            "source": 106, 
+            "target": 107, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 106, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    178.065036, 
+                    -17.71219757
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 106, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "UNITED STATES", 
+                    "AUSTRALIA", 
+                    "KENYA", 
+                    "DENMARK", 
+                    "PANAMA", 
+                    "FIJI", 
+                    "HUNGARY", 
+                    "MADAGASCAR"
+                ], 
+                "genetictool": [
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forest ecology and management", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2014, 
+                "abstracttext": "over the last 200. years, genetic resources of forest trees have been increasingly transferred, within and outside of species' native distribution ranges, for forestry and for research and development (r&d). transferred germplasm has been deployed to grow trees for numerous purposes, ranging from the production of wood and non-wood products to the provision of ecosystem services such as the restoration of forests for biodiversity conservation. the oldest form of r&d, provenance trials, revealed early on that seed origin has a major influence on the performance of planted trees. international provenance trials have been essential for selecting seed sources for reforestation and for improving tree germplasm through breeding. many tree breeding programmes were initiated in the 1950s, but as one round of testing and selection typically takes decades, the most advanced of them are only in their third cycle. recent advances in forest genomics have increased the understanding of the genetic basis of different traits, but it is unlikely that molecular marker-assisted approaches will quickly replace traditional tree breeding methods. furthermore, provenance trials and progeny tests are still needed to complement new research approaches. currently, seed of boreal and temperate trees for reforestation purposes are largely obtained from improved sources. the situation is similar for fast growing tropical and subtropical trees grown in plantations, but in the case of tropical hardwoods and many agroforestry trees, only limited tested or improved seed sources are available. transfers of tree germplasm involve some risks of spreading pests and diseases, of introducing invasive tree species and of polluting the genetic make-up of already present tree populations. many of these risks have been underestimated in the past, but they are now better understood and managed. relatively few tree species used for forestry have become invasive, and the risk of spreading pests and diseases while transferring seed is considerably lower than when moving live plants. the implementation of the nagoya protocol on access to genetic resources and benefit sharing (abs) may significantly change current transfer practices in the forestry sector by increasing transaction costs and the time needed to lawfully obtain forest genetic resources for r&d purposes. many countries are likely to struggle to establish a well-functioning abs regulatory system, slowing down the process of obtaining the necessary documentation for exchange. this is unfortunate, as climate change, outbreaks of pests and diseases, and continual pressure to support productivity, increase the need for transferring tree germplasm and accelerating r&d. \u00a9 2014 the authors.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Fiji", 
+                "nameofficial": "Republic of Fiji"
+            }
+        }, 
+        {
+            "index": 0, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 0, 
+            "score": 65, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "target": 106, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 107, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    178.065036, 
+                    -17.71219757
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 107, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "UNITED STATES", 
+                    "AUSTRALIA", 
+                    "KENYA", 
+                    "DENMARK", 
+                    "PANAMA", 
+                    "FIJI", 
+                    "HUNGARY", 
+                    "MADAGASCAR"
+                ], 
+                "genetictool": [
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forest ecology and management", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2014, 
+                "abstracttext": "over the last 200. years, genetic resources of forest trees have been increasingly transferred, within and outside of species' native distribution ranges, for forestry and for research and development (r&d). transferred germplasm has been deployed to grow trees for numerous purposes, ranging from the production of wood and non-wood products to the provision of ecosystem services such as the restoration of forests for biodiversity conservation. the oldest form of r&d, provenance trials, revealed early on that seed origin has a major influence on the performance of planted trees. international provenance trials have been essential for selecting seed sources for reforestation and for improving tree germplasm through breeding. many tree breeding programmes were initiated in the 1950s, but as one round of testing and selection typically takes decades, the most advanced of them are only in their third cycle. recent advances in forest genomics have increased the understanding of the genetic basis of different traits, but it is unlikely that molecular marker-assisted approaches will quickly replace traditional tree breeding methods. furthermore, provenance trials and progeny tests are still needed to complement new research approaches. currently, seed of boreal and temperate trees for reforestation purposes are largely obtained from improved sources. the situation is similar for fast growing tropical and subtropical trees grown in plantations, but in the case of tropical hardwoods and many agroforestry trees, only limited tested or improved seed sources are available. transfers of tree germplasm involve some risks of spreading pests and diseases, of introducing invasive tree species and of polluting the genetic make-up of already present tree populations. many of these risks have been underestimated in the past, but they are now better understood and managed. relatively few tree species used for forestry have become invasive, and the risk of spreading pests and diseases while transferring seed is considerably lower than when moving live plants. the implementation of the nagoya protocol on access to genetic resources and benefit sharing (abs) may significantly change current transfer practices in the forestry sector by increasing transaction costs and the time needed to lawfully obtain forest genetic resources for r&d purposes. many countries are likely to struggle to establish a well-functioning abs regulatory system, slowing down the process of obtaining the necessary documentation for exchange. this is unfortunate, as climate change, outbreaks of pests and diseases, and continual pressure to support productivity, increase the need for transferring tree germplasm and accelerating r&d. \u00a9 2014 the authors.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Fiji", 
+                "nameofficial": "Republic of Fiji"
+            }
+        }, 
+        {
+            "index": 105, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    46.97898228, 
+                    -19.79858543
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 105, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "UNITED STATES", 
+                    "AUSTRALIA", 
+                    "KENYA", 
+                    "DENMARK", 
+                    "PANAMA", 
+                    "FIJI", 
+                    "HUNGARY", 
+                    "MADAGASCAR"
+                ], 
+                "genetictool": [
+                    "molecular marker"
+                ], 
+                "fundingorganization": "", 
+                "journal": "forest ecology and management", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2014, 
+                "abstracttext": "over the last 200. years, genetic resources of forest trees have been increasingly transferred, within and outside of species' native distribution ranges, for forestry and for research and development (r&d). transferred germplasm has been deployed to grow trees for numerous purposes, ranging from the production of wood and non-wood products to the provision of ecosystem services such as the restoration of forests for biodiversity conservation. the oldest form of r&d, provenance trials, revealed early on that seed origin has a major influence on the performance of planted trees. international provenance trials have been essential for selecting seed sources for reforestation and for improving tree germplasm through breeding. many tree breeding programmes were initiated in the 1950s, but as one round of testing and selection typically takes decades, the most advanced of them are only in their third cycle. recent advances in forest genomics have increased the understanding of the genetic basis of different traits, but it is unlikely that molecular marker-assisted approaches will quickly replace traditional tree breeding methods. furthermore, provenance trials and progeny tests are still needed to complement new research approaches. currently, seed of boreal and temperate trees for reforestation purposes are largely obtained from improved sources. the situation is similar for fast growing tropical and subtropical trees grown in plantations, but in the case of tropical hardwoods and many agroforestry trees, only limited tested or improved seed sources are available. transfers of tree germplasm involve some risks of spreading pests and diseases, of introducing invasive tree species and of polluting the genetic make-up of already present tree populations. many of these risks have been underestimated in the past, but they are now better understood and managed. relatively few tree species used for forestry have become invasive, and the risk of spreading pests and diseases while transferring seed is considerably lower than when moving live plants. the implementation of the nagoya protocol on access to genetic resources and benefit sharing (abs) may significantly change current transfer practices in the forestry sector by increasing transaction costs and the time needed to lawfully obtain forest genetic resources for r&d purposes. many countries are likely to struggle to establish a well-functioning abs regulatory system, slowing down the process of obtaining the necessary documentation for exchange. this is unfortunate, as climate change, outbreaks of pests and diseases, and continual pressure to support productivity, increase the need for transferring tree germplasm and accelerating r&d. \u00a9 2014 the authors.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Madagascar", 
+                "nameofficial": "Republic of Madagascar"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 105, 
+            "target": 107, 
+            "value": 1
+        }
+    ]
+}
+]

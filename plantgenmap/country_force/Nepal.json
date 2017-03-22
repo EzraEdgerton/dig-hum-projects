@@ -1,0 +1,1995 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 55, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    83.98119373, 
+                    28.2843077
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 55, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "CANADA", 
+                    "INDIA", 
+                    "CANADA", 
+                    "INDIA", 
+                    "CANADA", 
+                    "NEPAL", 
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "3 biotech", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "despite the extensive use of small millet landraces as an important source of nutrition for people living in semi-arid regions, they are presently marginalized and their diversity and distribution are threatened at a global scale. local farmers have developed ancient breeding programs entrenched in traditional knowledge (tk) that has sustained rural cultures for thousands of years. the convention on biological diversity seeks fair and equitable sharing of genetic resources arising from local knowledge and requires signatory nations to provide appropriate policy and legal framework to farmers\u2019 rights over plant genetic resources and associated tk. dna barcoding employed in this study is proposed as a model for conservation of genetic diversity and an essential step towards documenting and protecting farmers\u2019 rights and tk. our study focuses on 32 landraces of small millets that are still used by indigenous farmers located in the rain fed areas of rural india and nepal. traditional knowledge of traits and utility was gathered using participatory methods and semi-structured interviews with key informants. dna was extracted and sequenced (rbcl, trnh-psba and its2) from 160 samples. both multivariate analysis of traits and phylogenetic analyses were used to assess diversity among small millet landraces. our research revealed considerable variation in traits and dna sequences among the 32 small millet landraces. we utilized a tiered approach using its2 dna barcode to make 100\u00a0% accurate landrace (32 landraces) and species (six species) assignments for all 160 blind samples in our study. we have also recorded precious tk of nutritional value, ecological and agricultural traits used by local farmers for each of these traditional landraces. this research demonstrates the potential of dna barcoding as a reliable identification tool and for use in evaluating and conserving genetic diversity of small millets. we suggest ways in which dna barcodes could be used in the protection of plant varieties and farmers\u2019 rights in india and nepal. \u00a9 2016, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Nepal", 
+                "nameofficial": "Federal Democratic Republic of Nepal"
+            }
+        }, 
+        {
+            "index": 35, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.6983315, 
+                    60.36196817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 35, 
+            "score": 152, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Canada", 
+                "nameofficial": "Canada"
+            }
+        }, 
+        {
+            "index": 5, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    78.50146222, 
+                    20.46549519
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 5, 
+            "score": 357, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA", 
+                    "AUSTRALIA", 
+                    "INDIA", 
+                    "AUSTRALIA", 
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "crop protection", 
+                "focalspecies": [
+                    "Gossypium hirsutum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the agriculture sector is embracing energy efficient conservation systems and technological innovations to meet the ever increasing demand for food, fibre, and fuel in tune with the rapidly increasing human population. the genetic modification of plants is one of the technological innovations that is adopted rapidly across the world. in cotton, many major producing countries have adopted herbicide-tolerant genetically modified crops. over-reliance on herbicides for weed management in both genetically modified and conventional systems has led to the rapid evolution of herbicide-resistant weeds. poor weed management can cause up to 90% yield loss in cotton. undoubtedly, integration of non-chemical methods and diversifying weed control options would ensure the sustainability of available weed management options, including herbicides. increasing crop competitiveness is one of the approaches that could be integrated with the current weed management systems. choosing cultivars with early vigour, use of narrow row planting, orienting crop rows with regard to sunlight, and adjusting planting density are some of the approaches that could enhance the competitiveness of crops over weeds. review of the available literature on cotton indicates weed suppressive benefits by enhancing crop competitiveness through increasing planting density and narrow row spacing. early canopy closure in narrow row spaced systems would suppress many problem weeds. in addition, herbicide efficacy may be increased due to competition offered by a dense crop stand, which may reduce herbicide selection pressure on weeds. however, the use of narrow row spacing is still in an infant stage in many cotton-growing countries and the success may depend on the environment, soil type, and resource availability. this review analyses and reports the potential benefits of increasing crop competition as a weed management option and also highlights research to be undertaken to ensure the adoption of different strategies on a much wider scale. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "ECUADOR", 
+                        "CHINA", 
+                        "FRENCH POLYNESIA", 
+                        "UNITED STATES", 
+                        "INDONESIA", 
+                        "MARSHALL ISLANDS", 
+                        "PERU", 
+                        "PHILIPPINES", 
+                        "GUATEMALA", 
+                        "HAITI", 
+                        "COSTA RICA", 
+                        "PUERTO RICO", 
+                        "EL SALVADOR", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "NICARAGUA", 
+                        "SEYCHELLES", 
+                        "CAMBODIA", 
+                        "GUADELOUPE", 
+                        "BAHAMAS", 
+                        "MAURITIUS", 
+                        "MONTSERRAT", 
+                        "PANAMA", 
+                        "PARAGUAY", 
+                        "UNITED KINGDOM", 
+                        "KENYA", 
+                        "AZERBAIJAN", 
+                        "MADAGASCAR", 
+                        "COMOROS", 
+                        "MAYOTTE", 
+                        "SENEGAL", 
+                        "BENIN", 
+                        "PAPUA NEW GUINEA", 
+                        "SURINAME", 
+                        "ETHIOPIA", 
+                        "GHANA", 
+                        "SIERRA LEONE", 
+                        "ANGOLA", 
+                        "CUBA", 
+                        "NEW CALEDONIA", 
+                        "CAMEROON", 
+                        "NIGERIA", 
+                        "NETHERLANDS", 
+                        "CURA\u00c7AO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GABON", 
+                        "SWEDEN", 
+                        "YEMEN", 
+                        "OMAN", 
+                        "NEPAL", 
+                        "JAMAICA", 
+                        "TONGA", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "FIJI", 
+                        "EGYPT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "ARGENTINA", 
+                        "AMERICAN SAMOA", 
+                        "CHILE", 
+                        "BELIZE", 
+                        "BULGARIA", 
+                        "AFGHANISTAN", 
+                        "CAYMAN ISLANDS", 
+                        "DOMINICAN REPUBLIC", 
+                        "ARUBA", 
+                        "DOMINICA", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "ALGERIA", 
+                        "INDIA", 
+                        "GREECE", 
+                        "GRENADA", 
+                        "SAINT KITTS AND NEVIS", 
+                        "GUAM", 
+                        "SAINT LUCIA", 
+                        "SPAIN", 
+                        "FRENCH GUIANA", 
+                        "MALDIVES", 
+                        "TRINIDAD AND TOBAGO", 
+                        "MARTINIQUE", 
+                        "PORTUGAL", 
+                        "MOZAMBIQUE", 
+                        "CHAD", 
+                        "MALI", 
+                        "R\u00c9UNION", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "SOUTH AFRICA", 
+                        "SAMOA", 
+                        "NIUE", 
+                        "VANUATU", 
+                        "SOLOMON ISLANDS", 
+                        "COOK ISLANDS", 
+                        "CONGO", 
+                        "SUDAN", 
+                        "HONDURAS", 
+                        "GUYANA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "THAILAND", 
+                        "FRANCE", 
+                        "ZAMBIA", 
+                        "TURKEY", 
+                        "UGANDA", 
+                        "SWAZILAND", 
+                        "EQUATORIAL GUINEA", 
+                        "SRI LANKA", 
+                        "MALAYSIA", 
+                        "ISRAEL", 
+                        "JAPAN", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "GUINEA", 
+                        "TIMOR-LESTE", 
+                        "BURKINA FASO", 
+                        "CAPE VERDE", 
+                        "SOMALIA", 
+                        "NAMIBIA", 
+                        "MALTA", 
+                        "MALAWI", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "BERMUDA", 
+                        "TOGO", 
+                        "ZIMBABWE", 
+                        "TURKMENISTAN", 
+                        "TAJIKISTAN", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "KIRIBATI", 
+                        "VIETNAM", 
+                        "NIGER", 
+                        "MAURITANIA", 
+                        "NEW ZEALAND", 
+                        "PAKISTAN", 
+                        "BRITISH INDIAN OCEAN TERRITORY", 
+                        "GAMBIA", 
+                        "LIBYA", 
+                        "SAINT BARTH\u00c9LEMY", 
+                        "ANGUILLA", 
+                        "GUINEA-BISSAU", 
+                        "UKRAINE", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "GEORGIA", 
+                        "ITALY", 
+                        "PALAU", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "India", 
+                "nameofficial": "Republic of India"
+            }
+        }, 
+        {
+            "index": 57, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    171.76586181, 
+                    -40.95025298
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 57, 
+            "score": 24, 
+            "data": {
+                "authorsCOO": [
+                    "CANADA", 
+                    "UNITED STATES", 
+                    "NEW ZEALAND", 
+                    "CHINA"
+                ], 
+                "genetictool": [
+                    "SNP", 
+                    "RNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Pinus albicaulis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "whitebark pine (wbp, pinus albicaulis engelm.) is an endangered conifer species due to heavy mortality from white pine blister rust (wpbr, caused by cronartium ribicola) and mountain pine beetle (dendroctonus ponderosae). information about genetic diversity and population structure is of fundamental importance for its conservation and restoration. however, current knowledge on the genetic constitution and genomic variation is still limited for wbp. in this study, an integrated genomics approach was applied to characterize seed collections from wbp breeding programs in western north america. rna-seq analysis was used for de novo assembly of the wbp needle transcriptome, which contains 97,447 protein-coding transcripts. within the transcriptome, single nucleotide polymorphisms (snps) were discovered, and more than 22,000 of them were non-synonymous snps (ns-snps). following the annotation of genes with ns-snps, 216 ns-snps within candidate genes with putative functions in disease resistance and plant defense were selected to design snp arrays for high-throughput genotyping. among these snp loci, 71 were highly polymorphic, with sufficient variation to identify a unique genotype for each of the 371 individuals originating from british columbia (canada), oregon and washington (usa). a clear genetic differentiation was evident among seed families. analyses of genetic spatial patterns revealed varying degrees of diversity and the existence of several genetic subgroups in the wbp breeding populations. genetic components were associated with geographic variables and phenotypic rating of wpbr disease severity across landscapes, which may facilitate further identification of wbp genotypes and gene alleles contributing to local adaptation and quantitative resistance to wpbr. the wbp genomic resources developed here provide an invaluable tool for further studies and for exploitation and utilization of the genetic diversity preserved within this endangered conifer and other five-needle pines. \u00a9 this is an open access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. the work is made available under the creative commons cc0 public domain dedication.", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES", 
+                        "NETHERLANDS", 
+                        "CANADA", 
+                        "GHANA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "New Zealand", 
+                "nameofficial": "New Zealand"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    133.55540944, 
+                    -26.29594646
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 237, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA", 
+                    "AUSTRALIA", 
+                    "INDIA", 
+                    "AUSTRALIA", 
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "crop protection", 
+                "focalspecies": [
+                    "Gossypium hirsutum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the agriculture sector is embracing energy efficient conservation systems and technological innovations to meet the ever increasing demand for food, fibre, and fuel in tune with the rapidly increasing human population. the genetic modification of plants is one of the technological innovations that is adopted rapidly across the world. in cotton, many major producing countries have adopted herbicide-tolerant genetically modified crops. over-reliance on herbicides for weed management in both genetically modified and conventional systems has led to the rapid evolution of herbicide-resistant weeds. poor weed management can cause up to 90% yield loss in cotton. undoubtedly, integration of non-chemical methods and diversifying weed control options would ensure the sustainability of available weed management options, including herbicides. increasing crop competitiveness is one of the approaches that could be integrated with the current weed management systems. choosing cultivars with early vigour, use of narrow row planting, orienting crop rows with regard to sunlight, and adjusting planting density are some of the approaches that could enhance the competitiveness of crops over weeds. review of the available literature on cotton indicates weed suppressive benefits by enhancing crop competitiveness through increasing planting density and narrow row spacing. early canopy closure in narrow row spaced systems would suppress many problem weeds. in addition, herbicide efficacy may be increased due to competition offered by a dense crop stand, which may reduce herbicide selection pressure on weeds. however, the use of narrow row spacing is still in an infant stage in many cotton-growing countries and the success may depend on the environment, soil type, and resource availability. this review analyses and reports the potential benefits of increasing crop competition as a weed management option and also highlights research to be undertaken to ensure the adoption of different strategies on a much wider scale. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "ECUADOR", 
+                        "CHINA", 
+                        "FRENCH POLYNESIA", 
+                        "UNITED STATES", 
+                        "INDONESIA", 
+                        "MARSHALL ISLANDS", 
+                        "PERU", 
+                        "PHILIPPINES", 
+                        "GUATEMALA", 
+                        "HAITI", 
+                        "COSTA RICA", 
+                        "PUERTO RICO", 
+                        "EL SALVADOR", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "NICARAGUA", 
+                        "SEYCHELLES", 
+                        "CAMBODIA", 
+                        "GUADELOUPE", 
+                        "BAHAMAS", 
+                        "MAURITIUS", 
+                        "MONTSERRAT", 
+                        "PANAMA", 
+                        "PARAGUAY", 
+                        "UNITED KINGDOM", 
+                        "KENYA", 
+                        "AZERBAIJAN", 
+                        "MADAGASCAR", 
+                        "COMOROS", 
+                        "MAYOTTE", 
+                        "SENEGAL", 
+                        "BENIN", 
+                        "PAPUA NEW GUINEA", 
+                        "SURINAME", 
+                        "ETHIOPIA", 
+                        "GHANA", 
+                        "SIERRA LEONE", 
+                        "ANGOLA", 
+                        "CUBA", 
+                        "NEW CALEDONIA", 
+                        "CAMEROON", 
+                        "NIGERIA", 
+                        "NETHERLANDS", 
+                        "CURA\u00c7AO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GABON", 
+                        "SWEDEN", 
+                        "YEMEN", 
+                        "OMAN", 
+                        "NEPAL", 
+                        "JAMAICA", 
+                        "TONGA", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "FIJI", 
+                        "EGYPT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "ARGENTINA", 
+                        "AMERICAN SAMOA", 
+                        "CHILE", 
+                        "BELIZE", 
+                        "BULGARIA", 
+                        "AFGHANISTAN", 
+                        "CAYMAN ISLANDS", 
+                        "DOMINICAN REPUBLIC", 
+                        "ARUBA", 
+                        "DOMINICA", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "ALGERIA", 
+                        "INDIA", 
+                        "GREECE", 
+                        "GRENADA", 
+                        "SAINT KITTS AND NEVIS", 
+                        "GUAM", 
+                        "SAINT LUCIA", 
+                        "SPAIN", 
+                        "FRENCH GUIANA", 
+                        "MALDIVES", 
+                        "TRINIDAD AND TOBAGO", 
+                        "MARTINIQUE", 
+                        "PORTUGAL", 
+                        "MOZAMBIQUE", 
+                        "CHAD", 
+                        "MALI", 
+                        "R\u00c9UNION", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "SOUTH AFRICA", 
+                        "SAMOA", 
+                        "NIUE", 
+                        "VANUATU", 
+                        "SOLOMON ISLANDS", 
+                        "COOK ISLANDS", 
+                        "CONGO", 
+                        "SUDAN", 
+                        "HONDURAS", 
+                        "GUYANA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "THAILAND", 
+                        "FRANCE", 
+                        "ZAMBIA", 
+                        "TURKEY", 
+                        "UGANDA", 
+                        "SWAZILAND", 
+                        "EQUATORIAL GUINEA", 
+                        "SRI LANKA", 
+                        "MALAYSIA", 
+                        "ISRAEL", 
+                        "JAPAN", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "GUINEA", 
+                        "TIMOR-LESTE", 
+                        "BURKINA FASO", 
+                        "CAPE VERDE", 
+                        "SOMALIA", 
+                        "NAMIBIA", 
+                        "MALTA", 
+                        "MALAWI", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "BERMUDA", 
+                        "TOGO", 
+                        "ZIMBABWE", 
+                        "TURKMENISTAN", 
+                        "TAJIKISTAN", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "KIRIBATI", 
+                        "VIETNAM", 
+                        "NIGER", 
+                        "MAURITANIA", 
+                        "NEW ZEALAND", 
+                        "PAKISTAN", 
+                        "BRITISH INDIAN OCEAN TERRITORY", 
+                        "GAMBIA", 
+                        "LIBYA", 
+                        "SAINT BARTH\u00c9LEMY", 
+                        "ANGUILLA", 
+                        "GUINEA-BISSAU", 
+                        "UKRAINE", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "GEORGIA", 
+                        "ITALY", 
+                        "PALAU", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Australia", 
+                "nameofficial": "Australia"
+            }
+        }, 
+        {
+            "index": 60, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    106.5460905, 
+                    4.97345793
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 60, 
+            "score": 26, 
+            "data": {
+                "authorsCOO": [
+                    "TURKEY", 
+                    "TURKEY", 
+                    "MALAYSIA", 
+                    "TURKEY"
+                ], 
+                "genetictool": [
+                    "SSR", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of plant research", 
+                "focalspecies": [
+                    "Medicago truncatula"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "this paper covers studies on the molecular and ecological aspects of g. glabra var. glandulifera, g. flavescens ssp. flavescens and g. echinata collected from hatay (turkey); with the aim to better understand their genetic variation and ecological requirements for possible conservation programs. the material including total genomic dna was extracted by the ctab, and for pcr reaction, a total of 14 ssr primers developed for medicago truncatula were used. pcr amplifications were performed in a multigen\u00ae thermal cycler. soil samples were analysed for their texture, ph, total soluble salts, calcium carbonate, total n content, total phosphorus and organic matter content. in order to see the association between genetic, ecological and geographical data, a similarity matrix was generated. genetic similarity distances between genotypes were correlated with those of eucledian distances obtained from ecological and geographical data. analysis of molecular variance (amova) was performed using genalex 6.5 software to determine variation among and within genetic variations. the genetic analysis showed that the highest expected heterozygosity values were obtained from g. glabra while the lowest were obtained from g. echinata. in general heterozygosity values were low, especially for g. echinata. therefore, variation appears to be lower within each species than among three species. the physical and chemical analysis of soil and plant samples indicates that mineral accumulation in plants is substantially affected by the soil characteristics. there is a need for identification of better strategies for the improvement of varieties, especially for small farmers managing marginal soils. more studies should be conducted in order to safeguard these taxa, especially g. glabra var. glandulifera which is collected intensively due to its economic value, the same is true for endemic taxon g. flavescens ssp. flavescens. \u00a9 2016, the botanical society of japan and springer japan.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "SPAIN", 
+                        "FRANCE", 
+                        "CROATIA", 
+                        "GREECE", 
+                        "PORTUGAL", 
+                        "JORDAN", 
+                        "ITALY", 
+                        "CYPRUS", 
+                        "MOROCCO", 
+                        "LUXEMBOURG", 
+                        "ALGERIA", 
+                        "EGYPT", 
+                        "TUNISIA", 
+                        "DENMARK", 
+                        "ISRAEL", 
+                        "LEBANON", 
+                        "TURKEY", 
+                        "SAUDI ARABIA", 
+                        "UNITED STATES", 
+                        "GERMANY", 
+                        "CANADA", 
+                        "MALTA", 
+                        "ETHIOPIA", 
+                        "LIBYA", 
+                        "SWEDEN", 
+                        "TURKMENISTAN", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "AZERBAIJAN", 
+                        "AFGHANISTAN", 
+                        "ARGENTINA", 
+                        "UNITED KINGDOM", 
+                        "KENYA", 
+                        "NORWAY", 
+                        "POLAND", 
+                        "MONTENEGRO", 
+                        "IRAQ", 
+                        "HUNGARY", 
+                        "CZECH REPUBLIC", 
+                        "NETHERLANDS", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "URUGUAY", 
+                        "ARMENIA", 
+                        "PARAGUAY", 
+                        "RUSSIAN FEDERATION", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "SOUTH AFRICA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Malaysia", 
+                "nameofficial": "Malaysia"
+            }
+        }, 
+        {
+            "index": 23, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    101.38805881, 
+                    14.6000981
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 23, 
+            "score": 14, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "ISRAEL", 
+                    "SWEDEN", 
+                    "THAILAND", 
+                    "PORTUGAL", 
+                    "BELGIUM", 
+                    "AUSTRALIA", 
+                    "PORTUGAL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Posidonia oceanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "here we present the results of a multiple organizational level analysis conceived to identify acclimative/adaptive strategies exhibited by the seagrass posidonia oceanica to the daily fluctuations in the light environment, at contrasting depths. we assessed changes in photophysiological parameters, leaf respiration, pigments, and protein and mrna expression levels. the results show that the diel oscillations of p. oceanica photophysiological and respiratory responses were related to transcripts and proteins expression of the genes involved in those processes and that there was a response asynchrony between shallow and deep plants probably caused by the strong differences in the light environment. the photochemical pathway of energy use was more effective in shallow plants due to higher light availability, but these plants needed more investment in photoprotection and photorepair, requiring higher translation and protein synthesis than deep plants. the genetic differentiation between deep and shallow stands suggests the existence of locally adapted genotypes to contrasting light environments. the depth-specific diel rhythms of photosynthetic and respiratory processes, from molecular to physiological levels, must be considered in the management and conservation of these key coastal ecosystems. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "MALTA", 
+                        "TUNISIA", 
+                        "EGYPT", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "IRELAND", 
+                        "GERMANY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Thailand", 
+                "nameofficial": "Kingdom of Thailand"
+            }
+        }, 
+        {
+            "index": 45, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    121.18329789, 
+                    -2.4622968
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 45, 
+            "score": 15, 
+            "data": {
+                "authorsCOO": [
+                    "INDONESIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biodiversitas", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "indonesia has a diversity of indigenous (i.e. wild type) begonia species that have never been artificially hybridized. they are usually situated in tropical rain forests, from the lowlands to the uplands (2400 m asl.). there are many begonia species that have not yet been collected and conserved ex-situ. hence exploration and conservation of this diversity needs to be exensively pursued. the conservation of lowland adapted begonia has been carried out for the last ten years in the bogor botanic gardens. the research reported here developed an inventory of the begonia collection held in the green house of the bogor botanic gardens nursery. the method used was a study of the plant expedition database which contains collection lists, locality of their discovery and ecological data for the localities. plant collection registration, acclimatization, propagation and collection care were documented. bogor botanic gardens has conserved 124 collections of begonia, made up of 93 indigenous species and 31 exotic species. the reported origins for the collection are as follows: java (9 accessions), sumatra (37 accessions), kalimantan (5 accessions), sulawesi (11 accessions), maluku (15 accessions), papua (4 accessions), bali and west nusa tenggara (6 accessions ) and east nusa tenggara (6 accessions). these wild begonia have prospects for development as new ornamental plants and also as genetic material to research the creation of new begonia varieties through artifial hybridization. \u00a9 2017, society for indonesian biodiversity. all rights reserved.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Indonesia", 
+                "nameofficial": "Republic of Indonesia"
+            }
+        }, 
+        {
+            "index": 0, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 0, 
+            "score": 190, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 35, 
+            "target": 55, 
+            "value": 3
+        }, 
+        {
+            "source": 5, 
+            "target": 55, 
+            "value": 6
+        }, 
+        {
+            "source": 57, 
+            "target": 55, 
+            "value": 6
+        }, 
+        {
+            "source": 55, 
+            "target": 4, 
+            "value": 2
+        }, 
+        {
+            "source": 55, 
+            "target": 55, 
+            "value": 1
+        }, 
+        {
+            "source": 55, 
+            "target": 60, 
+            "value": 1
+        }, 
+        {
+            "source": 55, 
+            "target": 23, 
+            "value": 1
+        }, 
+        {
+            "source": 55, 
+            "target": 45, 
+            "value": 1
+        }, 
+        {
+            "source": 55, 
+            "target": 0, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 55, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    83.98119373, 
+                    28.2843077
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 55, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "CANADA", 
+                    "INDIA", 
+                    "CANADA", 
+                    "INDIA", 
+                    "CANADA", 
+                    "NEPAL", 
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "3 biotech", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "despite the extensive use of small millet landraces as an important source of nutrition for people living in semi-arid regions, they are presently marginalized and their diversity and distribution are threatened at a global scale. local farmers have developed ancient breeding programs entrenched in traditional knowledge (tk) that has sustained rural cultures for thousands of years. the convention on biological diversity seeks fair and equitable sharing of genetic resources arising from local knowledge and requires signatory nations to provide appropriate policy and legal framework to farmers\u2019 rights over plant genetic resources and associated tk. dna barcoding employed in this study is proposed as a model for conservation of genetic diversity and an essential step towards documenting and protecting farmers\u2019 rights and tk. our study focuses on 32 landraces of small millets that are still used by indigenous farmers located in the rain fed areas of rural india and nepal. traditional knowledge of traits and utility was gathered using participatory methods and semi-structured interviews with key informants. dna was extracted and sequenced (rbcl, trnh-psba and its2) from 160 samples. both multivariate analysis of traits and phylogenetic analyses were used to assess diversity among small millet landraces. our research revealed considerable variation in traits and dna sequences among the 32 small millet landraces. we utilized a tiered approach using its2 dna barcode to make 100\u00a0% accurate landrace (32 landraces) and species (six species) assignments for all 160 blind samples in our study. we have also recorded precious tk of nutritional value, ecological and agricultural traits used by local farmers for each of these traditional landraces. this research demonstrates the potential of dna barcoding as a reliable identification tool and for use in evaluating and conserving genetic diversity of small millets. we suggest ways in which dna barcodes could be used in the protection of plant varieties and farmers\u2019 rights in india and nepal. \u00a9 2016, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Nepal", 
+                "nameofficial": "Federal Democratic Republic of Nepal"
+            }
+        }, 
+        {
+            "index": 35, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.6983315, 
+                    60.36196817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 35, 
+            "score": 51, 
+            "data": {
+                "authorsCOO": [
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "MEXICO", 
+                    "GREECE", 
+                    "BRAZIL", 
+                    "SLOVENIA", 
+                    "HUNGARY", 
+                    "NETHERLANDS", 
+                    "GERMANY", 
+                    "IRELAND", 
+                    "BRAZIL", 
+                    "SPAIN", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "CHINA", 
+                    "BRAZIL", 
+                    "HUNGARY", 
+                    "ITALY", 
+                    "GREECE", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "URUGUAY", 
+                    "FRANCE", 
+                    "SAUDI ARABIA", 
+                    "FINLAND", 
+                    "NETHERLANDS", 
+                    "NETHERLANDS", 
+                    "UNITED KINGDOM", 
+                    "HUNGARY", 
+                    "GERMANY", 
+                    "GERMANY", 
+                    "FRANCE", 
+                    "ITALY", 
+                    "SPAIN", 
+                    "BRAZIL", 
+                    "SWEDEN", 
+                    "GERMANY", 
+                    "HUNGARY", 
+                    "SOUTH KOREA", 
+                    "SOUTH KOREA", 
+                    "URUGUAY", 
+                    "GERMANY", 
+                    "IRAQ", 
+                    "HUNGARY", 
+                    "SLOVENIA", 
+                    "GERMANY", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "CANADA", 
+                    "DENMARK", 
+                    "UNITED STATES", 
+                    "UNITED STATES", 
+                    "GERMANY", 
+                    "BRAZIL", 
+                    "UNITED STATES", 
+                    "UNITED KINGDOM", 
+                    "FRANCE", 
+                    "AUSTRIA", 
+                    "UNITED STATES", 
+                    "BRAZIL", 
+                    "AUSTRALIA", 
+                    "BELGIUM", 
+                    "URUGUAY", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "FRANCE", 
+                    "SWEDEN", 
+                    "ARGENTINA", 
+                    "FRANCE", 
+                    "GERMANY", 
+                    "NETHERLANDS", 
+                    "UNITED STATES", 
+                    "CANADA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "genome biology", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the fungal genus aspergillus is of critical importance to humankind. species include those with industrial applications, important pathogens of humans, animals and crops, a source of potent carcinogenic contaminants of food, and an important genetic model. the genome sequences of eight aspergilli have already been explored to investigate aspects of fungal biology, raising questions about evolution and specialization within this genus. results: we have generated genome sequences for ten novel, highly diverse aspergillus species and compared these in detail to sister and more distant genera. comparative studies of key aspects of fungal biology, including primary and secondary metabolism, stress response, biomass degradation, and signal transduction, revealed both conservation and diversity among the species. observed genomic differences were validated with experimental studies. this revealed several highlights, such as the potential for sex in asexual species, organic acid production genes being a key feature of black aspergilli, alternative approaches for degrading plant biomass, and indications for the genetic basis of stress response. a genome-wide phylogenetic analysis demonstrated in detail the relationship of the newly genome sequenced species with other aspergilli. conclusions: many aspects of biological differences between fungal species cannot be explained by current knowledge obtained from genome sequences. the comparative genomics and experimental study, presented here, allows for the first time a genus-wide view of the biological diversity of the aspergilli and in many, but not all, cases linked genome differences to phenotype. insights gained could be exploited for biotechnological and medical applications of fungi. \u00a9 2017 the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Canada", 
+                "nameofficial": "Canada"
+            }
+        }, 
+        {
+            "index": 57, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    171.76586181, 
+                    -40.95025298
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 57, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "CANADA", 
+                    "UNITED STATES", 
+                    "NEW ZEALAND", 
+                    "CHINA"
+                ], 
+                "genetictool": [
+                    "SNP", 
+                    "RNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Pinus albicaulis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "whitebark pine (wbp, pinus albicaulis engelm.) is an endangered conifer species due to heavy mortality from white pine blister rust (wpbr, caused by cronartium ribicola) and mountain pine beetle (dendroctonus ponderosae). information about genetic diversity and population structure is of fundamental importance for its conservation and restoration. however, current knowledge on the genetic constitution and genomic variation is still limited for wbp. in this study, an integrated genomics approach was applied to characterize seed collections from wbp breeding programs in western north america. rna-seq analysis was used for de novo assembly of the wbp needle transcriptome, which contains 97,447 protein-coding transcripts. within the transcriptome, single nucleotide polymorphisms (snps) were discovered, and more than 22,000 of them were non-synonymous snps (ns-snps). following the annotation of genes with ns-snps, 216 ns-snps within candidate genes with putative functions in disease resistance and plant defense were selected to design snp arrays for high-throughput genotyping. among these snp loci, 71 were highly polymorphic, with sufficient variation to identify a unique genotype for each of the 371 individuals originating from british columbia (canada), oregon and washington (usa). a clear genetic differentiation was evident among seed families. analyses of genetic spatial patterns revealed varying degrees of diversity and the existence of several genetic subgroups in the wbp breeding populations. genetic components were associated with geographic variables and phenotypic rating of wpbr disease severity across landscapes, which may facilitate further identification of wbp genotypes and gene alleles contributing to local adaptation and quantitative resistance to wpbr. the wbp genomic resources developed here provide an invaluable tool for further studies and for exploitation and utilization of the genetic diversity preserved within this endangered conifer and other five-needle pines. \u00a9 this is an open access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. the work is made available under the creative commons cc0 public domain dedication.", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES", 
+                        "NETHERLANDS", 
+                        "CANADA", 
+                        "GHANA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "New Zealand", 
+                "nameofficial": "New Zealand"
+            }
+        }, 
+        {
+            "index": 5, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    78.50146222, 
+                    20.46549519
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 5, 
+            "score": 173, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA", 
+                    "AUSTRALIA", 
+                    "INDIA", 
+                    "AUSTRALIA", 
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "crop protection", 
+                "focalspecies": [
+                    "Gossypium hirsutum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the agriculture sector is embracing energy efficient conservation systems and technological innovations to meet the ever increasing demand for food, fibre, and fuel in tune with the rapidly increasing human population. the genetic modification of plants is one of the technological innovations that is adopted rapidly across the world. in cotton, many major producing countries have adopted herbicide-tolerant genetically modified crops. over-reliance on herbicides for weed management in both genetically modified and conventional systems has led to the rapid evolution of herbicide-resistant weeds. poor weed management can cause up to 90% yield loss in cotton. undoubtedly, integration of non-chemical methods and diversifying weed control options would ensure the sustainability of available weed management options, including herbicides. increasing crop competitiveness is one of the approaches that could be integrated with the current weed management systems. choosing cultivars with early vigour, use of narrow row planting, orienting crop rows with regard to sunlight, and adjusting planting density are some of the approaches that could enhance the competitiveness of crops over weeds. review of the available literature on cotton indicates weed suppressive benefits by enhancing crop competitiveness through increasing planting density and narrow row spacing. early canopy closure in narrow row spaced systems would suppress many problem weeds. in addition, herbicide efficacy may be increased due to competition offered by a dense crop stand, which may reduce herbicide selection pressure on weeds. however, the use of narrow row spacing is still in an infant stage in many cotton-growing countries and the success may depend on the environment, soil type, and resource availability. this review analyses and reports the potential benefits of increasing crop competition as a weed management option and also highlights research to be undertaken to ensure the adoption of different strategies on a much wider scale. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "ECUADOR", 
+                        "CHINA", 
+                        "FRENCH POLYNESIA", 
+                        "UNITED STATES", 
+                        "INDONESIA", 
+                        "MARSHALL ISLANDS", 
+                        "PERU", 
+                        "PHILIPPINES", 
+                        "GUATEMALA", 
+                        "HAITI", 
+                        "COSTA RICA", 
+                        "PUERTO RICO", 
+                        "EL SALVADOR", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "NICARAGUA", 
+                        "SEYCHELLES", 
+                        "CAMBODIA", 
+                        "GUADELOUPE", 
+                        "BAHAMAS", 
+                        "MAURITIUS", 
+                        "MONTSERRAT", 
+                        "PANAMA", 
+                        "PARAGUAY", 
+                        "UNITED KINGDOM", 
+                        "KENYA", 
+                        "AZERBAIJAN", 
+                        "MADAGASCAR", 
+                        "COMOROS", 
+                        "MAYOTTE", 
+                        "SENEGAL", 
+                        "BENIN", 
+                        "PAPUA NEW GUINEA", 
+                        "SURINAME", 
+                        "ETHIOPIA", 
+                        "GHANA", 
+                        "SIERRA LEONE", 
+                        "ANGOLA", 
+                        "CUBA", 
+                        "NEW CALEDONIA", 
+                        "CAMEROON", 
+                        "NIGERIA", 
+                        "NETHERLANDS", 
+                        "CURA\u00c7AO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GABON", 
+                        "SWEDEN", 
+                        "YEMEN", 
+                        "OMAN", 
+                        "NEPAL", 
+                        "JAMAICA", 
+                        "TONGA", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "FIJI", 
+                        "EGYPT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "ARGENTINA", 
+                        "AMERICAN SAMOA", 
+                        "CHILE", 
+                        "BELIZE", 
+                        "BULGARIA", 
+                        "AFGHANISTAN", 
+                        "CAYMAN ISLANDS", 
+                        "DOMINICAN REPUBLIC", 
+                        "ARUBA", 
+                        "DOMINICA", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "ALGERIA", 
+                        "INDIA", 
+                        "GREECE", 
+                        "GRENADA", 
+                        "SAINT KITTS AND NEVIS", 
+                        "GUAM", 
+                        "SAINT LUCIA", 
+                        "SPAIN", 
+                        "FRENCH GUIANA", 
+                        "MALDIVES", 
+                        "TRINIDAD AND TOBAGO", 
+                        "MARTINIQUE", 
+                        "PORTUGAL", 
+                        "MOZAMBIQUE", 
+                        "CHAD", 
+                        "MALI", 
+                        "R\u00c9UNION", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "SOUTH AFRICA", 
+                        "SAMOA", 
+                        "NIUE", 
+                        "VANUATU", 
+                        "SOLOMON ISLANDS", 
+                        "COOK ISLANDS", 
+                        "CONGO", 
+                        "SUDAN", 
+                        "HONDURAS", 
+                        "GUYANA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "THAILAND", 
+                        "FRANCE", 
+                        "ZAMBIA", 
+                        "TURKEY", 
+                        "UGANDA", 
+                        "SWAZILAND", 
+                        "EQUATORIAL GUINEA", 
+                        "SRI LANKA", 
+                        "MALAYSIA", 
+                        "ISRAEL", 
+                        "JAPAN", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "GUINEA", 
+                        "TIMOR-LESTE", 
+                        "BURKINA FASO", 
+                        "CAPE VERDE", 
+                        "SOMALIA", 
+                        "NAMIBIA", 
+                        "MALTA", 
+                        "MALAWI", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "BERMUDA", 
+                        "TOGO", 
+                        "ZIMBABWE", 
+                        "TURKMENISTAN", 
+                        "TAJIKISTAN", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "KIRIBATI", 
+                        "VIETNAM", 
+                        "NIGER", 
+                        "MAURITANIA", 
+                        "NEW ZEALAND", 
+                        "PAKISTAN", 
+                        "BRITISH INDIAN OCEAN TERRITORY", 
+                        "GAMBIA", 
+                        "LIBYA", 
+                        "SAINT BARTH\u00c9LEMY", 
+                        "ANGUILLA", 
+                        "GUINEA-BISSAU", 
+                        "UKRAINE", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "GEORGIA", 
+                        "ITALY", 
+                        "PALAU", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "India", 
+                "nameofficial": "Republic of India"
+            }
+        }, 
+        {
+            "index": 60, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    106.5460905, 
+                    4.97345793
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 60, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "TURKEY", 
+                    "TURKEY", 
+                    "MALAYSIA", 
+                    "TURKEY"
+                ], 
+                "genetictool": [
+                    "SSR", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "journal of plant research", 
+                "focalspecies": [
+                    "Medicago truncatula"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "this paper covers studies on the molecular and ecological aspects of g. glabra var. glandulifera, g. flavescens ssp. flavescens and g. echinata collected from hatay (turkey); with the aim to better understand their genetic variation and ecological requirements for possible conservation programs. the material including total genomic dna was extracted by the ctab, and for pcr reaction, a total of 14 ssr primers developed for medicago truncatula were used. pcr amplifications were performed in a multigen\u00ae thermal cycler. soil samples were analysed for their texture, ph, total soluble salts, calcium carbonate, total n content, total phosphorus and organic matter content. in order to see the association between genetic, ecological and geographical data, a similarity matrix was generated. genetic similarity distances between genotypes were correlated with those of eucledian distances obtained from ecological and geographical data. analysis of molecular variance (amova) was performed using genalex 6.5 software to determine variation among and within genetic variations. the genetic analysis showed that the highest expected heterozygosity values were obtained from g. glabra while the lowest were obtained from g. echinata. in general heterozygosity values were low, especially for g. echinata. therefore, variation appears to be lower within each species than among three species. the physical and chemical analysis of soil and plant samples indicates that mineral accumulation in plants is substantially affected by the soil characteristics. there is a need for identification of better strategies for the improvement of varieties, especially for small farmers managing marginal soils. more studies should be conducted in order to safeguard these taxa, especially g. glabra var. glandulifera which is collected intensively due to its economic value, the same is true for endemic taxon g. flavescens ssp. flavescens. \u00a9 2016, the botanical society of japan and springer japan.", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "SPAIN", 
+                        "FRANCE", 
+                        "CROATIA", 
+                        "GREECE", 
+                        "PORTUGAL", 
+                        "JORDAN", 
+                        "ITALY", 
+                        "CYPRUS", 
+                        "MOROCCO", 
+                        "LUXEMBOURG", 
+                        "ALGERIA", 
+                        "EGYPT", 
+                        "TUNISIA", 
+                        "DENMARK", 
+                        "ISRAEL", 
+                        "LEBANON", 
+                        "TURKEY", 
+                        "SAUDI ARABIA", 
+                        "UNITED STATES", 
+                        "GERMANY", 
+                        "CANADA", 
+                        "MALTA", 
+                        "ETHIOPIA", 
+                        "LIBYA", 
+                        "SWEDEN", 
+                        "TURKMENISTAN", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "AZERBAIJAN", 
+                        "AFGHANISTAN", 
+                        "ARGENTINA", 
+                        "UNITED KINGDOM", 
+                        "KENYA", 
+                        "NORWAY", 
+                        "POLAND", 
+                        "MONTENEGRO", 
+                        "IRAQ", 
+                        "HUNGARY", 
+                        "CZECH REPUBLIC", 
+                        "NETHERLANDS", 
+                        "SWITZERLAND", 
+                        "BELGIUM", 
+                        "URUGUAY", 
+                        "ARMENIA", 
+                        "PARAGUAY", 
+                        "RUSSIAN FEDERATION", 
+                        "BULGARIA", 
+                        "ROMANIA", 
+                        "SOUTH AFRICA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Malaysia", 
+                "nameofficial": "Malaysia"
+            }
+        }, 
+        {
+            "index": 23, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    101.38805881, 
+                    14.6000981
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 23, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "ISRAEL", 
+                    "SWEDEN", 
+                    "THAILAND", 
+                    "PORTUGAL", 
+                    "BELGIUM", 
+                    "AUSTRALIA", 
+                    "PORTUGAL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Posidonia oceanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "here we present the results of a multiple organizational level analysis conceived to identify acclimative/adaptive strategies exhibited by the seagrass posidonia oceanica to the daily fluctuations in the light environment, at contrasting depths. we assessed changes in photophysiological parameters, leaf respiration, pigments, and protein and mrna expression levels. the results show that the diel oscillations of p. oceanica photophysiological and respiratory responses were related to transcripts and proteins expression of the genes involved in those processes and that there was a response asynchrony between shallow and deep plants probably caused by the strong differences in the light environment. the photochemical pathway of energy use was more effective in shallow plants due to higher light availability, but these plants needed more investment in photoprotection and photorepair, requiring higher translation and protein synthesis than deep plants. the genetic differentiation between deep and shallow stands suggests the existence of locally adapted genotypes to contrasting light environments. the depth-specific diel rhythms of photosynthetic and respiratory processes, from molecular to physiological levels, must be considered in the management and conservation of these key coastal ecosystems. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "MALTA", 
+                        "TUNISIA", 
+                        "EGYPT", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "IRELAND", 
+                        "GERMANY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Thailand", 
+                "nameofficial": "Kingdom of Thailand"
+            }
+        }, 
+        {
+            "index": 45, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    121.18329789, 
+                    -2.4622968
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 45, 
+            "score": 6, 
+            "data": {
+                "authorsCOO": [
+                    "INDONESIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "biodiversitas", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "indonesia has a diversity of indigenous (i.e. wild type) begonia species that have never been artificially hybridized. they are usually situated in tropical rain forests, from the lowlands to the uplands (2400 m asl.). there are many begonia species that have not yet been collected and conserved ex-situ. hence exploration and conservation of this diversity needs to be exensively pursued. the conservation of lowland adapted begonia has been carried out for the last ten years in the bogor botanic gardens. the research reported here developed an inventory of the begonia collection held in the green house of the bogor botanic gardens nursery. the method used was a study of the plant expedition database which contains collection lists, locality of their discovery and ecological data for the localities. plant collection registration, acclimatization, propagation and collection care were documented. bogor botanic gardens has conserved 124 collections of begonia, made up of 93 indigenous species and 31 exotic species. the reported origins for the collection are as follows: java (9 accessions), sumatra (37 accessions), kalimantan (5 accessions), sulawesi (11 accessions), maluku (15 accessions), papua (4 accessions), bali and west nusa tenggara (6 accessions ) and east nusa tenggara (6 accessions). these wild begonia have prospects for development as new ornamental plants and also as genetic material to research the creation of new begonia varieties through artifial hybridization. \u00a9 2017, society for indonesian biodiversity. all rights reserved.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Indonesia", 
+                "nameofficial": "Republic of Indonesia"
+            }
+        }, 
+        {
+            "index": 0, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 0, 
+            "score": 65, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 35, 
+            "target": 55, 
+            "value": 1
+        }, 
+        {
+            "source": 57, 
+            "target": 55, 
+            "value": 2
+        }, 
+        {
+            "source": 55, 
+            "target": 5, 
+            "value": 1
+        }, 
+        {
+            "source": 55, 
+            "target": 60, 
+            "value": 1
+        }, 
+        {
+            "source": 55, 
+            "target": 23, 
+            "value": 1
+        }, 
+        {
+            "source": 55, 
+            "target": 45, 
+            "value": 1
+        }, 
+        {
+            "source": 55, 
+            "target": 0, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 55, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    83.98119373, 
+                    28.2843077
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 55, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "CANADA", 
+                    "INDIA", 
+                    "CANADA", 
+                    "INDIA", 
+                    "CANADA", 
+                    "NEPAL", 
+                    "INDIA", 
+                    "INDIA", 
+                    "INDIA"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "3 biotech", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "despite the extensive use of small millet landraces as an important source of nutrition for people living in semi-arid regions, they are presently marginalized and their diversity and distribution are threatened at a global scale. local farmers have developed ancient breeding programs entrenched in traditional knowledge (tk) that has sustained rural cultures for thousands of years. the convention on biological diversity seeks fair and equitable sharing of genetic resources arising from local knowledge and requires signatory nations to provide appropriate policy and legal framework to farmers\u2019 rights over plant genetic resources and associated tk. dna barcoding employed in this study is proposed as a model for conservation of genetic diversity and an essential step towards documenting and protecting farmers\u2019 rights and tk. our study focuses on 32 landraces of small millets that are still used by indigenous farmers located in the rain fed areas of rural india and nepal. traditional knowledge of traits and utility was gathered using participatory methods and semi-structured interviews with key informants. dna was extracted and sequenced (rbcl, trnh-psba and its2) from 160 samples. both multivariate analysis of traits and phylogenetic analyses were used to assess diversity among small millet landraces. our research revealed considerable variation in traits and dna sequences among the 32 small millet landraces. we utilized a tiered approach using its2 dna barcode to make 100\u00a0% accurate landrace (32 landraces) and species (six species) assignments for all 160 blind samples in our study. we have also recorded precious tk of nutritional value, ecological and agricultural traits used by local farmers for each of these traditional landraces. this research demonstrates the potential of dna barcoding as a reliable identification tool and for use in evaluating and conserving genetic diversity of small millets. we suggest ways in which dna barcodes could be used in the protection of plant varieties and farmers\u2019 rights in india and nepal. \u00a9 2016, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Nepal", 
+                "nameofficial": "Federal Democratic Republic of Nepal"
+            }
+        }, 
+        {
+            "index": 5, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    78.50146222, 
+                    20.46549519
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 5, 
+            "score": 161, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA", 
+                    "AUSTRALIA", 
+                    "INDIA", 
+                    "AUSTRALIA", 
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "crop protection", 
+                "focalspecies": [
+                    "Gossypium hirsutum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the agriculture sector is embracing energy efficient conservation systems and technological innovations to meet the ever increasing demand for food, fibre, and fuel in tune with the rapidly increasing human population. the genetic modification of plants is one of the technological innovations that is adopted rapidly across the world. in cotton, many major producing countries have adopted herbicide-tolerant genetically modified crops. over-reliance on herbicides for weed management in both genetically modified and conventional systems has led to the rapid evolution of herbicide-resistant weeds. poor weed management can cause up to 90% yield loss in cotton. undoubtedly, integration of non-chemical methods and diversifying weed control options would ensure the sustainability of available weed management options, including herbicides. increasing crop competitiveness is one of the approaches that could be integrated with the current weed management systems. choosing cultivars with early vigour, use of narrow row planting, orienting crop rows with regard to sunlight, and adjusting planting density are some of the approaches that could enhance the competitiveness of crops over weeds. review of the available literature on cotton indicates weed suppressive benefits by enhancing crop competitiveness through increasing planting density and narrow row spacing. early canopy closure in narrow row spaced systems would suppress many problem weeds. in addition, herbicide efficacy may be increased due to competition offered by a dense crop stand, which may reduce herbicide selection pressure on weeds. however, the use of narrow row spacing is still in an infant stage in many cotton-growing countries and the success may depend on the environment, soil type, and resource availability. this review analyses and reports the potential benefits of increasing crop competition as a weed management option and also highlights research to be undertaken to ensure the adoption of different strategies on a much wider scale. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "ECUADOR", 
+                        "CHINA", 
+                        "FRENCH POLYNESIA", 
+                        "UNITED STATES", 
+                        "INDONESIA", 
+                        "MARSHALL ISLANDS", 
+                        "PERU", 
+                        "PHILIPPINES", 
+                        "GUATEMALA", 
+                        "HAITI", 
+                        "COSTA RICA", 
+                        "PUERTO RICO", 
+                        "EL SALVADOR", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "NICARAGUA", 
+                        "SEYCHELLES", 
+                        "CAMBODIA", 
+                        "GUADELOUPE", 
+                        "BAHAMAS", 
+                        "MAURITIUS", 
+                        "MONTSERRAT", 
+                        "PANAMA", 
+                        "PARAGUAY", 
+                        "UNITED KINGDOM", 
+                        "KENYA", 
+                        "AZERBAIJAN", 
+                        "MADAGASCAR", 
+                        "COMOROS", 
+                        "MAYOTTE", 
+                        "SENEGAL", 
+                        "BENIN", 
+                        "PAPUA NEW GUINEA", 
+                        "SURINAME", 
+                        "ETHIOPIA", 
+                        "GHANA", 
+                        "SIERRA LEONE", 
+                        "ANGOLA", 
+                        "CUBA", 
+                        "NEW CALEDONIA", 
+                        "CAMEROON", 
+                        "NIGERIA", 
+                        "NETHERLANDS", 
+                        "CURA\u00c7AO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GABON", 
+                        "SWEDEN", 
+                        "YEMEN", 
+                        "OMAN", 
+                        "NEPAL", 
+                        "JAMAICA", 
+                        "TONGA", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "FIJI", 
+                        "EGYPT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "ARGENTINA", 
+                        "AMERICAN SAMOA", 
+                        "CHILE", 
+                        "BELIZE", 
+                        "BULGARIA", 
+                        "AFGHANISTAN", 
+                        "CAYMAN ISLANDS", 
+                        "DOMINICAN REPUBLIC", 
+                        "ARUBA", 
+                        "DOMINICA", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "ALGERIA", 
+                        "INDIA", 
+                        "GREECE", 
+                        "GRENADA", 
+                        "SAINT KITTS AND NEVIS", 
+                        "GUAM", 
+                        "SAINT LUCIA", 
+                        "SPAIN", 
+                        "FRENCH GUIANA", 
+                        "MALDIVES", 
+                        "TRINIDAD AND TOBAGO", 
+                        "MARTINIQUE", 
+                        "PORTUGAL", 
+                        "MOZAMBIQUE", 
+                        "CHAD", 
+                        "MALI", 
+                        "R\u00c9UNION", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "SOUTH AFRICA", 
+                        "SAMOA", 
+                        "NIUE", 
+                        "VANUATU", 
+                        "SOLOMON ISLANDS", 
+                        "COOK ISLANDS", 
+                        "CONGO", 
+                        "SUDAN", 
+                        "HONDURAS", 
+                        "GUYANA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "THAILAND", 
+                        "FRANCE", 
+                        "ZAMBIA", 
+                        "TURKEY", 
+                        "UGANDA", 
+                        "SWAZILAND", 
+                        "EQUATORIAL GUINEA", 
+                        "SRI LANKA", 
+                        "MALAYSIA", 
+                        "ISRAEL", 
+                        "JAPAN", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "GUINEA", 
+                        "TIMOR-LESTE", 
+                        "BURKINA FASO", 
+                        "CAPE VERDE", 
+                        "SOMALIA", 
+                        "NAMIBIA", 
+                        "MALTA", 
+                        "MALAWI", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "BERMUDA", 
+                        "TOGO", 
+                        "ZIMBABWE", 
+                        "TURKMENISTAN", 
+                        "TAJIKISTAN", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "KIRIBATI", 
+                        "VIETNAM", 
+                        "NIGER", 
+                        "MAURITANIA", 
+                        "NEW ZEALAND", 
+                        "PAKISTAN", 
+                        "BRITISH INDIAN OCEAN TERRITORY", 
+                        "GAMBIA", 
+                        "LIBYA", 
+                        "SAINT BARTH\u00c9LEMY", 
+                        "ANGUILLA", 
+                        "GUINEA-BISSAU", 
+                        "UKRAINE", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "GEORGIA", 
+                        "ITALY", 
+                        "PALAU", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "India", 
+                "nameofficial": "Republic of India"
+            }
+        }, 
+        {
+            "index": 57, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    171.76586181, 
+                    -40.95025298
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 57, 
+            "score": 9, 
+            "data": {
+                "authorsCOO": [
+                    "CANADA", 
+                    "UNITED STATES", 
+                    "NEW ZEALAND", 
+                    "CHINA"
+                ], 
+                "genetictool": [
+                    "SNP", 
+                    "RNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plos one", 
+                "focalspecies": [
+                    "Pinus albicaulis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "whitebark pine (wbp, pinus albicaulis engelm.) is an endangered conifer species due to heavy mortality from white pine blister rust (wpbr, caused by cronartium ribicola) and mountain pine beetle (dendroctonus ponderosae). information about genetic diversity and population structure is of fundamental importance for its conservation and restoration. however, current knowledge on the genetic constitution and genomic variation is still limited for wbp. in this study, an integrated genomics approach was applied to characterize seed collections from wbp breeding programs in western north america. rna-seq analysis was used for de novo assembly of the wbp needle transcriptome, which contains 97,447 protein-coding transcripts. within the transcriptome, single nucleotide polymorphisms (snps) were discovered, and more than 22,000 of them were non-synonymous snps (ns-snps). following the annotation of genes with ns-snps, 216 ns-snps within candidate genes with putative functions in disease resistance and plant defense were selected to design snp arrays for high-throughput genotyping. among these snp loci, 71 were highly polymorphic, with sufficient variation to identify a unique genotype for each of the 371 individuals originating from british columbia (canada), oregon and washington (usa). a clear genetic differentiation was evident among seed families. analyses of genetic spatial patterns revealed varying degrees of diversity and the existence of several genetic subgroups in the wbp breeding populations. genetic components were associated with geographic variables and phenotypic rating of wpbr disease severity across landscapes, which may facilitate further identification of wbp genotypes and gene alleles contributing to local adaptation and quantitative resistance to wpbr. the wbp genomic resources developed here provide an invaluable tool for further studies and for exploitation and utilization of the genetic diversity preserved within this endangered conifer and other five-needle pines. \u00a9 this is an open access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. the work is made available under the creative commons cc0 public domain dedication.", 
+                "focalspeciesCOO": [
+                    [
+                        "UNITED STATES", 
+                        "NETHERLANDS", 
+                        "CANADA", 
+                        "GHANA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "New Zealand", 
+                "nameofficial": "New Zealand"
+            }
+        }, 
+        {
+            "index": 4, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    133.55540944, 
+                    -26.29594646
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 4, 
+            "score": 73, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRALIA", 
+                    "AUSTRALIA", 
+                    "INDIA", 
+                    "AUSTRALIA", 
+                    "AUSTRALIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "crop protection", 
+                "focalspecies": [
+                    "Gossypium hirsutum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the agriculture sector is embracing energy efficient conservation systems and technological innovations to meet the ever increasing demand for food, fibre, and fuel in tune with the rapidly increasing human population. the genetic modification of plants is one of the technological innovations that is adopted rapidly across the world. in cotton, many major producing countries have adopted herbicide-tolerant genetically modified crops. over-reliance on herbicides for weed management in both genetically modified and conventional systems has led to the rapid evolution of herbicide-resistant weeds. poor weed management can cause up to 90% yield loss in cotton. undoubtedly, integration of non-chemical methods and diversifying weed control options would ensure the sustainability of available weed management options, including herbicides. increasing crop competitiveness is one of the approaches that could be integrated with the current weed management systems. choosing cultivars with early vigour, use of narrow row planting, orienting crop rows with regard to sunlight, and adjusting planting density are some of the approaches that could enhance the competitiveness of crops over weeds. review of the available literature on cotton indicates weed suppressive benefits by enhancing crop competitiveness through increasing planting density and narrow row spacing. early canopy closure in narrow row spaced systems would suppress many problem weeds. in addition, herbicide efficacy may be increased due to competition offered by a dense crop stand, which may reduce herbicide selection pressure on weeds. however, the use of narrow row spacing is still in an infant stage in many cotton-growing countries and the success may depend on the environment, soil type, and resource availability. this review analyses and reports the potential benefits of increasing crop competition as a weed management option and also highlights research to be undertaken to ensure the adoption of different strategies on a much wider scale. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": [
+                    [
+                        "AUSTRALIA", 
+                        "MEXICO", 
+                        "ECUADOR", 
+                        "CHINA", 
+                        "FRENCH POLYNESIA", 
+                        "UNITED STATES", 
+                        "INDONESIA", 
+                        "MARSHALL ISLANDS", 
+                        "PERU", 
+                        "PHILIPPINES", 
+                        "GUATEMALA", 
+                        "HAITI", 
+                        "COSTA RICA", 
+                        "PUERTO RICO", 
+                        "EL SALVADOR", 
+                        "BRAZIL", 
+                        "COLOMBIA", 
+                        "NICARAGUA", 
+                        "SEYCHELLES", 
+                        "CAMBODIA", 
+                        "GUADELOUPE", 
+                        "BAHAMAS", 
+                        "MAURITIUS", 
+                        "MONTSERRAT", 
+                        "PANAMA", 
+                        "PARAGUAY", 
+                        "UNITED KINGDOM", 
+                        "KENYA", 
+                        "AZERBAIJAN", 
+                        "MADAGASCAR", 
+                        "COMOROS", 
+                        "MAYOTTE", 
+                        "SENEGAL", 
+                        "BENIN", 
+                        "PAPUA NEW GUINEA", 
+                        "SURINAME", 
+                        "ETHIOPIA", 
+                        "GHANA", 
+                        "SIERRA LEONE", 
+                        "ANGOLA", 
+                        "CUBA", 
+                        "NEW CALEDONIA", 
+                        "CAMEROON", 
+                        "NIGERIA", 
+                        "NETHERLANDS", 
+                        "CURA\u00c7AO", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "GABON", 
+                        "SWEDEN", 
+                        "YEMEN", 
+                        "OMAN", 
+                        "NEPAL", 
+                        "JAMAICA", 
+                        "TONGA", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "FIJI", 
+                        "EGYPT", 
+                        "RUSSIAN FEDERATION", 
+                        "UZBEKISTAN", 
+                        "ARGENTINA", 
+                        "AMERICAN SAMOA", 
+                        "CHILE", 
+                        "BELIZE", 
+                        "BULGARIA", 
+                        "AFGHANISTAN", 
+                        "CAYMAN ISLANDS", 
+                        "DOMINICAN REPUBLIC", 
+                        "ARUBA", 
+                        "DOMINICA", 
+                        "BARBADOS", 
+                        "ANTIGUA AND BARBUDA", 
+                        "ALGERIA", 
+                        "INDIA", 
+                        "GREECE", 
+                        "GRENADA", 
+                        "SAINT KITTS AND NEVIS", 
+                        "GUAM", 
+                        "SAINT LUCIA", 
+                        "SPAIN", 
+                        "FRENCH GUIANA", 
+                        "MALDIVES", 
+                        "TRINIDAD AND TOBAGO", 
+                        "MARTINIQUE", 
+                        "PORTUGAL", 
+                        "MOZAMBIQUE", 
+                        "CHAD", 
+                        "MALI", 
+                        "R\u00c9UNION", 
+                        "SAINT VINCENT AND THE GRENADINES", 
+                        "SOUTH AFRICA", 
+                        "SAMOA", 
+                        "NIUE", 
+                        "VANUATU", 
+                        "SOLOMON ISLANDS", 
+                        "COOK ISLANDS", 
+                        "CONGO", 
+                        "SUDAN", 
+                        "HONDURAS", 
+                        "GUYANA", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "THAILAND", 
+                        "FRANCE", 
+                        "ZAMBIA", 
+                        "TURKEY", 
+                        "UGANDA", 
+                        "SWAZILAND", 
+                        "EQUATORIAL GUINEA", 
+                        "SRI LANKA", 
+                        "MALAYSIA", 
+                        "ISRAEL", 
+                        "JAPAN", 
+                        "TURKS AND CAICOS ISLANDS", 
+                        "GUINEA", 
+                        "TIMOR-LESTE", 
+                        "BURKINA FASO", 
+                        "CAPE VERDE", 
+                        "SOMALIA", 
+                        "NAMIBIA", 
+                        "MALTA", 
+                        "MALAWI", 
+                        "TUNISIA", 
+                        "MOROCCO", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "BERMUDA", 
+                        "TOGO", 
+                        "ZIMBABWE", 
+                        "TURKMENISTAN", 
+                        "TAJIKISTAN", 
+                        "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+                        "KIRIBATI", 
+                        "VIETNAM", 
+                        "NIGER", 
+                        "MAURITANIA", 
+                        "NEW ZEALAND", 
+                        "PAKISTAN", 
+                        "BRITISH INDIAN OCEAN TERRITORY", 
+                        "GAMBIA", 
+                        "LIBYA", 
+                        "SAINT BARTH\u00c9LEMY", 
+                        "ANGUILLA", 
+                        "GUINEA-BISSAU", 
+                        "UKRAINE", 
+                        "ROMANIA", 
+                        "KYRGYZSTAN", 
+                        "GEORGIA", 
+                        "ITALY", 
+                        "PALAU", 
+                        "BANGLADESH"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Australia", 
+                "nameofficial": "Australia"
+            }
+        }, 
+        {
+            "index": 0, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 0, 
+            "score": 64, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 5, 
+            "target": 55, 
+            "value": 1
+        }, 
+        {
+            "source": 55, 
+            "target": 57, 
+            "value": 3
+        }, 
+        {
+            "source": 55, 
+            "target": 4, 
+            "value": 1
+        }, 
+        {
+            "source": 55, 
+            "target": 55, 
+            "value": 1
+        }, 
+        {
+            "source": 0, 
+            "target": 55, 
+            "value": 1
+        }
+    ]
+}
+]

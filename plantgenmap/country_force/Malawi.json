@@ -1,0 +1,257 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 97, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.14223524, 
+                    -12.48684092
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 97, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "MALAWI", 
+                    "MALAWI", 
+                    "MALAWI"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "agroforestry systems", 
+                "focalspecies": [
+                    "Sclerocarya birrea"
+                ], 
+                "fundingCOO": [], 
+                "year": 2015, 
+                "abstracttext": "sclerocarya birrea (a. rich.) hochst. (marula) is one of the most important indigenous fruit tree species in southern africa, where it plays a significant role in the diet, tradition and culture of many indigenous people. the species has in the past decade been the subject of domestication to enhance its wider scale cultivation and conservation to preserve its genetic diversity. in this study, we report on the performance of 21 geographic populations of marula (20 of s. birrea ssp. caffra and one of s. birrea ssp. birrea) planted in mangochi, malawi (14\u00b028\u2032s, 35\u00b014\u2019e and 469\u00a0m elevation). the trial was assessed for tree height, bole height, root collar diameter (rcd), diameter at breast height (dbh), crown width and depth, and fruiting at 7\u00a0years after out-planting. there were significant differences between the populations for most of the traits. differences between the top and bottom ranked populations were often up to three-fold, reflecting wide genetic variation in the germplasm. the marracuene population from mozambique, was ranked top for height, rcd, dbh, crown width and crown depth. only eight populations had fruits of which marracuene population had the highest fruit yield. although the average fruit load per tree ranged from one to 274 among the fruiting populations, tree-to-tree variation in fruit production was very wide ranging from one to 1,228 fruits per tree. phenotypic correlations among the growth and crown size (height, rcd, dbh and crown depth) traits were large, positive and significant (p\u00a0<\u00a00.001). correlations between fruit yield and growth and crown size traits although significant and positive, were mostly moderate. the implication of this large genetic variation in growth and fruit production detected among the marula populations is discussed in relation to conservation, breeding and choice of seed source for planting. \u00a9 2014, springer science+business media dordrecht.", 
+                "focalspeciesCOO": [
+                    [
+                        "SOUTH AFRICA", 
+                        "ETHIOPIA", 
+                        "MADAGASCAR", 
+                        "KENYA", 
+                        "BURKINA FASO", 
+                        "SWAZILAND", 
+                        "BOTSWANA", 
+                        "SENEGAL", 
+                        "MALI", 
+                        "NIGER", 
+                        "CHAD", 
+                        "MAYOTTE", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "MOZAMBIQUE", 
+                        "NIGERIA", 
+                        "NAMIBIA", 
+                        "ANGOLA", 
+                        "MALAWI", 
+                        "BENIN", 
+                        "SUDAN", 
+                        "SRI LANKA", 
+                        "UNITED STATES", 
+                        "EGYPT", 
+                        "GHANA", 
+                        "GUINEA-BISSAU", 
+                        "TOGO", 
+                        "CAMEROON", 
+                        "GAMBIA", 
+                        "ZAMBIA", 
+                        "COMOROS", 
+                        "UGANDA", 
+                        "ZIMBABWE", 
+                        "MAURITANIA", 
+                        "AUSTRALIA", 
+                        "GUINEA", 
+                        "CAPE VERDE"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Malawi", 
+                "nameofficial": "Republic of Malawi"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 97, 
+            "target": 97, 
+            "value": 3
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 97, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.14223524, 
+                    -12.48684092
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 97, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "MALAWI", 
+                    "MALAWI", 
+                    "MALAWI"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "agroforestry systems", 
+                "focalspecies": [
+                    "Sclerocarya birrea"
+                ], 
+                "fundingCOO": [], 
+                "year": 2015, 
+                "abstracttext": "sclerocarya birrea (a. rich.) hochst. (marula) is one of the most important indigenous fruit tree species in southern africa, where it plays a significant role in the diet, tradition and culture of many indigenous people. the species has in the past decade been the subject of domestication to enhance its wider scale cultivation and conservation to preserve its genetic diversity. in this study, we report on the performance of 21 geographic populations of marula (20 of s. birrea ssp. caffra and one of s. birrea ssp. birrea) planted in mangochi, malawi (14\u00b028\u2032s, 35\u00b014\u2019e and 469\u00a0m elevation). the trial was assessed for tree height, bole height, root collar diameter (rcd), diameter at breast height (dbh), crown width and depth, and fruiting at 7\u00a0years after out-planting. there were significant differences between the populations for most of the traits. differences between the top and bottom ranked populations were often up to three-fold, reflecting wide genetic variation in the germplasm. the marracuene population from mozambique, was ranked top for height, rcd, dbh, crown width and crown depth. only eight populations had fruits of which marracuene population had the highest fruit yield. although the average fruit load per tree ranged from one to 274 among the fruiting populations, tree-to-tree variation in fruit production was very wide ranging from one to 1,228 fruits per tree. phenotypic correlations among the growth and crown size (height, rcd, dbh and crown depth) traits were large, positive and significant (p\u00a0<\u00a00.001). correlations between fruit yield and growth and crown size traits although significant and positive, were mostly moderate. the implication of this large genetic variation in growth and fruit production detected among the marula populations is discussed in relation to conservation, breeding and choice of seed source for planting. \u00a9 2014, springer science+business media dordrecht.", 
+                "focalspeciesCOO": [
+                    [
+                        "SOUTH AFRICA", 
+                        "ETHIOPIA", 
+                        "MADAGASCAR", 
+                        "KENYA", 
+                        "BURKINA FASO", 
+                        "SWAZILAND", 
+                        "BOTSWANA", 
+                        "SENEGAL", 
+                        "MALI", 
+                        "NIGER", 
+                        "CHAD", 
+                        "MAYOTTE", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "MOZAMBIQUE", 
+                        "NIGERIA", 
+                        "NAMIBIA", 
+                        "ANGOLA", 
+                        "MALAWI", 
+                        "BENIN", 
+                        "SUDAN", 
+                        "SRI LANKA", 
+                        "UNITED STATES", 
+                        "EGYPT", 
+                        "GHANA", 
+                        "GUINEA-BISSAU", 
+                        "TOGO", 
+                        "CAMEROON", 
+                        "GAMBIA", 
+                        "ZAMBIA", 
+                        "COMOROS", 
+                        "UGANDA", 
+                        "ZIMBABWE", 
+                        "MAURITANIA", 
+                        "AUSTRALIA", 
+                        "GUINEA", 
+                        "CAPE VERDE"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Malawi", 
+                "nameofficial": "Republic of Malawi"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 97, 
+            "target": 97, 
+            "value": 2
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 97, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.14223524, 
+                    -12.48684092
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 97, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "MALAWI", 
+                    "MALAWI", 
+                    "MALAWI"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "agroforestry systems", 
+                "focalspecies": [
+                    "Sclerocarya birrea"
+                ], 
+                "fundingCOO": [], 
+                "year": 2015, 
+                "abstracttext": "sclerocarya birrea (a. rich.) hochst. (marula) is one of the most important indigenous fruit tree species in southern africa, where it plays a significant role in the diet, tradition and culture of many indigenous people. the species has in the past decade been the subject of domestication to enhance its wider scale cultivation and conservation to preserve its genetic diversity. in this study, we report on the performance of 21 geographic populations of marula (20 of s. birrea ssp. caffra and one of s. birrea ssp. birrea) planted in mangochi, malawi (14\u00b028\u2032s, 35\u00b014\u2019e and 469\u00a0m elevation). the trial was assessed for tree height, bole height, root collar diameter (rcd), diameter at breast height (dbh), crown width and depth, and fruiting at 7\u00a0years after out-planting. there were significant differences between the populations for most of the traits. differences between the top and bottom ranked populations were often up to three-fold, reflecting wide genetic variation in the germplasm. the marracuene population from mozambique, was ranked top for height, rcd, dbh, crown width and crown depth. only eight populations had fruits of which marracuene population had the highest fruit yield. although the average fruit load per tree ranged from one to 274 among the fruiting populations, tree-to-tree variation in fruit production was very wide ranging from one to 1,228 fruits per tree. phenotypic correlations among the growth and crown size (height, rcd, dbh and crown depth) traits were large, positive and significant (p\u00a0<\u00a00.001). correlations between fruit yield and growth and crown size traits although significant and positive, were mostly moderate. the implication of this large genetic variation in growth and fruit production detected among the marula populations is discussed in relation to conservation, breeding and choice of seed source for planting. \u00a9 2014, springer science+business media dordrecht.", 
+                "focalspeciesCOO": [
+                    [
+                        "SOUTH AFRICA", 
+                        "ETHIOPIA", 
+                        "MADAGASCAR", 
+                        "KENYA", 
+                        "BURKINA FASO", 
+                        "SWAZILAND", 
+                        "BOTSWANA", 
+                        "SENEGAL", 
+                        "MALI", 
+                        "NIGER", 
+                        "CHAD", 
+                        "MAYOTTE", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "MOZAMBIQUE", 
+                        "NIGERIA", 
+                        "NAMIBIA", 
+                        "ANGOLA", 
+                        "MALAWI", 
+                        "BENIN", 
+                        "SUDAN", 
+                        "SRI LANKA", 
+                        "UNITED STATES", 
+                        "EGYPT", 
+                        "GHANA", 
+                        "GUINEA-BISSAU", 
+                        "TOGO", 
+                        "CAMEROON", 
+                        "GAMBIA", 
+                        "ZAMBIA", 
+                        "COMOROS", 
+                        "UGANDA", 
+                        "ZIMBABWE", 
+                        "MAURITANIA", 
+                        "AUSTRALIA", 
+                        "GUINEA", 
+                        "CAPE VERDE"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Malawi", 
+                "nameofficial": "Republic of Malawi"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 97, 
+            "target": 97, 
+            "value": 2
+        }
+    ]
+}
+]

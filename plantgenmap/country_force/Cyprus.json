@@ -1,0 +1,639 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 94, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    33.429861, 
+                    35.12450768
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 94, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "GREECE", 
+                    "GREECE", 
+                    "GREECE", 
+                    "GREECE", 
+                    "CYPRUS", 
+                    "GREECE", 
+                    "GREECE"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "trees - structure and function", 
+                "focalspecies": [
+                    "Ficus carica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2015, 
+                "abstracttext": "key message: the selected germplasm officus caricaestablished in a gene bank collection will be useful for conservation and management and important for fig treebreeding programs. abstract: advancement in plant breeding is assisted by accurate information on genetic diversity and structure. a collection of ninety fig tree (ficus carica l.) cultivars originating from the mediterranean basin and conserved in an ex situ gene bank collection was genotyped using seven microsatellite markers. a total of 91 alleles were detected presenting an average of 13 alleles per locus. the gene bank fig tree collection preserved a high level of genetic diversity. the mean expected and observed heterozygosities over the seven single locus microsatellites averaged 0.747 and 0.784, respectively. the total value of the probability of identity was 2\u00a0\u00d7\u00a010\u22126. the 90 fig tree accessions formed four clusters in the unweighted pair group method using arithmetic averages (upgma) dendrogram, although the clustering did not indicate any clear division among the fig tree accessions based on their geographical origin. moreover, the 90 fig tree accessions could be divided into two clusters based on structure analysis. additionally, microsatellites coupled with high-resolution melting analysis enabled both the distinction, identification and authentication of the \u2018kymis\u2019 fig tree protected designation of origin cultivar and its products. in conclusion, results presented here are significant for the management of gene bank collections, breeding programs and authentication of fig tree cultivars. \u00a9 2015, springer-verlag berlin heidelberg.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "UNITED KINGDOM", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "MEXICO", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "PHILIPPINES", 
+                        "ARMENIA", 
+                        "MOROCCO", 
+                        "GREECE", 
+                        "IRAQ", 
+                        "PORTUGAL", 
+                        "CROATIA", 
+                        "ALBANIA", 
+                        "ARGENTINA", 
+                        "JAPAN", 
+                        "LUXEMBOURG", 
+                        "TUNISIA", 
+                        "CHINA", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "TAJIKISTAN", 
+                        "NETHERLANDS", 
+                        "ITALY", 
+                        "ALGERIA", 
+                        "SWITZERLAND", 
+                        "ERITREA", 
+                        "ETHIOPIA", 
+                        "HUNGARY", 
+                        "MONTENEGRO", 
+                        "OMAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "TURKEY", 
+                        "UNITED ARAB EMIRATES", 
+                        "CYPRUS", 
+                        "MALAYSIA", 
+                        "ISRAEL", 
+                        "AZERBAIJAN", 
+                        "TURKMENISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "BRAZIL", 
+                        "FRENCH POLYNESIA", 
+                        "NIUE", 
+                        "PITCAIRN", 
+                        "MARSHALL ISLANDS", 
+                        "KIRIBATI", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "ANDORRA", 
+                        "GERMANY", 
+                        "CAPE VERDE", 
+                        "BULGARIA", 
+                        "COLOMBIA", 
+                        "ECUADOR", 
+                        "CANADA", 
+                        "AUSTRIA", 
+                        "SLOVENIA", 
+                        "NEW ZEALAND", 
+                        "UKRAINE", 
+                        "UZBEKISTAN", 
+                        "BERMUDA", 
+                        "HONDURAS", 
+                        "COSTA RICA", 
+                        "NORWAY", 
+                        "PANAMA", 
+                        "INDIA", 
+                        "MALTA", 
+                        "NIGER", 
+                        "FINLAND", 
+                        "NICARAGUA", 
+                        "CUBA", 
+                        "PERU", 
+                        "EGYPT", 
+                        "HAITI", 
+                        "COOK ISLANDS", 
+                        "CHILE", 
+                        "GUATEMALA", 
+                        "EL SALVADOR", 
+                        "ROMANIA", 
+                        "ESTONIA", 
+                        "JORDAN", 
+                        "DENMARK", 
+                        "TOGO", 
+                        "IRELAND", 
+                        "R\u00c9UNION", 
+                        "SOUTH AFRICA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Cyprus", 
+                "nameofficial": "Republic of Cyprus"
+            }
+        }, 
+        {
+            "index": 12, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    24.53794505, 
+                    38.52254746
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 12, 
+            "score": 32, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Greece", 
+                "nameofficial": "Hellenic Republic"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 12, 
+            "target": 94, 
+            "value": 9
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 94, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    33.429861, 
+                    35.12450768
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 94, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "GREECE", 
+                    "GREECE", 
+                    "GREECE", 
+                    "GREECE", 
+                    "CYPRUS", 
+                    "GREECE", 
+                    "GREECE"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "trees - structure and function", 
+                "focalspecies": [
+                    "Ficus carica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2015, 
+                "abstracttext": "key message: the selected germplasm officus caricaestablished in a gene bank collection will be useful for conservation and management and important for fig treebreeding programs. abstract: advancement in plant breeding is assisted by accurate information on genetic diversity and structure. a collection of ninety fig tree (ficus carica l.) cultivars originating from the mediterranean basin and conserved in an ex situ gene bank collection was genotyped using seven microsatellite markers. a total of 91 alleles were detected presenting an average of 13 alleles per locus. the gene bank fig tree collection preserved a high level of genetic diversity. the mean expected and observed heterozygosities over the seven single locus microsatellites averaged 0.747 and 0.784, respectively. the total value of the probability of identity was 2\u00a0\u00d7\u00a010\u22126. the 90 fig tree accessions formed four clusters in the unweighted pair group method using arithmetic averages (upgma) dendrogram, although the clustering did not indicate any clear division among the fig tree accessions based on their geographical origin. moreover, the 90 fig tree accessions could be divided into two clusters based on structure analysis. additionally, microsatellites coupled with high-resolution melting analysis enabled both the distinction, identification and authentication of the \u2018kymis\u2019 fig tree protected designation of origin cultivar and its products. in conclusion, results presented here are significant for the management of gene bank collections, breeding programs and authentication of fig tree cultivars. \u00a9 2015, springer-verlag berlin heidelberg.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "UNITED KINGDOM", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "MEXICO", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "PHILIPPINES", 
+                        "ARMENIA", 
+                        "MOROCCO", 
+                        "GREECE", 
+                        "IRAQ", 
+                        "PORTUGAL", 
+                        "CROATIA", 
+                        "ALBANIA", 
+                        "ARGENTINA", 
+                        "JAPAN", 
+                        "LUXEMBOURG", 
+                        "TUNISIA", 
+                        "CHINA", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "TAJIKISTAN", 
+                        "NETHERLANDS", 
+                        "ITALY", 
+                        "ALGERIA", 
+                        "SWITZERLAND", 
+                        "ERITREA", 
+                        "ETHIOPIA", 
+                        "HUNGARY", 
+                        "MONTENEGRO", 
+                        "OMAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "TURKEY", 
+                        "UNITED ARAB EMIRATES", 
+                        "CYPRUS", 
+                        "MALAYSIA", 
+                        "ISRAEL", 
+                        "AZERBAIJAN", 
+                        "TURKMENISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "BRAZIL", 
+                        "FRENCH POLYNESIA", 
+                        "NIUE", 
+                        "PITCAIRN", 
+                        "MARSHALL ISLANDS", 
+                        "KIRIBATI", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "ANDORRA", 
+                        "GERMANY", 
+                        "CAPE VERDE", 
+                        "BULGARIA", 
+                        "COLOMBIA", 
+                        "ECUADOR", 
+                        "CANADA", 
+                        "AUSTRIA", 
+                        "SLOVENIA", 
+                        "NEW ZEALAND", 
+                        "UKRAINE", 
+                        "UZBEKISTAN", 
+                        "BERMUDA", 
+                        "HONDURAS", 
+                        "COSTA RICA", 
+                        "NORWAY", 
+                        "PANAMA", 
+                        "INDIA", 
+                        "MALTA", 
+                        "NIGER", 
+                        "FINLAND", 
+                        "NICARAGUA", 
+                        "CUBA", 
+                        "PERU", 
+                        "EGYPT", 
+                        "HAITI", 
+                        "COOK ISLANDS", 
+                        "CHILE", 
+                        "GUATEMALA", 
+                        "EL SALVADOR", 
+                        "ROMANIA", 
+                        "ESTONIA", 
+                        "JORDAN", 
+                        "DENMARK", 
+                        "TOGO", 
+                        "IRELAND", 
+                        "R\u00c9UNION", 
+                        "SOUTH AFRICA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Cyprus", 
+                "nameofficial": "Republic of Cyprus"
+            }
+        }, 
+        {
+            "index": 12, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    24.53794505, 
+                    38.52254746
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 12, 
+            "score": 7, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Greece", 
+                "nameofficial": "Hellenic Republic"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 12, 
+            "target": 94, 
+            "value": 2
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 94, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    33.429861, 
+                    35.12450768
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 94, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "GREECE", 
+                    "GREECE", 
+                    "GREECE", 
+                    "GREECE", 
+                    "CYPRUS", 
+                    "GREECE", 
+                    "GREECE"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "trees - structure and function", 
+                "focalspecies": [
+                    "Ficus carica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2015, 
+                "abstracttext": "key message: the selected germplasm officus caricaestablished in a gene bank collection will be useful for conservation and management and important for fig treebreeding programs. abstract: advancement in plant breeding is assisted by accurate information on genetic diversity and structure. a collection of ninety fig tree (ficus carica l.) cultivars originating from the mediterranean basin and conserved in an ex situ gene bank collection was genotyped using seven microsatellite markers. a total of 91 alleles were detected presenting an average of 13 alleles per locus. the gene bank fig tree collection preserved a high level of genetic diversity. the mean expected and observed heterozygosities over the seven single locus microsatellites averaged 0.747 and 0.784, respectively. the total value of the probability of identity was 2\u00a0\u00d7\u00a010\u22126. the 90 fig tree accessions formed four clusters in the unweighted pair group method using arithmetic averages (upgma) dendrogram, although the clustering did not indicate any clear division among the fig tree accessions based on their geographical origin. moreover, the 90 fig tree accessions could be divided into two clusters based on structure analysis. additionally, microsatellites coupled with high-resolution melting analysis enabled both the distinction, identification and authentication of the \u2018kymis\u2019 fig tree protected designation of origin cultivar and its products. in conclusion, results presented here are significant for the management of gene bank collections, breeding programs and authentication of fig tree cultivars. \u00a9 2015, springer-verlag berlin heidelberg.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "UNITED KINGDOM", 
+                        "AUSTRALIA", 
+                        "UNITED STATES", 
+                        "MEXICO", 
+                        "SWEDEN", 
+                        "BELGIUM", 
+                        "PHILIPPINES", 
+                        "ARMENIA", 
+                        "MOROCCO", 
+                        "GREECE", 
+                        "IRAQ", 
+                        "PORTUGAL", 
+                        "CROATIA", 
+                        "ALBANIA", 
+                        "ARGENTINA", 
+                        "JAPAN", 
+                        "LUXEMBOURG", 
+                        "TUNISIA", 
+                        "CHINA", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "TAJIKISTAN", 
+                        "NETHERLANDS", 
+                        "ITALY", 
+                        "ALGERIA", 
+                        "SWITZERLAND", 
+                        "ERITREA", 
+                        "ETHIOPIA", 
+                        "HUNGARY", 
+                        "MONTENEGRO", 
+                        "OMAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "TURKEY", 
+                        "UNITED ARAB EMIRATES", 
+                        "CYPRUS", 
+                        "MALAYSIA", 
+                        "ISRAEL", 
+                        "AZERBAIJAN", 
+                        "TURKMENISTAN", 
+                        "RUSSIAN FEDERATION", 
+                        "BRAZIL", 
+                        "FRENCH POLYNESIA", 
+                        "NIUE", 
+                        "PITCAIRN", 
+                        "MARSHALL ISLANDS", 
+                        "KIRIBATI", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "ANDORRA", 
+                        "GERMANY", 
+                        "CAPE VERDE", 
+                        "BULGARIA", 
+                        "COLOMBIA", 
+                        "ECUADOR", 
+                        "CANADA", 
+                        "AUSTRIA", 
+                        "SLOVENIA", 
+                        "NEW ZEALAND", 
+                        "UKRAINE", 
+                        "UZBEKISTAN", 
+                        "BERMUDA", 
+                        "HONDURAS", 
+                        "COSTA RICA", 
+                        "NORWAY", 
+                        "PANAMA", 
+                        "INDIA", 
+                        "MALTA", 
+                        "NIGER", 
+                        "FINLAND", 
+                        "NICARAGUA", 
+                        "CUBA", 
+                        "PERU", 
+                        "EGYPT", 
+                        "HAITI", 
+                        "COOK ISLANDS", 
+                        "CHILE", 
+                        "GUATEMALA", 
+                        "EL SALVADOR", 
+                        "ROMANIA", 
+                        "ESTONIA", 
+                        "JORDAN", 
+                        "DENMARK", 
+                        "TOGO", 
+                        "IRELAND", 
+                        "R\u00c9UNION", 
+                        "SOUTH AFRICA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Cyprus", 
+                "nameofficial": "Republic of Cyprus"
+            }
+        }, 
+        {
+            "index": 13, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    24.53794505, 
+                    38.52254746
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 13, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Greece", 
+                "nameofficial": "Hellenic Republic"
+            }
+        }, 
+        {
+            "index": 13, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    24.53794505, 
+                    38.52254746
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 13, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Greece", 
+                "nameofficial": "Hellenic Republic"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 13, 
+            "target": 94, 
+            "value": 1
+        }, 
+        {
+            "source": 94, 
+            "target": 13, 
+            "value": 3
+        }
+    ]
+}
+]

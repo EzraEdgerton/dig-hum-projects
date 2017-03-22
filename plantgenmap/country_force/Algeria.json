@@ -1,0 +1,131 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 68, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    3.19771194, 
+                    27.8986169
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 68, 
+            "score": 2, 
+            "data": {
+                "authorsCOO": [
+                    "ALGERIA", 
+                    "ALGERIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "asian pacific journal of tropical biomedicine", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "mycotoxins and their derivatives since their discoveries and until the present time are behind unspecified economic and medical damages. aflatoxins are classified according to their physical\u2013chemical and toxicological characters in the most dangerous row of the mycotoxins. these aflatoxins are in part responsible, of irreversible medical disasters that are not easily manageable such as cancer of the liver and kidneys, and in the other part, of losses in the stored cereal products. based on these crucial findings, monitoring of this toxin became imperative in post-harvest food products, during storage, during transformation chain and even during the long phases of conservation. vigilance of this toxin is delivered by detection methods using very advanced technologies to respond in the shortest possible times. in addition, the knowledge of factors supporting the biosynthesis of aflatoxins such as the temperature, moisture content, concentration of nitrogen and carbon, and the molecules responsible for the genetic control of the synthesis will be reflected later in the choice of bio-control techniques. this control is currently based on new strategies using the bioactives substances of the plants, the lactic bacteria and some strains of actinomycetes that have good inhibiting activity against aflatoxins with fewer side effects on man. on the other hand, this brief review summarizes the results of new studies demonstrating the toxicity of the toxin, new detection methods and bio-control. \u00a9 2016 hainan medical university", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Algeria", 
+                "nameofficial": "People\u2019s Democratic Republic of Algeria"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 68, 
+            "target": 68, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 68, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    3.19771194, 
+                    27.8986169
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 68, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "ALGERIA", 
+                    "ALGERIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "asian pacific journal of tropical biomedicine", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "mycotoxins and their derivatives since their discoveries and until the present time are behind unspecified economic and medical damages. aflatoxins are classified according to their physical\u2013chemical and toxicological characters in the most dangerous row of the mycotoxins. these aflatoxins are in part responsible, of irreversible medical disasters that are not easily manageable such as cancer of the liver and kidneys, and in the other part, of losses in the stored cereal products. based on these crucial findings, monitoring of this toxin became imperative in post-harvest food products, during storage, during transformation chain and even during the long phases of conservation. vigilance of this toxin is delivered by detection methods using very advanced technologies to respond in the shortest possible times. in addition, the knowledge of factors supporting the biosynthesis of aflatoxins such as the temperature, moisture content, concentration of nitrogen and carbon, and the molecules responsible for the genetic control of the synthesis will be reflected later in the choice of bio-control techniques. this control is currently based on new strategies using the bioactives substances of the plants, the lactic bacteria and some strains of actinomycetes that have good inhibiting activity against aflatoxins with fewer side effects on man. on the other hand, this brief review summarizes the results of new studies demonstrating the toxicity of the toxin, new detection methods and bio-control. \u00a9 2016 hainan medical university", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Algeria", 
+                "nameofficial": "People\u2019s Democratic Republic of Algeria"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 68, 
+            "target": 68, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 68, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    3.19771194, 
+                    27.8986169
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 68, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "ALGERIA", 
+                    "ALGERIA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "asian pacific journal of tropical biomedicine", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "mycotoxins and their derivatives since their discoveries and until the present time are behind unspecified economic and medical damages. aflatoxins are classified according to their physical\u2013chemical and toxicological characters in the most dangerous row of the mycotoxins. these aflatoxins are in part responsible, of irreversible medical disasters that are not easily manageable such as cancer of the liver and kidneys, and in the other part, of losses in the stored cereal products. based on these crucial findings, monitoring of this toxin became imperative in post-harvest food products, during storage, during transformation chain and even during the long phases of conservation. vigilance of this toxin is delivered by detection methods using very advanced technologies to respond in the shortest possible times. in addition, the knowledge of factors supporting the biosynthesis of aflatoxins such as the temperature, moisture content, concentration of nitrogen and carbon, and the molecules responsible for the genetic control of the synthesis will be reflected later in the choice of bio-control techniques. this control is currently based on new strategies using the bioactives substances of the plants, the lactic bacteria and some strains of actinomycetes that have good inhibiting activity against aflatoxins with fewer side effects on man. on the other hand, this brief review summarizes the results of new studies demonstrating the toxicity of the toxin, new detection methods and bio-control. \u00a9 2016 hainan medical university", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Algeria", 
+                "nameofficial": "People\u2019s Democratic Republic of Algeria"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 68, 
+            "target": 68, 
+            "value": 1
+        }
+    ]
+}
+]

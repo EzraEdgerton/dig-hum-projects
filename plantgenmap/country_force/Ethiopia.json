@@ -1,0 +1,1015 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 39, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    39.84148164, 
+                    9.10727589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 39, 
+            "score": 11, 
+            "data": {
+                "authorsCOO": [
+                    "ETHIOPIA", 
+                    "BELGIUM", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "land degradation and development", 
+                "focalspecies": [
+                    "Coffea arabica", 
+                    "Phytolacca dodecandra"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the southwestern ethiopian montane forests are one of the most species-rich ecosystems and are recognised globally as a priority area for the conservation of biodiversity. particularly, in contrast to the drier central and northern ethiopian highlands, they have received little attention by researchers. here, we review changes to agricultural systems in and around these forests that are known as the genetic home of coffee (coffea arabica l.) and that are important to the livelihoods of many rural people who have developed traditional management practices based on agro-ecological knowledge, religious taboos and customary tenure rights. we explored the impacts of conversions to agroforestry and cereal-based cropping systems on biodiversity, soil fertility, soil loss and the socio-economic conditions and culture. the increasing trend of cereal cropping, resettlement and commercial agriculture causes the deterioration of natural forest cover in the region and threatens biodiversity, land quality, sustainable, traditional farming practices and the livelihood of the local community. large-scale plantations of tea, coffee, soapberry locally known as endod (phytolacca dodecandra l'h\u00e9r.) and cereals have resulted in biodiversity loss. following the conversion of forests, cultivated fields exhibit a significant decline in soil fertility and an increase in soil loss as compared with the traditional agroforestry system. the establishment of a sustainable agricultural system will require a change in paradigm, whereby the intrinsic values of the traditional forest-based agricultural system are recognised, rather than the ongoing mimicking of agricultural policies that were developed for the open fields of central ethiopia. copyright \u00a9 2016 john wiley & sons, ltd. copyright \u00a9 2016 john wiley & sons, ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "MYANMAR", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "COLOMBIA", 
+                        "PARAGUAY", 
+                        "DOMINICA", 
+                        "DOMINICAN REPUBLIC", 
+                        "FRENCH POLYNESIA", 
+                        "CUBA", 
+                        "JAMAICA", 
+                        "COMOROS", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "PERU", 
+                        "COSTA RICA", 
+                        "INDONESIA", 
+                        "ETHIOPIA", 
+                        "SRI LANKA", 
+                        "GABON", 
+                        "BRAZIL", 
+                        "FRENCH GUIANA", 
+                        "TRINIDAD AND TOBAGO", 
+                        "SAINT MARTIN (FRENCH PART)", 
+                        "ERITREA", 
+                        "PUERTO RICO", 
+                        "SWEDEN", 
+                        "UNITED STATES", 
+                        "PALAU", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "TONGA", 
+                        "SAO TOME AND PRINCIPE", 
+                        "ANGOLA", 
+                        "AFGHANISTAN", 
+                        "TOGO", 
+                        "UNITED KINGDOM", 
+                        "PANAMA", 
+                        "PHILIPPINES", 
+                        "CAMEROON", 
+                        "CONGO", 
+                        "NEW CALEDONIA", 
+                        "SURINAME", 
+                        "ECUADOR", 
+                        "MALAYSIA", 
+                        "NETHERLANDS", 
+                        "KENYA", 
+                        "BENIN", 
+                        "BELIZE", 
+                        "MALAWI", 
+                        "INDIA", 
+                        "UGANDA", 
+                        "YEMEN", 
+                        "HONG KONG", 
+                        "R\u00c9UNION", 
+                        "CAPE VERDE", 
+                        "RWANDA", 
+                        "NEW ZEALAND", 
+                        "SPAIN", 
+                        "JAPAN", 
+                        "ANTIGUA AND BARBUDA", 
+                        "GUADELOUPE", 
+                        "VIETNAM", 
+                        "BERMUDA", 
+                        "HAITI", 
+                        "NICARAGUA", 
+                        "EL SALVADOR", 
+                        "SINGAPORE", 
+                        "SIERRA LEONE", 
+                        "COOK ISLANDS", 
+                        "GUATEMALA", 
+                        "FIJI", 
+                        "NIUE", 
+                        "SAMOA", 
+                        "PITCAIRN", 
+                        "VANUATU", 
+                        "NORFOLK ISLAND", 
+                        "GRENADA", 
+                        "MADAGASCAR", 
+                        "SOUTH AFRICA", 
+                        "MAURITIUS", 
+                        "PORTUGAL", 
+                        "FRANCE", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "ZIMBABWE", 
+                        "LIBYA", 
+                        "GHANA", 
+                        "NIGERIA", 
+                        "GUYANA", 
+                        "HONDURAS", 
+                        "ZAMBIA", 
+                        "THAILAND", 
+                        "CHILE", 
+                        "SEYCHELLES", 
+                        "MARTINIQUE", 
+                        "CAMBODIA", 
+                        "GUAM", 
+                        "GUINEA", 
+                        "ANGUILLA"
+                    ], 
+                    [
+                        "SOUTH AFRICA", 
+                        "KENYA", 
+                        "ERITREA", 
+                        "BOTSWANA", 
+                        "ETHIOPIA", 
+                        "SIERRA LEONE", 
+                        "CAMEROON", 
+                        "RWANDA", 
+                        "NIGERIA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "BURUNDI", 
+                        "UGANDA", 
+                        "GABON", 
+                        "ANGOLA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "CONGO", 
+                        "EQUATORIAL GUINEA", 
+                        "PORTUGAL", 
+                        "MADAGASCAR", 
+                        "MALAWI", 
+                        "SPAIN", 
+                        "ZIMBABWE", 
+                        "BELGIUM", 
+                        "GHANA", 
+                        "MOZAMBIQUE", 
+                        "BRAZIL"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Ethiopia", 
+                "nameofficial": "Federal Democratic Republic of Ethiopia"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 63, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "ISRAEL", 
+                    "SWEDEN", 
+                    "THAILAND", 
+                    "PORTUGAL", 
+                    "BELGIUM", 
+                    "AUSTRALIA", 
+                    "PORTUGAL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Posidonia oceanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "here we present the results of a multiple organizational level analysis conceived to identify acclimative/adaptive strategies exhibited by the seagrass posidonia oceanica to the daily fluctuations in the light environment, at contrasting depths. we assessed changes in photophysiological parameters, leaf respiration, pigments, and protein and mrna expression levels. the results show that the diel oscillations of p. oceanica photophysiological and respiratory responses were related to transcripts and proteins expression of the genes involved in those processes and that there was a response asynchrony between shallow and deep plants probably caused by the strong differences in the light environment. the photochemical pathway of energy use was more effective in shallow plants due to higher light availability, but these plants needed more investment in photoprotection and photorepair, requiring higher translation and protein synthesis than deep plants. the genetic differentiation between deep and shallow stands suggests the existence of locally adapted genotypes to contrasting light environments. the depth-specific diel rhythms of photosynthetic and respiratory processes, from molecular to physiological levels, must be considered in the management and conservation of these key coastal ecosystems. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "MALTA", 
+                        "TUNISIA", 
+                        "EGYPT", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "IRELAND", 
+                        "GERMANY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }, 
+        {
+            "index": 6, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    24.50856092, 
+                    -27.17706863
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 6, 
+            "score": 44, 
+            "data": {
+                "authorsCOO": [
+                    "SOUTH AFRICA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "south african journal of botany", 
+                "focalspecies": [
+                    "Aspalathus linearis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "over the past decade, a series of controversies has arisen about equity and justice in the rooibos industry, centred both on the biological resource and on the traditional use and knowledge that fostered the growth of this lucrative trade. accusations of biopiracy, meaning the misappropriation and patenting of genetic resources and knowledge without consent, have taken centre stage, leading to a reassessment of the conditions under which rooibos is traded. claiming to be the primary holders of traditional knowledge relating to rooibos, indigenous san and khoi have also launched demands\u2014to date unmet\u2014for a stake in rooibos benefits. meanwhile, small-scale coloured rooibos producers, despite their involvement in fair trade, remain marginalized. all remain embedded in a political history of rooibos that is characterized by dispossession and adversity, having been propped up by the south african apartheid system. the melding of these issues with a complex and ambiguous legal framework has led to a situation described by some as \u201cthe mother\u201d and \u201ctesting ground\u201d of so-called access and benefit sharing. such approaches stem in part from the convention on biological diversity and its nagoya protocol, which lay down new and more equitable ways of treating trade in genetic resources and the use of traditional knowledge. with growing international interest in rooibos tea and its bioactive compounds, a surge of patents associated with the plant, the successful granting of geographical indication status, and threats to the industry of changing climates, ecologies and ecosystems, the stage is set for a reconceptualization and transformation of the industry. drawing on longitudinal research over the past 20 years, this review paper aims to bring conceptual clarity and a holistic analysis to an often emotional, divided and, to date, narrowly framed debate. through exploration of rooibos histories and traditional knowledge claims, bioprospecting and patent activities, and conservation imperatives, this paper reviews the spectrum of issues that require attention when considering access and benefit sharing in the rooibos industry and provides suggestions for a more integrative, environmentally responsive and just approach. \u00a9 2016 saab", 
+                "focalspeciesCOO": [
+                    [
+                        "SOUTH AFRICA", 
+                        "ALGERIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "South Africa", 
+                "nameofficial": "Republic of South Africa"
+            }
+        }, 
+        {
+            "index": 0, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 0, 
+            "score": 190, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 39, 
+            "target": 24, 
+            "value": 2
+        }, 
+        {
+            "source": 6, 
+            "target": 39, 
+            "value": 2
+        }, 
+        {
+            "source": 39, 
+            "target": 39, 
+            "value": 5
+        }, 
+        {
+            "source": 0, 
+            "target": 39, 
+            "value": 4
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 39, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    39.84148164, 
+                    9.10727589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 39, 
+            "score": 4, 
+            "data": {
+                "authorsCOO": [
+                    "ETHIOPIA", 
+                    "BELGIUM", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "land degradation and development", 
+                "focalspecies": [
+                    "Coffea arabica", 
+                    "Phytolacca dodecandra"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the southwestern ethiopian montane forests are one of the most species-rich ecosystems and are recognised globally as a priority area for the conservation of biodiversity. particularly, in contrast to the drier central and northern ethiopian highlands, they have received little attention by researchers. here, we review changes to agricultural systems in and around these forests that are known as the genetic home of coffee (coffea arabica l.) and that are important to the livelihoods of many rural people who have developed traditional management practices based on agro-ecological knowledge, religious taboos and customary tenure rights. we explored the impacts of conversions to agroforestry and cereal-based cropping systems on biodiversity, soil fertility, soil loss and the socio-economic conditions and culture. the increasing trend of cereal cropping, resettlement and commercial agriculture causes the deterioration of natural forest cover in the region and threatens biodiversity, land quality, sustainable, traditional farming practices and the livelihood of the local community. large-scale plantations of tea, coffee, soapberry locally known as endod (phytolacca dodecandra l'h\u00e9r.) and cereals have resulted in biodiversity loss. following the conversion of forests, cultivated fields exhibit a significant decline in soil fertility and an increase in soil loss as compared with the traditional agroforestry system. the establishment of a sustainable agricultural system will require a change in paradigm, whereby the intrinsic values of the traditional forest-based agricultural system are recognised, rather than the ongoing mimicking of agricultural policies that were developed for the open fields of central ethiopia. copyright \u00a9 2016 john wiley & sons, ltd. copyright \u00a9 2016 john wiley & sons, ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "MYANMAR", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "COLOMBIA", 
+                        "PARAGUAY", 
+                        "DOMINICA", 
+                        "DOMINICAN REPUBLIC", 
+                        "FRENCH POLYNESIA", 
+                        "CUBA", 
+                        "JAMAICA", 
+                        "COMOROS", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "PERU", 
+                        "COSTA RICA", 
+                        "INDONESIA", 
+                        "ETHIOPIA", 
+                        "SRI LANKA", 
+                        "GABON", 
+                        "BRAZIL", 
+                        "FRENCH GUIANA", 
+                        "TRINIDAD AND TOBAGO", 
+                        "SAINT MARTIN (FRENCH PART)", 
+                        "ERITREA", 
+                        "PUERTO RICO", 
+                        "SWEDEN", 
+                        "UNITED STATES", 
+                        "PALAU", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "TONGA", 
+                        "SAO TOME AND PRINCIPE", 
+                        "ANGOLA", 
+                        "AFGHANISTAN", 
+                        "TOGO", 
+                        "UNITED KINGDOM", 
+                        "PANAMA", 
+                        "PHILIPPINES", 
+                        "CAMEROON", 
+                        "CONGO", 
+                        "NEW CALEDONIA", 
+                        "SURINAME", 
+                        "ECUADOR", 
+                        "MALAYSIA", 
+                        "NETHERLANDS", 
+                        "KENYA", 
+                        "BENIN", 
+                        "BELIZE", 
+                        "MALAWI", 
+                        "INDIA", 
+                        "UGANDA", 
+                        "YEMEN", 
+                        "HONG KONG", 
+                        "R\u00c9UNION", 
+                        "CAPE VERDE", 
+                        "RWANDA", 
+                        "NEW ZEALAND", 
+                        "SPAIN", 
+                        "JAPAN", 
+                        "ANTIGUA AND BARBUDA", 
+                        "GUADELOUPE", 
+                        "VIETNAM", 
+                        "BERMUDA", 
+                        "HAITI", 
+                        "NICARAGUA", 
+                        "EL SALVADOR", 
+                        "SINGAPORE", 
+                        "SIERRA LEONE", 
+                        "COOK ISLANDS", 
+                        "GUATEMALA", 
+                        "FIJI", 
+                        "NIUE", 
+                        "SAMOA", 
+                        "PITCAIRN", 
+                        "VANUATU", 
+                        "NORFOLK ISLAND", 
+                        "GRENADA", 
+                        "MADAGASCAR", 
+                        "SOUTH AFRICA", 
+                        "MAURITIUS", 
+                        "PORTUGAL", 
+                        "FRANCE", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "ZIMBABWE", 
+                        "LIBYA", 
+                        "GHANA", 
+                        "NIGERIA", 
+                        "GUYANA", 
+                        "HONDURAS", 
+                        "ZAMBIA", 
+                        "THAILAND", 
+                        "CHILE", 
+                        "SEYCHELLES", 
+                        "MARTINIQUE", 
+                        "CAMBODIA", 
+                        "GUAM", 
+                        "GUINEA", 
+                        "ANGUILLA"
+                    ], 
+                    [
+                        "SOUTH AFRICA", 
+                        "KENYA", 
+                        "ERITREA", 
+                        "BOTSWANA", 
+                        "ETHIOPIA", 
+                        "SIERRA LEONE", 
+                        "CAMEROON", 
+                        "RWANDA", 
+                        "NIGERIA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "BURUNDI", 
+                        "UGANDA", 
+                        "GABON", 
+                        "ANGOLA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "CONGO", 
+                        "EQUATORIAL GUINEA", 
+                        "PORTUGAL", 
+                        "MADAGASCAR", 
+                        "MALAWI", 
+                        "SPAIN", 
+                        "ZIMBABWE", 
+                        "BELGIUM", 
+                        "GHANA", 
+                        "MOZAMBIQUE", 
+                        "BRAZIL"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Ethiopia", 
+                "nameofficial": "Federal Democratic Republic of Ethiopia"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 15, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "ISRAEL", 
+                    "SWEDEN", 
+                    "THAILAND", 
+                    "PORTUGAL", 
+                    "BELGIUM", 
+                    "AUSTRALIA", 
+                    "PORTUGAL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Posidonia oceanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "here we present the results of a multiple organizational level analysis conceived to identify acclimative/adaptive strategies exhibited by the seagrass posidonia oceanica to the daily fluctuations in the light environment, at contrasting depths. we assessed changes in photophysiological parameters, leaf respiration, pigments, and protein and mrna expression levels. the results show that the diel oscillations of p. oceanica photophysiological and respiratory responses were related to transcripts and proteins expression of the genes involved in those processes and that there was a response asynchrony between shallow and deep plants probably caused by the strong differences in the light environment. the photochemical pathway of energy use was more effective in shallow plants due to higher light availability, but these plants needed more investment in photoprotection and photorepair, requiring higher translation and protein synthesis than deep plants. the genetic differentiation between deep and shallow stands suggests the existence of locally adapted genotypes to contrasting light environments. the depth-specific diel rhythms of photosynthetic and respiratory processes, from molecular to physiological levels, must be considered in the management and conservation of these key coastal ecosystems. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "MALTA", 
+                        "TUNISIA", 
+                        "EGYPT", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "IRELAND", 
+                        "GERMANY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }, 
+        {
+            "index": 6, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    24.50856092, 
+                    -27.17706863
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 6, 
+            "score": 24, 
+            "data": {
+                "authorsCOO": [
+                    "SOUTH AFRICA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "south african journal of botany", 
+                "focalspecies": [
+                    "Aspalathus linearis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "over the past decade, a series of controversies has arisen about equity and justice in the rooibos industry, centred both on the biological resource and on the traditional use and knowledge that fostered the growth of this lucrative trade. accusations of biopiracy, meaning the misappropriation and patenting of genetic resources and knowledge without consent, have taken centre stage, leading to a reassessment of the conditions under which rooibos is traded. claiming to be the primary holders of traditional knowledge relating to rooibos, indigenous san and khoi have also launched demands\u2014to date unmet\u2014for a stake in rooibos benefits. meanwhile, small-scale coloured rooibos producers, despite their involvement in fair trade, remain marginalized. all remain embedded in a political history of rooibos that is characterized by dispossession and adversity, having been propped up by the south african apartheid system. the melding of these issues with a complex and ambiguous legal framework has led to a situation described by some as \u201cthe mother\u201d and \u201ctesting ground\u201d of so-called access and benefit sharing. such approaches stem in part from the convention on biological diversity and its nagoya protocol, which lay down new and more equitable ways of treating trade in genetic resources and the use of traditional knowledge. with growing international interest in rooibos tea and its bioactive compounds, a surge of patents associated with the plant, the successful granting of geographical indication status, and threats to the industry of changing climates, ecologies and ecosystems, the stage is set for a reconceptualization and transformation of the industry. drawing on longitudinal research over the past 20 years, this review paper aims to bring conceptual clarity and a holistic analysis to an often emotional, divided and, to date, narrowly framed debate. through exploration of rooibos histories and traditional knowledge claims, bioprospecting and patent activities, and conservation imperatives, this paper reviews the spectrum of issues that require attention when considering access and benefit sharing in the rooibos industry and provides suggestions for a more integrative, environmentally responsive and just approach. \u00a9 2016 saab", 
+                "focalspeciesCOO": [
+                    [
+                        "SOUTH AFRICA", 
+                        "ALGERIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "South Africa", 
+                "nameofficial": "Republic of South Africa"
+            }
+        }, 
+        {
+            "index": 0, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 0, 
+            "score": 65, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 39, 
+            "target": 24, 
+            "value": 2
+        }, 
+        {
+            "source": 6, 
+            "target": 39, 
+            "value": 2
+        }, 
+        {
+            "source": 39, 
+            "target": 39, 
+            "value": 3
+        }, 
+        {
+            "source": 0, 
+            "target": 39, 
+            "value": 2
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 39, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    39.84148164, 
+                    9.10727589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 39, 
+            "score": 5, 
+            "data": {
+                "authorsCOO": [
+                    "ETHIOPIA", 
+                    "BELGIUM", 
+                    "BELGIUM"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "land degradation and development", 
+                "focalspecies": [
+                    "Coffea arabica", 
+                    "Phytolacca dodecandra"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "the southwestern ethiopian montane forests are one of the most species-rich ecosystems and are recognised globally as a priority area for the conservation of biodiversity. particularly, in contrast to the drier central and northern ethiopian highlands, they have received little attention by researchers. here, we review changes to agricultural systems in and around these forests that are known as the genetic home of coffee (coffea arabica l.) and that are important to the livelihoods of many rural people who have developed traditional management practices based on agro-ecological knowledge, religious taboos and customary tenure rights. we explored the impacts of conversions to agroforestry and cereal-based cropping systems on biodiversity, soil fertility, soil loss and the socio-economic conditions and culture. the increasing trend of cereal cropping, resettlement and commercial agriculture causes the deterioration of natural forest cover in the region and threatens biodiversity, land quality, sustainable, traditional farming practices and the livelihood of the local community. large-scale plantations of tea, coffee, soapberry locally known as endod (phytolacca dodecandra l'h\u00e9r.) and cereals have resulted in biodiversity loss. following the conversion of forests, cultivated fields exhibit a significant decline in soil fertility and an increase in soil loss as compared with the traditional agroforestry system. the establishment of a sustainable agricultural system will require a change in paradigm, whereby the intrinsic values of the traditional forest-based agricultural system are recognised, rather than the ongoing mimicking of agricultural policies that were developed for the open fields of central ethiopia. copyright \u00a9 2016 john wiley & sons, ltd. copyright \u00a9 2016 john wiley & sons, ltd.", 
+                "focalspeciesCOO": [
+                    [
+                        "MYANMAR", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "COLOMBIA", 
+                        "PARAGUAY", 
+                        "DOMINICA", 
+                        "DOMINICAN REPUBLIC", 
+                        "FRENCH POLYNESIA", 
+                        "CUBA", 
+                        "JAMAICA", 
+                        "COMOROS", 
+                        "ARGENTINA", 
+                        "MEXICO", 
+                        "PERU", 
+                        "COSTA RICA", 
+                        "INDONESIA", 
+                        "ETHIOPIA", 
+                        "SRI LANKA", 
+                        "GABON", 
+                        "BRAZIL", 
+                        "FRENCH GUIANA", 
+                        "TRINIDAD AND TOBAGO", 
+                        "SAINT MARTIN (FRENCH PART)", 
+                        "ERITREA", 
+                        "PUERTO RICO", 
+                        "SWEDEN", 
+                        "UNITED STATES", 
+                        "PALAU", 
+                        "NORTHERN MARIANA ISLANDS", 
+                        "TONGA", 
+                        "SAO TOME AND PRINCIPE", 
+                        "ANGOLA", 
+                        "AFGHANISTAN", 
+                        "TOGO", 
+                        "UNITED KINGDOM", 
+                        "PANAMA", 
+                        "PHILIPPINES", 
+                        "CAMEROON", 
+                        "CONGO", 
+                        "NEW CALEDONIA", 
+                        "SURINAME", 
+                        "ECUADOR", 
+                        "MALAYSIA", 
+                        "NETHERLANDS", 
+                        "KENYA", 
+                        "BENIN", 
+                        "BELIZE", 
+                        "MALAWI", 
+                        "INDIA", 
+                        "UGANDA", 
+                        "YEMEN", 
+                        "HONG KONG", 
+                        "R\u00c9UNION", 
+                        "CAPE VERDE", 
+                        "RWANDA", 
+                        "NEW ZEALAND", 
+                        "SPAIN", 
+                        "JAPAN", 
+                        "ANTIGUA AND BARBUDA", 
+                        "GUADELOUPE", 
+                        "VIETNAM", 
+                        "BERMUDA", 
+                        "HAITI", 
+                        "NICARAGUA", 
+                        "EL SALVADOR", 
+                        "SINGAPORE", 
+                        "SIERRA LEONE", 
+                        "COOK ISLANDS", 
+                        "GUATEMALA", 
+                        "FIJI", 
+                        "NIUE", 
+                        "SAMOA", 
+                        "PITCAIRN", 
+                        "VANUATU", 
+                        "NORFOLK ISLAND", 
+                        "GRENADA", 
+                        "MADAGASCAR", 
+                        "SOUTH AFRICA", 
+                        "MAURITIUS", 
+                        "PORTUGAL", 
+                        "FRANCE", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "ZIMBABWE", 
+                        "LIBYA", 
+                        "GHANA", 
+                        "NIGERIA", 
+                        "GUYANA", 
+                        "HONDURAS", 
+                        "ZAMBIA", 
+                        "THAILAND", 
+                        "CHILE", 
+                        "SEYCHELLES", 
+                        "MARTINIQUE", 
+                        "CAMBODIA", 
+                        "GUAM", 
+                        "GUINEA", 
+                        "ANGUILLA"
+                    ], 
+                    [
+                        "SOUTH AFRICA", 
+                        "KENYA", 
+                        "ERITREA", 
+                        "BOTSWANA", 
+                        "ETHIOPIA", 
+                        "SIERRA LEONE", 
+                        "CAMEROON", 
+                        "RWANDA", 
+                        "NIGERIA", 
+                        "CENTRAL AFRICAN REPUBLIC", 
+                        "BURUNDI", 
+                        "UGANDA", 
+                        "GABON", 
+                        "ANGOLA", 
+                        "C\u00d4TE D'IVOIRE", 
+                        "CONGO", 
+                        "EQUATORIAL GUINEA", 
+                        "PORTUGAL", 
+                        "MADAGASCAR", 
+                        "MALAWI", 
+                        "SPAIN", 
+                        "ZIMBABWE", 
+                        "BELGIUM", 
+                        "GHANA", 
+                        "MOZAMBIQUE", 
+                        "BRAZIL"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Ethiopia", 
+                "nameofficial": "Federal Democratic Republic of Ethiopia"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 18, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "ISRAEL", 
+                    "SWEDEN", 
+                    "THAILAND", 
+                    "PORTUGAL", 
+                    "BELGIUM", 
+                    "AUSTRALIA", 
+                    "PORTUGAL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Posidonia oceanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "here we present the results of a multiple organizational level analysis conceived to identify acclimative/adaptive strategies exhibited by the seagrass posidonia oceanica to the daily fluctuations in the light environment, at contrasting depths. we assessed changes in photophysiological parameters, leaf respiration, pigments, and protein and mrna expression levels. the results show that the diel oscillations of p. oceanica photophysiological and respiratory responses were related to transcripts and proteins expression of the genes involved in those processes and that there was a response asynchrony between shallow and deep plants probably caused by the strong differences in the light environment. the photochemical pathway of energy use was more effective in shallow plants due to higher light availability, but these plants needed more investment in photoprotection and photorepair, requiring higher translation and protein synthesis than deep plants. the genetic differentiation between deep and shallow stands suggests the existence of locally adapted genotypes to contrasting light environments. the depth-specific diel rhythms of photosynthetic and respiratory processes, from molecular to physiological levels, must be considered in the management and conservation of these key coastal ecosystems. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "MALTA", 
+                        "TUNISIA", 
+                        "EGYPT", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "IRELAND", 
+                        "GERMANY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }, 
+        {
+            "index": 6, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    24.50856092, 
+                    -27.17706863
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 6, 
+            "score": 21, 
+            "data": {
+                "authorsCOO": [
+                    "SOUTH AFRICA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "south african journal of botany", 
+                "focalspecies": [
+                    "Aspalathus linearis"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "over the past decade, a series of controversies has arisen about equity and justice in the rooibos industry, centred both on the biological resource and on the traditional use and knowledge that fostered the growth of this lucrative trade. accusations of biopiracy, meaning the misappropriation and patenting of genetic resources and knowledge without consent, have taken centre stage, leading to a reassessment of the conditions under which rooibos is traded. claiming to be the primary holders of traditional knowledge relating to rooibos, indigenous san and khoi have also launched demands\u2014to date unmet\u2014for a stake in rooibos benefits. meanwhile, small-scale coloured rooibos producers, despite their involvement in fair trade, remain marginalized. all remain embedded in a political history of rooibos that is characterized by dispossession and adversity, having been propped up by the south african apartheid system. the melding of these issues with a complex and ambiguous legal framework has led to a situation described by some as \u201cthe mother\u201d and \u201ctesting ground\u201d of so-called access and benefit sharing. such approaches stem in part from the convention on biological diversity and its nagoya protocol, which lay down new and more equitable ways of treating trade in genetic resources and the use of traditional knowledge. with growing international interest in rooibos tea and its bioactive compounds, a surge of patents associated with the plant, the successful granting of geographical indication status, and threats to the industry of changing climates, ecologies and ecosystems, the stage is set for a reconceptualization and transformation of the industry. drawing on longitudinal research over the past 20 years, this review paper aims to bring conceptual clarity and a holistic analysis to an often emotional, divided and, to date, narrowly framed debate. through exploration of rooibos histories and traditional knowledge claims, bioprospecting and patent activities, and conservation imperatives, this paper reviews the spectrum of issues that require attention when considering access and benefit sharing in the rooibos industry and provides suggestions for a more integrative, environmentally responsive and just approach. \u00a9 2016 saab", 
+                "focalspeciesCOO": [
+                    [
+                        "SOUTH AFRICA", 
+                        "ALGERIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "South Africa", 
+                "nameofficial": "Republic of South Africa"
+            }
+        }, 
+        {
+            "index": 0, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 0, 
+            "score": 64, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }, 
+        {
+            "index": 0, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 0, 
+            "score": 64, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY"
+                ], 
+                "genetictool": [
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "botanical studies", 
+                "focalspecies": [
+                    "Cryptotaenia thomasii"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the knowledge of the genetic architecture of closely related species and/or populations of a single species can be very useful to shed light on the processes that led to their current distributions. the present study provides a preliminary evaluation of the conservation status of the populations of cryptotaenia thomasii, a very narrow endemic species occurring in southern italy. previous studies showed that c. thomasii was phylogenetically closely related to c. flahaultii, endemic species of caucasus, and to evaluate its conservation status and the genetic variability of plant species the internal transcribed spacers (itss) of nuclear ribosomal dna were sequenced and the snps were analyzed. results: the restriction analysis of nrdna with the restriction enzymes allowed to detect the presence of two single mutations (snps) among the sequences of two species. our molecular analysis pointed out that c. thomasii and c. flahaultii, in spite of their geographical disjunction, show a sign of an ancient contact as an extreme case of geographical disjunction italian-caucasus. conclusion: from the evolutionary history of the species and its distribution pattern one can reconstruct a possible scenario with some hypotheses that explain the hypothetical ancestral area where the two species were in contact. we speculate the two species may have originated from fragmentation of a common ancestor widespread in the western palearctic zone and have survived in two separated refuge areas limited by important mountain systems. this hypothesis is supported by our molecular analysis, in fact, the analysis of snps showed that some c. thomasii populations retain the signs of an ancient link with c. flahaultii. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": [
+                    [
+                        "ITALY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 24, 
+            "target": 39, 
+            "value": 1
+        }, 
+        {
+            "source": 39, 
+            "target": 6, 
+            "value": 1
+        }, 
+        {
+            "source": 39, 
+            "target": 39, 
+            "value": 4
+        }, 
+        {
+            "source": 0, 
+            "target": 39, 
+            "value": 1
+        }, 
+        {
+            "source": 39, 
+            "target": 0, 
+            "value": 1
+        }
+    ]
+}
+]

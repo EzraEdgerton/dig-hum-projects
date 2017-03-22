@@ -1,0 +1,374 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 86, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.6903319, 
+                    -0.68967806
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 86, 
+            "score": 8, 
+            "data": {
+                "authorsCOO": [
+                    "UGANDA", 
+                    "CONGO", 
+                    "CONGO", 
+                    "BELGIUM", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "KENYA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "acta horticulturae", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "a musa germplasm diagnostic study assessed on-farm musa diversity and farmer selection criteria in different altitudes of north kivu (nk) and south kivu (sk) in eastern democratic republic of congo, an important zone of secondary diversification of plantains (aab genome) and east african highland bananas (eahb, aaa genome). diversity was defined using the indices of richness and dominance/evenness. more cultivars (35) were recorded in sk compared to nk (32). however, nk sites had higher cultivar evenness compared with sk. for example, 21 cultivars were grown widely (in three localities) in nk compared with 12 in sk. longterm on-farm musa diversity conservation will hence be easier in nk. cooking eahb cultivars (35% of musa landscape) dominated in nk, followed by beer (27%, eahb + abb), plantain (21%) and dessert (aab + aaa, 17%) cultivars. cooking cultivars were grown across all altitudes, while beer types dominated at the higher altitudes of munoli (1,733 m) and plantains at the low altitudes in mutwanga (1,049 m) and mangodomu (969 m). sk, with predominantly high altitudes (1,553 to 1,992 m), was dominated by beer types (72%). vulambya (eahb cooking, 22%), nguma (plantain, 13%), tundu (eahb beer, 10%), pisang awak (abb genome, pisang awak subgroup, beer, 8%), and mukingiro (eahb beer, 7%) dominated in nk, while nshikazi (eahb beer, 66%) dominates in sk. tolerance of infertile soil, pest and disease resistance and availability of planting materials were key farmer selection criteria that influenced musa diversity on-farm. ex situ conservation of rare cultivars with limited cultural importance is recommended to prevent genetic erosion.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Congo", 
+                "nameofficial": "Republic of the Congo"
+            }
+        }, 
+        {
+            "index": 85, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    32.44409759, 
+                    1.5476062
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 85, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "UGANDA", 
+                    "CONGO", 
+                    "CONGO", 
+                    "BELGIUM", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "KENYA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "acta horticulturae", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "a musa germplasm diagnostic study assessed on-farm musa diversity and farmer selection criteria in different altitudes of north kivu (nk) and south kivu (sk) in eastern democratic republic of congo, an important zone of secondary diversification of plantains (aab genome) and east african highland bananas (eahb, aaa genome). diversity was defined using the indices of richness and dominance/evenness. more cultivars (35) were recorded in sk compared to nk (32). however, nk sites had higher cultivar evenness compared with sk. for example, 21 cultivars were grown widely (in three localities) in nk compared with 12 in sk. longterm on-farm musa diversity conservation will hence be easier in nk. cooking eahb cultivars (35% of musa landscape) dominated in nk, followed by beer (27%, eahb + abb), plantain (21%) and dessert (aab + aaa, 17%) cultivars. cooking cultivars were grown across all altitudes, while beer types dominated at the higher altitudes of munoli (1,733 m) and plantains at the low altitudes in mutwanga (1,049 m) and mangodomu (969 m). sk, with predominantly high altitudes (1,553 to 1,992 m), was dominated by beer types (72%). vulambya (eahb cooking, 22%), nguma (plantain, 13%), tundu (eahb beer, 10%), pisang awak (abb genome, pisang awak subgroup, beer, 8%), and mukingiro (eahb beer, 7%) dominated in nk, while nshikazi (eahb beer, 66%) dominates in sk. tolerance of infertile soil, pest and disease resistance and availability of planting materials were key farmer selection criteria that influenced musa diversity on-farm. ex situ conservation of rare cultivars with limited cultural importance is recommended to prevent genetic erosion.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Uganda", 
+                "nameofficial": "Republic of Uganda"
+            }
+        }, 
+        {
+            "index": 24, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.469936, 
+                    50.49593874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 24, 
+            "score": 63, 
+            "data": {
+                "authorsCOO": [
+                    "ITALY", 
+                    "ITALY", 
+                    "ISRAEL", 
+                    "SWEDEN", 
+                    "THAILAND", 
+                    "PORTUGAL", 
+                    "BELGIUM", 
+                    "AUSTRALIA", 
+                    "PORTUGAL"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "scientific reports", 
+                "focalspecies": [
+                    "Posidonia oceanica"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "here we present the results of a multiple organizational level analysis conceived to identify acclimative/adaptive strategies exhibited by the seagrass posidonia oceanica to the daily fluctuations in the light environment, at contrasting depths. we assessed changes in photophysiological parameters, leaf respiration, pigments, and protein and mrna expression levels. the results show that the diel oscillations of p. oceanica photophysiological and respiratory responses were related to transcripts and proteins expression of the genes involved in those processes and that there was a response asynchrony between shallow and deep plants probably caused by the strong differences in the light environment. the photochemical pathway of energy use was more effective in shallow plants due to higher light availability, but these plants needed more investment in photoprotection and photorepair, requiring higher translation and protein synthesis than deep plants. the genetic differentiation between deep and shallow stands suggests the existence of locally adapted genotypes to contrasting light environments. the depth-specific diel rhythms of photosynthetic and respiratory processes, from molecular to physiological levels, must be considered in the management and conservation of these key coastal ecosystems. \u00a9 the author(s) 2017.", 
+                "focalspeciesCOO": [
+                    [
+                        "FRANCE", 
+                        "SPAIN", 
+                        "ITALY", 
+                        "GREECE", 
+                        "CROATIA", 
+                        "ALGERIA", 
+                        "TURKEY", 
+                        "MALTA", 
+                        "TUNISIA", 
+                        "EGYPT", 
+                        "AUSTRALIA", 
+                        "CHINA", 
+                        "IRELAND", 
+                        "GERMANY"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Belgium", 
+                "nameofficial": "Kingdom of Belgium"
+            }
+        }, 
+        {
+            "index": 62, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    37.97212297, 
+                    0.19582452
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 62, 
+            "score": 29, 
+            "data": {
+                "authorsCOO": [
+                    "KENYA", 
+                    "KENYA", 
+                    "KENYA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "forests trees and livelihoods", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "mango fruits are highly nutritious and economically important to kenyan farmers, who cultivate three categories of cultivars/landraces; local small-fruited, local big-fruited and improved, introduced cultivars. the small-fruited landraces are said to be well adapted to the local environment but are being replaced by introduced cultivars before their diversity has been documented. this study aimed at assessing morphological and genetic diversity of 36 local mango landraces from 35 randomly selected farms in eastern kenya. fruits were collected from three locations for morphological characterization using the \u2018descriptors for mango\u2019 of the international plant genetic resources institute. leaves of the same accessions were sampled for genetic diversity assessment using microsatellites. morphological characterization showed that mean fruit length was 5.6\u201312.5\u00a0cm, while mean fruit weight was 93\u2013578\u00a0g. fruit shape was mostly \u2018roundish\u2019, while fruit ground colour \u2018green\u2019. hierarchical cluster analysis with seven discriminant morphological variables resulted in four clusters. analysis of molecular variance (amova) indicated that variation was high (97%) among, but low (3%) within groups. phylogenetic analysis using neighbor joining method resulted in three clusters that lacked consistency with the morphological clusters. findings from this study may assist to select superior local mango accessions for future breeding programmes and to develop \u2018conservation through use\u2019 strategies for kenyan local mangoes to retain their valuable genetic resources. \u00a9 2016 the author(s). published by informa uk limited, trading as taylor & francis group.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Kenya", 
+                "nameofficial": "Republic of Kenya"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 85, 
+            "target": 86, 
+            "value": 8
+        }, 
+        {
+            "source": 86, 
+            "target": 86, 
+            "value": 28
+        }, 
+        {
+            "source": 86, 
+            "target": 24, 
+            "value": 8
+        }, 
+        {
+            "source": 86, 
+            "target": 62, 
+            "value": 8
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 86, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.6903319, 
+                    -0.68967806
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 86, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "UGANDA", 
+                    "CONGO", 
+                    "CONGO", 
+                    "BELGIUM", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "KENYA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "acta horticulturae", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "a musa germplasm diagnostic study assessed on-farm musa diversity and farmer selection criteria in different altitudes of north kivu (nk) and south kivu (sk) in eastern democratic republic of congo, an important zone of secondary diversification of plantains (aab genome) and east african highland bananas (eahb, aaa genome). diversity was defined using the indices of richness and dominance/evenness. more cultivars (35) were recorded in sk compared to nk (32). however, nk sites had higher cultivar evenness compared with sk. for example, 21 cultivars were grown widely (in three localities) in nk compared with 12 in sk. longterm on-farm musa diversity conservation will hence be easier in nk. cooking eahb cultivars (35% of musa landscape) dominated in nk, followed by beer (27%, eahb + abb), plantain (21%) and dessert (aab + aaa, 17%) cultivars. cooking cultivars were grown across all altitudes, while beer types dominated at the higher altitudes of munoli (1,733 m) and plantains at the low altitudes in mutwanga (1,049 m) and mangodomu (969 m). sk, with predominantly high altitudes (1,553 to 1,992 m), was dominated by beer types (72%). vulambya (eahb cooking, 22%), nguma (plantain, 13%), tundu (eahb beer, 10%), pisang awak (abb genome, pisang awak subgroup, beer, 8%), and mukingiro (eahb beer, 7%) dominated in nk, while nshikazi (eahb beer, 66%) dominates in sk. tolerance of infertile soil, pest and disease resistance and availability of planting materials were key farmer selection criteria that influenced musa diversity on-farm. ex situ conservation of rare cultivars with limited cultural importance is recommended to prevent genetic erosion.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Congo", 
+                "nameofficial": "Republic of the Congo"
+            }
+        }, 
+        {
+            "index": 85, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    32.44409759, 
+                    1.5476062
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 85, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "UGANDA", 
+                    "CONGO", 
+                    "CONGO", 
+                    "BELGIUM", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "KENYA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "acta horticulturae", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "a musa germplasm diagnostic study assessed on-farm musa diversity and farmer selection criteria in different altitudes of north kivu (nk) and south kivu (sk) in eastern democratic republic of congo, an important zone of secondary diversification of plantains (aab genome) and east african highland bananas (eahb, aaa genome). diversity was defined using the indices of richness and dominance/evenness. more cultivars (35) were recorded in sk compared to nk (32). however, nk sites had higher cultivar evenness compared with sk. for example, 21 cultivars were grown widely (in three localities) in nk compared with 12 in sk. longterm on-farm musa diversity conservation will hence be easier in nk. cooking eahb cultivars (35% of musa landscape) dominated in nk, followed by beer (27%, eahb + abb), plantain (21%) and dessert (aab + aaa, 17%) cultivars. cooking cultivars were grown across all altitudes, while beer types dominated at the higher altitudes of munoli (1,733 m) and plantains at the low altitudes in mutwanga (1,049 m) and mangodomu (969 m). sk, with predominantly high altitudes (1,553 to 1,992 m), was dominated by beer types (72%). vulambya (eahb cooking, 22%), nguma (plantain, 13%), tundu (eahb beer, 10%), pisang awak (abb genome, pisang awak subgroup, beer, 8%), and mukingiro (eahb beer, 7%) dominated in nk, while nshikazi (eahb beer, 66%) dominates in sk. tolerance of infertile soil, pest and disease resistance and availability of planting materials were key farmer selection criteria that influenced musa diversity on-farm. ex situ conservation of rare cultivars with limited cultural importance is recommended to prevent genetic erosion.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Uganda", 
+                "nameofficial": "Republic of Uganda"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 85, 
+            "target": 86, 
+            "value": 8
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 86, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.6903319, 
+                    -0.68967806
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 86, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "UGANDA", 
+                    "CONGO", 
+                    "CONGO", 
+                    "BELGIUM", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "CONGO", 
+                    "KENYA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "acta horticulturae", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "a musa germplasm diagnostic study assessed on-farm musa diversity and farmer selection criteria in different altitudes of north kivu (nk) and south kivu (sk) in eastern democratic republic of congo, an important zone of secondary diversification of plantains (aab genome) and east african highland bananas (eahb, aaa genome). diversity was defined using the indices of richness and dominance/evenness. more cultivars (35) were recorded in sk compared to nk (32). however, nk sites had higher cultivar evenness compared with sk. for example, 21 cultivars were grown widely (in three localities) in nk compared with 12 in sk. longterm on-farm musa diversity conservation will hence be easier in nk. cooking eahb cultivars (35% of musa landscape) dominated in nk, followed by beer (27%, eahb + abb), plantain (21%) and dessert (aab + aaa, 17%) cultivars. cooking cultivars were grown across all altitudes, while beer types dominated at the higher altitudes of munoli (1,733 m) and plantains at the low altitudes in mutwanga (1,049 m) and mangodomu (969 m). sk, with predominantly high altitudes (1,553 to 1,992 m), was dominated by beer types (72%). vulambya (eahb cooking, 22%), nguma (plantain, 13%), tundu (eahb beer, 10%), pisang awak (abb genome, pisang awak subgroup, beer, 8%), and mukingiro (eahb beer, 7%) dominated in nk, while nshikazi (eahb beer, 66%) dominates in sk. tolerance of infertile soil, pest and disease resistance and availability of planting materials were key farmer selection criteria that influenced musa diversity on-farm. ex situ conservation of rare cultivars with limited cultural importance is recommended to prevent genetic erosion.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Congo", 
+                "nameofficial": "Republic of the Congo"
+            }
+        }, 
+        {
+            "index": 62, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    37.97212297, 
+                    0.19582452
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 62, 
+            "score": 10, 
+            "data": {
+                "authorsCOO": [
+                    "KENYA", 
+                    "KENYA", 
+                    "KENYA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "forests trees and livelihoods", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "mango fruits are highly nutritious and economically important to kenyan farmers, who cultivate three categories of cultivars/landraces; local small-fruited, local big-fruited and improved, introduced cultivars. the small-fruited landraces are said to be well adapted to the local environment but are being replaced by introduced cultivars before their diversity has been documented. this study aimed at assessing morphological and genetic diversity of 36 local mango landraces from 35 randomly selected farms in eastern kenya. fruits were collected from three locations for morphological characterization using the \u2018descriptors for mango\u2019 of the international plant genetic resources institute. leaves of the same accessions were sampled for genetic diversity assessment using microsatellites. morphological characterization showed that mean fruit length was 5.6\u201312.5\u00a0cm, while mean fruit weight was 93\u2013578\u00a0g. fruit shape was mostly \u2018roundish\u2019, while fruit ground colour \u2018green\u2019. hierarchical cluster analysis with seven discriminant morphological variables resulted in four clusters. analysis of molecular variance (amova) indicated that variation was high (97%) among, but low (3%) within groups. phylogenetic analysis using neighbor joining method resulted in three clusters that lacked consistency with the morphological clusters. findings from this study may assist to select superior local mango accessions for future breeding programmes and to develop \u2018conservation through use\u2019 strategies for kenyan local mangoes to retain their valuable genetic resources. \u00a9 2016 the author(s). published by informa uk limited, trading as taylor & francis group.", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Kenya", 
+                "nameofficial": "Republic of Kenya"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 62, 
+            "target": 86, 
+            "value": 8
+        }
+    ]
+}
+]

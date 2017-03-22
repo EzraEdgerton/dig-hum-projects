@@ -1,0 +1,311 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 89, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    68.81334444, 
+                    45.38592596
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 89, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "KAZAKHSTAN"
+                ], 
+                "genetictool": [
+                    "SSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "evolutionary biology", 
+                "focalspecies": [
+                    "Triticum dicoccoides"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "the adaptive potential of populations and therefore their ability to cope with rapid environmental changes is a question of paramount fundamental and applied importance. however, what is still not clear is the effect of population position within the species range (i.e. core vs. edge) on population adaptive potential, and whether the adaptive potential can be predicted from extent of neutral molecular variation. in this study, we compared the extent and structure of neutral (ssr) and presumably adaptive quantitative trait genetic variation in populations of triticum dicoccoides sampled at the species range core and two opposite edges, and related this information to multigenerational performance of plants experimentally introduced beyond the range edge. the plants from the species arid edge performed worse than plants from the more mesic core in extreme desert conditions. the core and edge populations did not differ in extent of ssr variation. in contrast to the neutral genetic variation, there was lower quantitative trait variation in the two edge as compared with the core population for many traits, and no trait in any edge population had higher variation than the core population or either of its habitats. reduced variation in selectively important traits indicates a lower adaptive potential of the two edge as compared with the core population. our results imply (1) that extent of variation in quantitative traits can predict plant performance in novel environments while extent of variation in molecular markers can not; and (2) caution in usage of peripheral populations in such conservation actions as relocation and creation of new populations. we also warn against usage of neutral molecular variation as a surrogate for selectively important quantitative variation in conservation decisions. \u00a9 2015, springer science+business media new york.", 
+                "focalspeciesCOO": [
+                    [
+                        "ZIMBABWE", 
+                        "IRAQ", 
+                        "UNITED ARAB EMIRATES", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "ISRAEL", 
+                        "UNITED STATES", 
+                        "SPAIN", 
+                        "JORDAN", 
+                        "TURKEY", 
+                        "LEBANON", 
+                        "DENMARK", 
+                        "POLAND", 
+                        "ARGENTINA", 
+                        "AUSTRALIA", 
+                        "GERMANY", 
+                        "SWITZERLAND", 
+                        "FRANCE", 
+                        "ITALY", 
+                        "GEORGIA", 
+                        "SAUDI ARABIA", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "ARMENIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Kazakhstan", 
+                "nameofficial": "Republic of Kazakhstan"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 881, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "applied energy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "it is challenging and interesting to establish a precise dynamic model of an otb (once-through boiler) power plant unit in order to meet large scale load demands from the power grid. this study proposes to establish such a dynamic mathematical model of an ultra-supercritical otb unit under dry operating conditions. more precisely, the dynamic model structure was derived from mass and energy conservation laws as well as thermodynamic principles under some reasonable simplifications and assumptions. then an iga (immune genetic algorithm) was improved to identify the parameters, combined with running data. after this, to further enhance model performance, the dynamic mathematical model was extended to be the one with different sets of parameters and functions under different monotonous load ranges. additionally, open- and closed-loop experiments were conducted in order to further validate the developed model. the experimental results show that the model outputs can approach the actual running data over a wide operating range with appropriate accuracy. more importantly, the dynamic model captures the essential dynamic characteristics of the unit. therefore, the model can be feasible and applicable for simulation analysis and testing control algorithms. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 17, 
+            "target": 89, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 89, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    68.81334444, 
+                    45.38592596
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 89, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "KAZAKHSTAN"
+                ], 
+                "genetictool": [
+                    "SSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "evolutionary biology", 
+                "focalspecies": [
+                    "Triticum dicoccoides"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "the adaptive potential of populations and therefore their ability to cope with rapid environmental changes is a question of paramount fundamental and applied importance. however, what is still not clear is the effect of population position within the species range (i.e. core vs. edge) on population adaptive potential, and whether the adaptive potential can be predicted from extent of neutral molecular variation. in this study, we compared the extent and structure of neutral (ssr) and presumably adaptive quantitative trait genetic variation in populations of triticum dicoccoides sampled at the species range core and two opposite edges, and related this information to multigenerational performance of plants experimentally introduced beyond the range edge. the plants from the species arid edge performed worse than plants from the more mesic core in extreme desert conditions. the core and edge populations did not differ in extent of ssr variation. in contrast to the neutral genetic variation, there was lower quantitative trait variation in the two edge as compared with the core population for many traits, and no trait in any edge population had higher variation than the core population or either of its habitats. reduced variation in selectively important traits indicates a lower adaptive potential of the two edge as compared with the core population. our results imply (1) that extent of variation in quantitative traits can predict plant performance in novel environments while extent of variation in molecular markers can not; and (2) caution in usage of peripheral populations in such conservation actions as relocation and creation of new populations. we also warn against usage of neutral molecular variation as a surrogate for selectively important quantitative variation in conservation decisions. \u00a9 2015, springer science+business media new york.", 
+                "focalspeciesCOO": [
+                    [
+                        "ZIMBABWE", 
+                        "IRAQ", 
+                        "UNITED ARAB EMIRATES", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "ISRAEL", 
+                        "UNITED STATES", 
+                        "SPAIN", 
+                        "JORDAN", 
+                        "TURKEY", 
+                        "LEBANON", 
+                        "DENMARK", 
+                        "POLAND", 
+                        "ARGENTINA", 
+                        "AUSTRALIA", 
+                        "GERMANY", 
+                        "SWITZERLAND", 
+                        "FRANCE", 
+                        "ITALY", 
+                        "GEORGIA", 
+                        "SAUDI ARABIA", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "ARMENIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Kazakhstan", 
+                "nameofficial": "Republic of Kazakhstan"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 372, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "applied energy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "it is challenging and interesting to establish a precise dynamic model of an otb (once-through boiler) power plant unit in order to meet large scale load demands from the power grid. this study proposes to establish such a dynamic mathematical model of an ultra-supercritical otb unit under dry operating conditions. more precisely, the dynamic model structure was derived from mass and energy conservation laws as well as thermodynamic principles under some reasonable simplifications and assumptions. then an iga (immune genetic algorithm) was improved to identify the parameters, combined with running data. after this, to further enhance model performance, the dynamic mathematical model was extended to be the one with different sets of parameters and functions under different monotonous load ranges. additionally, open- and closed-loop experiments were conducted in order to further validate the developed model. the experimental results show that the model outputs can approach the actual running data over a wide operating range with appropriate accuracy. more importantly, the dynamic model captures the essential dynamic characteristics of the unit. therefore, the model can be feasible and applicable for simulation analysis and testing control algorithms. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 17, 
+            "target": 89, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 89, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    68.81334444, 
+                    45.38592596
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 89, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA", 
+                    "KAZAKHSTAN"
+                ], 
+                "genetictool": [
+                    "SSR"
+                ], 
+                "fundingorganization": "", 
+                "journal": "evolutionary biology", 
+                "focalspecies": [
+                    "Triticum dicoccoides"
+                ], 
+                "fundingCOO": [], 
+                "year": 2016, 
+                "abstracttext": "the adaptive potential of populations and therefore their ability to cope with rapid environmental changes is a question of paramount fundamental and applied importance. however, what is still not clear is the effect of population position within the species range (i.e. core vs. edge) on population adaptive potential, and whether the adaptive potential can be predicted from extent of neutral molecular variation. in this study, we compared the extent and structure of neutral (ssr) and presumably adaptive quantitative trait genetic variation in populations of triticum dicoccoides sampled at the species range core and two opposite edges, and related this information to multigenerational performance of plants experimentally introduced beyond the range edge. the plants from the species arid edge performed worse than plants from the more mesic core in extreme desert conditions. the core and edge populations did not differ in extent of ssr variation. in contrast to the neutral genetic variation, there was lower quantitative trait variation in the two edge as compared with the core population for many traits, and no trait in any edge population had higher variation than the core population or either of its habitats. reduced variation in selectively important traits indicates a lower adaptive potential of the two edge as compared with the core population. our results imply (1) that extent of variation in quantitative traits can predict plant performance in novel environments while extent of variation in molecular markers can not; and (2) caution in usage of peripheral populations in such conservation actions as relocation and creation of new populations. we also warn against usage of neutral molecular variation as a surrogate for selectively important quantitative variation in conservation decisions. \u00a9 2015, springer science+business media new york.", 
+                "focalspeciesCOO": [
+                    [
+                        "ZIMBABWE", 
+                        "IRAQ", 
+                        "UNITED ARAB EMIRATES", 
+                        "SYRIAN ARAB REPUBLIC", 
+                        "ISRAEL", 
+                        "UNITED STATES", 
+                        "SPAIN", 
+                        "JORDAN", 
+                        "TURKEY", 
+                        "LEBANON", 
+                        "DENMARK", 
+                        "POLAND", 
+                        "ARGENTINA", 
+                        "AUSTRALIA", 
+                        "GERMANY", 
+                        "SWITZERLAND", 
+                        "FRANCE", 
+                        "ITALY", 
+                        "GEORGIA", 
+                        "SAUDI ARABIA", 
+                        "PAKISTAN", 
+                        "AFGHANISTAN", 
+                        "ARMENIA"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Kazakhstan", 
+                "nameofficial": "Republic of Kazakhstan"
+            }
+        }, 
+        {
+            "index": 17, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 17, 
+            "score": 328, 
+            "data": {
+                "authorsCOO": [
+                    "CHINA"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "applied energy", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "it is challenging and interesting to establish a precise dynamic model of an otb (once-through boiler) power plant unit in order to meet large scale load demands from the power grid. this study proposes to establish such a dynamic mathematical model of an ultra-supercritical otb unit under dry operating conditions. more precisely, the dynamic model structure was derived from mass and energy conservation laws as well as thermodynamic principles under some reasonable simplifications and assumptions. then an iga (immune genetic algorithm) was improved to identify the parameters, combined with running data. after this, to further enhance model performance, the dynamic mathematical model was extended to be the one with different sets of parameters and functions under different monotonous load ranges. additionally, open- and closed-loop experiments were conducted in order to further validate the developed model. the experimental results show that the model outputs can approach the actual running data over a wide operating range with appropriate accuracy. more importantly, the dynamic model captures the essential dynamic characteristics of the unit. therefore, the model can be feasible and applicable for simulation analysis and testing control algorithms. \u00a9 2016 elsevier ltd", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 89, 
+            "target": 17, 
+            "value": 1
+        }
+    ]
+}
+]

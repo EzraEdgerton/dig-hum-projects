@@ -1,0 +1,560 @@
+[
+{
+    "field": "authors", 
+    "nodes": [
+        {
+            "index": 102, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    47.46706372, 
+                    40.35321757
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 102, 
+            "score": 3, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "AZERBAIJAN", 
+                    "AZERBAIJAN", 
+                    "SWITZERLAND", 
+                    "SWITZERLAND", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "genetic marker", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "american journal of botany", 
+                "focalspecies": [
+                    "Zelkova carpinifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2015, 
+                "abstracttext": "premise of the study: the caucasus represents one of the world\u2019s biodiversity hotspots and includes the climatic refugia hyrcan on the southern coast of the caspian sea and colchis on the eastern coast of the black sea, where different species survived during the quaternary climatic oscillations. we evaluated the genetic diversity of the relict tree zelkova carpinifolia shared between the two refugia and distributed throughout the caucasus and adjacent areas.\n\u2022 methods: specimens were collected from 30 geographical sites in azerbaijan, georgia, iran, and turkey and screened for variability at eight nuclear microsatellite loci. the genetic diversity among and within populations was assessed using a set of statistical measures.\n\u2022 key results: we detected 379 different genotypes from a total of 495 individuals with varying degrees of clonal reproduction at the different sites. low to intermediate levels of genetic diversity were observed at all sites, and strong differentiation between sampling sites was absent. in addition, we observed no clear genetic differentiation between the colchis and hyrcan. bayesian clustering of the genotypes revealed three populations with high levels of admixture between the sampling sites.\n\u2022 conclusions: the lack of strong genetic structure of studied populations of z. carpinifolia contrasts with a previous study based on chloroplast markers and suggests that long-distance pollen dispersal is an important factor of gene flow among populations of z. carpinifolia. the present study does not reveal any particular site with particularly isolated genotypes that would deserve more attention for conservation purposes than others, although some sites should be considered for further investigation. \u00a9 2015 botanical society of america.", 
+                "focalspeciesCOO": [
+                    [
+                        "GEORGIA", 
+                        "UNITED STATES", 
+                        "AZERBAIJAN", 
+                        "SWEDEN", 
+                        "TURKEY", 
+                        "RUSSIAN FEDERATION", 
+                        "SPAIN", 
+                        "NEW ZEALAND", 
+                        "UNITED KINGDOM", 
+                        "IRELAND", 
+                        "ITALY", 
+                        "FRANCE", 
+                        "GERMANY", 
+                        "SWITZERLAND"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Azerbaijan", 
+                "nameofficial": "Republic of Azerbaijan"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 252, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 38, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    8.227512, 
+                    46.81010721
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 38, 
+            "score": 51, 
+            "data": {
+                "authorsCOO": [
+                    "SWITZERLAND", 
+                    "SPAIN", 
+                    "SPAIN", 
+                    "SPAIN"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "genetica", 
+                "focalspecies": [
+                    "Limonium macrophyllum"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "oceanic archipelagos are typically rich in endemic taxa, because they offer ideal conditions for diversification and speciation in isolation. one of the most remarkable evolutionary radiations on the canary islands comprises the 16 species included in limonium subsection nobiles, all of which are subject to diverse threats, and legally protected. since many of them are single-island endemics limited to one or a few populations, there exists a risk that a loss of genetic variation might limit their long-term survival. in this study, we used eight newly developed microsatellite markers to characterize the levels of genetic variation and inbreeding in l. macrophyllum, a species endemic to the north-east of tenerife that belongs to limonium subsection nobiles. we detected generally low levels of genetic variation over all populations (ht = 0.363), and substantial differentiation among populations (fst = 0.188; rst = 0.186) coupled with a negligible degree of inbreeding (f = 0.042). obligate outcrossing may have maintained l. macrophyllum relatively unaffected by inbreeding despite the species\u2019 limited dispersal ability and the genetic bottlenecks likely caused by a prolonged history of grazing. although several factors still constitute a risk for the conservation of l. macrophyllum, the lack of inbreeding and the recent positive demographic trends observed in the populations of this species are factors that favour its future persistence. \u00a9 2017, springer international publishing switzerland.", 
+                "focalspeciesCOO": [
+                    [
+                        "SPAIN", 
+                        "PORTUGAL", 
+                        "NEW ZEALAND"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Switzerland", 
+                "nameofficial": "Swiss Confederation"
+            }
+        }, 
+        {
+            "index": 15, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 15, 
+            "score": 233, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 2, 
+            "target": 102, 
+            "value": 5
+        }, 
+        {
+            "source": 102, 
+            "target": 102, 
+            "value": 1
+        }, 
+        {
+            "source": 102, 
+            "target": 38, 
+            "value": 4
+        }, 
+        {
+            "source": 102, 
+            "target": 15, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "firstauthor", 
+    "nodes": [
+        {
+            "index": 102, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    47.46706372, 
+                    40.35321757
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 102, 
+            "score": 1, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "AZERBAIJAN", 
+                    "AZERBAIJAN", 
+                    "SWITZERLAND", 
+                    "SWITZERLAND", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "genetic marker", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "american journal of botany", 
+                "focalspecies": [
+                    "Zelkova carpinifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2015, 
+                "abstracttext": "premise of the study: the caucasus represents one of the world\u2019s biodiversity hotspots and includes the climatic refugia hyrcan on the southern coast of the caspian sea and colchis on the eastern coast of the black sea, where different species survived during the quaternary climatic oscillations. we evaluated the genetic diversity of the relict tree zelkova carpinifolia shared between the two refugia and distributed throughout the caucasus and adjacent areas.\n\u2022 methods: specimens were collected from 30 geographical sites in azerbaijan, georgia, iran, and turkey and screened for variability at eight nuclear microsatellite loci. the genetic diversity among and within populations was assessed using a set of statistical measures.\n\u2022 key results: we detected 379 different genotypes from a total of 495 individuals with varying degrees of clonal reproduction at the different sites. low to intermediate levels of genetic diversity were observed at all sites, and strong differentiation between sampling sites was absent. in addition, we observed no clear genetic differentiation between the colchis and hyrcan. bayesian clustering of the genotypes revealed three populations with high levels of admixture between the sampling sites.\n\u2022 conclusions: the lack of strong genetic structure of studied populations of z. carpinifolia contrasts with a previous study based on chloroplast markers and suggests that long-distance pollen dispersal is an important factor of gene flow among populations of z. carpinifolia. the present study does not reveal any particular site with particularly isolated genotypes that would deserve more attention for conservation purposes than others, although some sites should be considered for further investigation. \u00a9 2015 botanical society of america.", 
+                "focalspeciesCOO": [
+                    [
+                        "GEORGIA", 
+                        "UNITED STATES", 
+                        "AZERBAIJAN", 
+                        "SWEDEN", 
+                        "TURKEY", 
+                        "RUSSIAN FEDERATION", 
+                        "SPAIN", 
+                        "NEW ZEALAND", 
+                        "UNITED KINGDOM", 
+                        "IRELAND", 
+                        "ITALY", 
+                        "FRANCE", 
+                        "GERMANY", 
+                        "SWITZERLAND"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Azerbaijan", 
+                "nameofficial": "Republic of Azerbaijan"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 67, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 2, 
+            "score": 67, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 15, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 15, 
+            "score": 61, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 2, 
+            "target": 102, 
+            "value": 2
+        }, 
+        {
+            "source": 102, 
+            "target": 2, 
+            "value": 1
+        }, 
+        {
+            "source": 102, 
+            "target": 15, 
+            "value": 1
+        }
+    ]
+},
+{
+    "field": "lastauthor", 
+    "nodes": [
+        {
+            "index": 102, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    47.46706372, 
+                    40.35321757
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 102, 
+            "score": 0, 
+            "data": {
+                "authorsCOO": [
+                    "GERMANY", 
+                    "AZERBAIJAN", 
+                    "AZERBAIJAN", 
+                    "SWITZERLAND", 
+                    "SWITZERLAND", 
+                    "GERMANY"
+                ], 
+                "genetictool": [
+                    "microsatellite", 
+                    "genetic marker", 
+                    "DNA"
+                ], 
+                "fundingorganization": "", 
+                "journal": "american journal of botany", 
+                "focalspecies": [
+                    "Zelkova carpinifolia"
+                ], 
+                "fundingCOO": [], 
+                "year": 2015, 
+                "abstracttext": "premise of the study: the caucasus represents one of the world\u2019s biodiversity hotspots and includes the climatic refugia hyrcan on the southern coast of the caspian sea and colchis on the eastern coast of the black sea, where different species survived during the quaternary climatic oscillations. we evaluated the genetic diversity of the relict tree zelkova carpinifolia shared between the two refugia and distributed throughout the caucasus and adjacent areas.\n\u2022 methods: specimens were collected from 30 geographical sites in azerbaijan, georgia, iran, and turkey and screened for variability at eight nuclear microsatellite loci. the genetic diversity among and within populations was assessed using a set of statistical measures.\n\u2022 key results: we detected 379 different genotypes from a total of 495 individuals with varying degrees of clonal reproduction at the different sites. low to intermediate levels of genetic diversity were observed at all sites, and strong differentiation between sampling sites was absent. in addition, we observed no clear genetic differentiation between the colchis and hyrcan. bayesian clustering of the genotypes revealed three populations with high levels of admixture between the sampling sites.\n\u2022 conclusions: the lack of strong genetic structure of studied populations of z. carpinifolia contrasts with a previous study based on chloroplast markers and suggests that long-distance pollen dispersal is an important factor of gene flow among populations of z. carpinifolia. the present study does not reveal any particular site with particularly isolated genotypes that would deserve more attention for conservation purposes than others, although some sites should be considered for further investigation. \u00a9 2015 botanical society of america.", 
+                "focalspeciesCOO": [
+                    [
+                        "GEORGIA", 
+                        "UNITED STATES", 
+                        "AZERBAIJAN", 
+                        "SWEDEN", 
+                        "TURKEY", 
+                        "RUSSIAN FEDERATION", 
+                        "SPAIN", 
+                        "NEW ZEALAND", 
+                        "UNITED KINGDOM", 
+                        "IRELAND", 
+                        "ITALY", 
+                        "FRANCE", 
+                        "GERMANY", 
+                        "SWITZERLAND"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "Azerbaijan", 
+                "nameofficial": "Republic of Azerbaijan"
+            }
+        }, 
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 1, 
+            "score": 78, 
+            "data": {
+                "authorsCOO": [
+                    "AUSTRIA", 
+                    "GERMANY"
+                ], 
+                "genetictool": [], 
+                "fundingorganization": "", 
+                "journal": "environmental sciences europe", 
+                "focalspecies": [], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "background: the european food safety authority (efsa) has introduced a concept for the environmental risk assessment of genetically modified (gm) plants which foresees the definition of ecological threshold values defining acceptable adverse effects of the gm plant on the environment (limits of concern, loc). methods: we analysed the loc concept by scrutinising its feasibility with regard to important aspects of the environmental risk assessment. we then considered its relationship with protection goals, the comparative safety assessment and the stepwise testing approach. we finally discussed its usefulness for assessing long-term effects, effects on non-target organisms and species of conservation concern. results: the loc concept is a possible approach to introduce ecological thresholds into environmental risk assessment in order to evaluate environmental harm. however, the concept leaves many important aspects open. thresholds for environmental harm for protection goals need spatial and temporal differentiation from locs used for era indicators. regionalisation of locs must be provided for as biodiversity levels and protection goals vary across the eu. further guidance is needed with respect to the consequences, in case locs are exceeded and a link needs to be established between environmentally relevant results from the comparative safety assessment and the loc concept. locs for long-term effects have to be evaluated by long-term monitoring. locs for non-target organisms need to be discriminated according to the species and parameters assessed. conclusions: the overall loc concept is considered useful if locs are further specified and differentiated. although locs will finally be determined by political decisions, they should be based on scientific grounds in order to increase confidence in the conclusions on the safety of gm plants. \u00a9 2017, the author(s).", 
+                "focalspeciesCOO": []
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }
+        }, 
+        {
+            "index": 11, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": 11, 
+            "score": 68, 
+            "data": {
+                "authorsCOO": [
+                    "CZECH REPUBLIC", 
+                    "GREECE", 
+                    "RUSSIAN FEDERATION", 
+                    "ARMENIA", 
+                    "TURKEY", 
+                    "UNITED KINGDOM"
+                ], 
+                "genetictool": [
+                    "AFLP"
+                ], 
+                "fundingorganization": "", 
+                "journal": "plant systematics and evolution", 
+                "focalspecies": [
+                    "Vavilovia formosa"
+                ], 
+                "fundingCOO": [], 
+                "year": 2017, 
+                "abstracttext": "vavilovia formosa is one of five genera in tribe fabeae, (fabaceae, leguminosae) with close phylogenetic relationships to pisum. it grows in subalpine and alpine levels in armenia, azerbaijan, georgia, iran, iraq, lebanon, russia and turkey and is recognized as an endangered and protected plant. this study was conducted to reveal its intraspecific variability, as well as to predict the past, extant and future species distribution range. we analysed 51 accessions with common phylogenetic markers (trnf-trnl, trns-trng, matk, rbcl, psba-trnh and its). these represent in total up to 2551\u00a0bp of chloroplast and 664\u00a0bp of nuclear sequences per sample. two populations from turkey and armenia were analysed for genetic diversity by aflp. leaf morphometry was conducted on 1457 leaflets from 43 specimens. extracted bioclimatic parameters were used for niche-modelling approach. analysis of cpdna revealed two haplotypes, 12 samples from armenia, daghestan, nakhichevan and iran belonged to h1 group, while 39 samples of all turkish and part of armenian were in h2 group. the mean intrapopulation diversity based on aflp was low (he\u00a0=\u00a00.088) indicating limited outcrossing rate. a significantly positive correlation between geographical latitude and leaf area (\u03c1 =\u00a00.527, p\u00a0&lt;\u00a00.05) was found. niche modelling has shown temporal variation of predicted occurrence across the projected time periods. vavilovia formosa has suffered a range reduction following climate warming after last glacial maximum, which classify this species as cold-adapted among the fabeae species as well as a glacial relict. \u00a9 2017, springer-verlag wien.", 
+                "focalspeciesCOO": [
+                    [
+                        "ARMENIA", 
+                        "TURKEY", 
+                        "AZERBAIJAN", 
+                        "LEBANON", 
+                        "GEORGIA", 
+                        "IRAQ", 
+                        "UNITED KINGDOM", 
+                        "RUSSIAN FEDERATION"
+                    ]
+                ]
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        }
+    ], 
+    "links": [
+        {
+            "source": 1, 
+            "target": 102, 
+            "value": 2
+        }, 
+        {
+            "source": 11, 
+            "target": 102, 
+            "value": 1
+        }
+    ]
+}
+]
