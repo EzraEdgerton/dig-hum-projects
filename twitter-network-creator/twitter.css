@@ -1,0 +1,13 @@
+ .hide {
+  display:none;
+ },
+ .show{
+  display:inline ;
+ },
+
+ .chart-text {
+  color: black;
+ },
+ #group-chart {
+  fill : #333;
+ }

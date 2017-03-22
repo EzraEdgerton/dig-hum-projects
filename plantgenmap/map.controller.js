@@ -1,74 +1,4 @@
-
-<!DOCTYPE html>
-<meta charset="utf-8">
-<title>PlantGen World Map</title>
-<link rel="stylesheet" href="/ext/css/bootstrap.min.css"/>  
-<link rel="stylesheet" href="map.css"/>  
-
-<body ng-app="twitterstuff" id='mapbody'>
-  <div ng-controller="twitterselect" class='container-fluid' >
-    <div class="row">
-      <div class='col-lg-12'>
-        <h4>Filter Fields</h4>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-12">
-        <div id="labels" ></div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-8">
-        <div id="map" ></div>
-      </div>
-      <div class="col-lg-4" id='sidebox'>
-        <div id="map-side" style="height: 492"></div>
-        
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-4 col-lg-push-8">
-         <p>Use Command+F to search table and graph for country</p>
-      </div>
-    </div>
-     <div class="row">
-      <div class='col-lg-12'>
-        <h4>Focal Species Map</h4>
-      </div>
-    </div>
-      <div class="row">
-      <div class="col-lg-12">
-        <div id="resetbutton" ></div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-8">
-        <div id="species-map" ></div>
-      </div>
-      <div class="col-lg-4" id='specsidebox'>
-        <div id="spec-map-side" style="height: 492"></div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-4 col-lg-push-8">
-         <p>Use Command+F to search table and graph for country</p>
-      </div>
-    </div>
-  </div>
-
-<script src="/ext/mapjs/d3.v3.min.js"></script>
-<script src="/ext/mapjs/queue.v1.min.js"></script>
-<script src="/ext/mapjs/topojson.js"></script>
-<script src="/ext/angular.min.js"></script>
-<script src="/ext/jquery.min.js"></script>
-<script src='/ext/bootstrap.min.js'></script>
-<script>
-
-var termiteTopics = angular.module('twitterstuff', [], function($locationProvider) {
-  $locationProvider.html5Mode(true);
-});
-
-termiteTopics.controller('twitterselect',['$scope', function($scope){
+dighumApp.controller('mapController',['$scope', function($scope){
 // The SVG container
 var width  = 800,
     height = 480;
@@ -151,13 +81,13 @@ function specredraw(){
 }*/
 
 queue()
-    .defer(d3.json, "data/world-50m.json")
-    .defer(d3.tsv, "data/world-country-names.tsv")
-    .defer(d3.json, "authors.json")
-    .defer(d3.json, "lastauthor.json")
-    .defer(d3.json, "funding.json")
-    .defer(d3.json, "firstauthor.json")
-    .defer(d3.json, "focalspecies.json")
+    .defer(d3.json, "plantgenmap/data/world-50m.json")
+    .defer(d3.tsv, "plantgenmap/data/world-country-names.tsv")
+    .defer(d3.json, "plantgenmap/authors.json")
+    .defer(d3.json, "plantgenmap/lastauthor.json")
+    .defer(d3.json, "plantgenmap/funding.json")
+    .defer(d3.json, "plantgenmap/firstauthor.json")
+    .defer(d3.json, "plantgenmap/focalspecies.json")
     .await(ready);
 
 function ready(error, world, names, authors, lastauthor, funding, firstauthor, focalspecies) {
@@ -888,7 +818,7 @@ var spectable = specside_table.append('table').attr('class', 'table');
   var  speclinkDistance = 60;
   
 
-  d3.json(folderpath + country +".json", function(error, graph) {
+  d3.json('plantgenmap/' + folderpath + country +".json", function(error, graph) {
    
     var force_graph_data; 
   
@@ -1146,7 +1076,7 @@ var text = side_graph.selectAll('.text')
 
 
 })//other field data
-d3.json(specfolderpath + country + ".json", function(error2, graph2){
+d3.json('plantgenmap/' +specfolderpath + country + ".json", function(error2, graph2){
 
   var specforce_graph_data;
 
@@ -1347,4 +1277,3 @@ return 2;
 
 }//ready
 }])
-</script>

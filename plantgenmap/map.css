@@ -1,0 +1,88 @@
+.twitterviewbox {
+  padding-left: 100px
+}
+
+th { text-align: left; }
+    th, td { padding: 0 1em 0.5ex 0;}
+    th.center, td.center { text-align: center; }
+    th.num, td.num { text-align: right; }
+.highlight {
+  fill-opacity: 1;
+}
+
+#table1, #table2 {
+  position : fixed;
+}
+
+#link-table {
+  overflow : scroll;
+   height : 94px;
+}
+
+#speclink-table{
+  overflow : scroll;
+  height : 94px;
+}
+
+path.link {
+  fill: none;
+  stroke: #666;
+  stroke-opacity: .3; 
+}
+#mapbody { 
+
+  font-size: 10px ; 
+  margin: 2em; 
+}
+#otherbody {
+  margin: 2em; 
+  background: #f3f3f3; 
+}
+#map1 {
+  border:2px solid #000;
+  width:800px;
+  height:500px;
+}
+#map2 {
+  border:2px solid #000;
+  width:800px;
+  height:500px;
+}
+#sidebox{
+  border:2px solid #000;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#specsidebox{
+  border:2px solid #000;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.country {
+  fill: #ccc;
+  stroke: #fff;
+  stroke-width: .1px;
+  stroke-linejoin: round;
+}
+
+.hidden { 
+  display: none; 
+}
+div.tooltip {
+  color: #222; 
+  background: #fff; 
+  padding: .5em; 
+  text-shadow: #f5f5f5 0 1px 0;
+  border-radius: 2px; 
+  box-shadow: 0px 0px 2px 0px #a6a6a6; 
+  opacity: 0.9; 
+  position: absolute;
+}
+.point {
+  fill: #000; 
+  opacity: 0.5; 
+}
+
+.mapnode {
+  pointer-events: all
+}

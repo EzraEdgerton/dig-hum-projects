@@ -1,125 +1,13 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <title>Twitter Statistics</title>
-  <meta charset="utf-8" />
- <link rel="stylesheet" href="/ext/css/d3.slider.css"/>  
- <link rel="stylesheet" href="/ext/css/bootstrap.min.css"/>  
-  <link rel="stylesheet" href="/ext/css/dc.css"/> 
-      <link rel="stylesheet" href="twitter.css"/> 
 
- 
-</head>
-<body ng-app="twitterstuff">
-  <div class='container-fluid'>
-    <div ng-controller="twitterselect">
-
-
-
- 
-      <div class='row'>
-        <div class='col-lg-12 '>
-        <h1 style='font-family: Helvetica'>
-      Overall Twitter Statistics View
-        </h1>
-        </div>
-      </div>
-      <div class='row'>
-       <div class='col-lg-12'>
-        <div id="graph"></div>
-        </div>
-      </div>
-    <div class= 'row'>
-      <div class='col-lg-6'>
-         <div class='dc-data-count' style='float:left'>
-            <h6>
-            <span>
-            <span class="filter-count"></span>
-             selected out of 
-            <span class="total-count"></span>
-             records | 
-            <a href="javascript:dc.filterAll(); dc.renderAll()" ng-click="changeTagLabels()">Reset All</a>
-          </span>
-           </h6>
-         </div>
-    </div>
-    </div>
-    <div class='row'>
-      <div class="col-lg-2 chart-text  {fill: black;}" id="group-chart">
-        <strong>Hashtag Frequency</strong>
-        <a class="reset" href="javascript:groupChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
-
-        <div class="clearfix"></div>
-      </div>
-    <div class='col-lg-10'>
-
-           <div class="row">
-          <div class="col-lg-12" id="move-chart">
-              <strong>Hashtag Frequency/Time chart</strong>
-              <span class="reset" style="display: none;">range: <span class="filter"></span></span>
-              <a class="reset" href="javascript:moveChart.filterAll();volumeChart.filterAll();dc.redrawAll();"
-                 style="display: none;">reset</a>
-
-              <div class="clearfix"></div>
-          </div>
-      </div>
-
-
-      <div class="row">
-          <div class="col-lg-12" id="volume-chart">
-          </div>
-
-      </div>
-
-  <div class="row">
-
-    <div class='col-lg-6' id="retweet-chart" style="padding-left: 40px">
-        <strong>Retweeted vs Original Tweets</strong>
-        <a class="reset" href="javascript:retweetedChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
-
-        <div class="clearfix"></div>
-    </div>
-    <div class="col-lg-6" id="day-of-week-chart">
-        <strong>Day of Week</strong>
-        <a class="reset" href="javascript:dayOfWeekChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
-
-        <div class="clearfix"></div>
-    </div>
-
-    </div>
-
-
-</div>
-      
-</div>
-
-      
-    
-    
-    <script src="/ext/angular.js"></script>
-    <script src="/ext/d3.v3.min.js"></script>
-    <script src="/ext/crossfilter.js"></script>
-     <script src="/ext/dc.js"></script>
-   
-    <script src="/ext/jquery.min.js"></script>
-    <script src="/ext/d3.slider.js"></script>
-    <script src="/ext/bootstrap.min.js"></script>
   
+  dighumApp.controller('basicnovdecController',['$scope', function($scope){
 
-
-
-  <script>
 
   var volumeChart = dc.barChart('#volume-chart');
   var dayOfWeekChart = dc.rowChart('#day-of-week-chart');
   var groupChart = dc.rowChart('#group-chart');
   var retweetedChart = dc.pieChart('#retweet-chart');
   var moveChart = dc.lineChart('#move-chart');
-  var termiteTopics = angular.module('twitterstuff', [], function($locationProvider) {
-    $locationProvider.html5Mode(true);
-  });
-
-  termiteTopics.controller('twitterselect',['$scope', function($scope){
 
   var width = 1000
   var height = 1000
@@ -141,7 +29,7 @@
 var parseDate = d3.time.format('%a %b %d %X +0000 %Y')//.parse();
 
 
-  d3.json('basic_stats/aug.json', function(error,graph){
+  d3.json('twitter-network-creator/basic-stats/basic_stats/novdec.json', function(error,graph){
     console.log(graph.stats[0].tags)
 
     graph.stats.forEach(function(d){
@@ -276,7 +164,7 @@ var tagGroupArray = [];
 
     moveChart 
         .renderArea(true)
-        .width(990)
+        .width(820)
         .height(250)
         .transitionDuration(1000)
         .margins({top: 30, right: 50, bottom: 25, left: 40})
@@ -284,7 +172,7 @@ var tagGroupArray = [];
         .mouseZoomable(true)
     // Specify a "range chart" to link its brush extent with the zoom of the current "focus chart".
         .rangeChart(volumeChart)
-        .x(d3.time.scale().domain([new Date(2014, 7, 9), new Date(2014, 7, 24)]))
+        .x(d3.time.scale().domain([new Date(2014, 10, 22), new Date(2014, 11, 9)]))
        // .round(d3.time.hours.round)
         .xUnits(d3.time.hours)
         .elasticY(true)
@@ -315,14 +203,14 @@ tagGroupArray.shift()
     })
 
 
-    volumeChart.width(990) 
+    volumeChart.width(820) 
         .height(50)
         .margins({top: 0, right: 50, bottom: 20, left: 40})
         .dimension(dateDimension)
         .group(dateGroup)
         .centerBar(true)
         .gap(1)
-        .x(d3.time.scale().domain([new Date(2014, 7, 9), new Date(2014, 7, 24)]))
+        .x(d3.time.scale().domain([new Date(2014, 10, 22), new Date(2014, 11, 9)]))
         .round(d3.time.hours.round)
        // .alwaysUseRounding(true)
         .xUnits(d3.time.hours)
@@ -464,9 +352,3 @@ tagGroupArray.shift()
 
 
   }]);
-  </script>
-
-
-
-</body>
-</html>

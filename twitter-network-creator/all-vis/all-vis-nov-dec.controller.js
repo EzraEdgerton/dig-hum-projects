@@ -1,95 +1,6 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <title>Day Network</title>
-  <meta charset="utf-8" />
- <link rel="stylesheet" href="/ext/css/d3.slider.css"/>  
- <link rel="stylesheet" href="/ext/css/bootstrap.min.css"/>  
-  <link rel="stylesheet" href="/ext/css/dc.css"/> 
-      <link rel="stylesheet" href="twitter.css"/> 
-
- 
-</head>
-<body ng-app="twitterstuff">
-  <div class='container-fluid'>
-    <div ng-controller="twitterselect">
 
 
-
- 
-      <div class='row'>
-        <div class='col-lg-12 '>
-        <h1 style='font-family: Helvetica'>
-        Post Michael Brown Shooting Twitter Networks
-        </h1>
-        </div>
-      </div>
-
-      <div class='row'>
-    
-      </div>
-
-      
-
-
-      
-      <div class='row'>
-          <div class='col-lg-6'>
-          <h6>Change Day</h6>
-              <select ng-model="day" ng-options="m for m in days" ng-change="viz()"></select>
-        </div>
-        <div class='col-lg-6'>
-         <div class='dc-data-count' style='float:left'>
-            <h6>
-            <span>
-            <span class="filter-count"></span>
-             selected out of 
-            <span class="total-count"></span>
-             records | 
-            <a href="javascript:dc.filterAll(); dc.renderAll()" ng-click="resetNodeMap()">Reset All</a>
-          </span>
-           </h6>
-         </div>
-        </div>
-      </div>
-    <div class="row">
-         <div class='col-lg-12' id='dc-depth-chart'>
-           <h5 style="float:center">Tweets by hour</h5>
-         </div>
-    </div>
-    <div class='row'>
-       <div class='col-lg-12'>
-        <div id="graph"></div>
-        </div>
-      </div>
-    <div class="row">
-     <div class='col-lg-12'>
-    <div id="network" ></div>
-    </div>
-    </div>
-    </div>
-  </div>
-    
-    <script src="/ext/angular.js"></script>
-    <script src="/ext/d3.v3.min.js"></script>
-    <script src="/ext/crossfilter.js"></script>
-     <script src="/ext/dc.js"></script>
-   
-    <script src="/ext/jquery.min.js"></script>
-    <script src="/ext/d3.slider.js"></script>
-    <script src="/ext/bootstrap.min.js"></script>
-  
-
-
-
-  <script>
-
-
-  var termiteTopics = angular.module('twitterstuff', [], function($locationProvider) {
-    $locationProvider.html5Mode(true);
-  });
-
-  termiteTopics.controller('twitterselect',['$scope', function($scope){
+  dighumApp.controller('allvisNovDec',['$scope', function($scope){
   var width = 1200,
       height = 1200,
       radius = 4,
@@ -100,10 +11,13 @@
 
   var color = d3.scale.category20();
   $scope.days=[]
-  for(var i = 9; i < 24; i++){
+  for(var i = 23; i < 31; i++){
     $scope.days.push(i)
   }
-  $scope.day = 9
+  for(var j = 1; j < 8; j++){
+    $scope.days.push(j)
+  }
+  $scope.day = 23
   var parseDate = d3.time.format("%a %b %d %X %Z %Y").parse;
   var origin = 220
   var slide_h = 150
@@ -119,14 +33,23 @@
 
  
   $scope.viz = function(){
+    console.log(d3.select('#svg_network'))
    d3.select('#svg_network').remove()
+    console.log(d3.select('#svg_network'))
    d3.select('#labelgraph').remove()
 
+function getMonth(day){
+  if(day < 10){
+    return 'dec'
+  }
+  else{
+    return 'nov'
+  }
+}
 
 
 
-
-d3.json("formatted_data/"+ $scope.day +".json", function(error, graph) {
+d3.json("twitter-network-creator/all-vis/formatted_data/"+ $scope.day + getMonth($scope.day) + ".json", function(error, graph) {
 
 var  numnodes = graph.nodes.length
 
@@ -159,7 +82,6 @@ var chargeCalc = function(num){
 }
 
 charge = chargeCalc(numnodes)
-console.log(charge)
 
 var force = d3.layout.force()
     .charge(charge)
@@ -220,7 +142,7 @@ depthChart.width(width - origin)
  
 depthChart.on('postRedraw', function(chart){
   extent = chart.brush().extent()
-  updateData(parseInt(Math.round(extent[0])), parseInt(Math.round(extent[1])))
+  $scope.updateData(parseInt(Math.round(extent[0])), parseInt(Math.round(extent[1])))
 })
 
  dc.renderAll();
@@ -450,9 +372,9 @@ function setClass(node, d, i){
   }
    
 $scope.resetNodeMap = function(){
-  updateData(0, 24)
+  $scope.updateData(0, 24)
 }
- var updateData = function(low, high){
+ $scope.updateData = function(low, high){
 
   svg.transition().duration(250).attr('display', function(d){
     var hour =  parseInt(d.time[0].slice(10, 13));
@@ -565,14 +487,9 @@ $scope.resetNodeMap = function(){
     });
 
    
-  });}
+  })//d3.json fetch
+;}//$scope.vis
 
 
   $scope.viz();
-  }]);
-  </script>
-
-
-
-</body>
-</html>
+  }]);//controller
