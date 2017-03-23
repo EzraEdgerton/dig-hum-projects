@@ -424,7 +424,7 @@ $scope.updateData = function(low, high){
             return   (len/20 + 2) * 13
               //  return d.text.length *70
               })
-    .style('color', "white")//function(d){return color[d.group[0]]})
+    .style('color', "black")//function(d){return color[d.group[0]]})
     .style('fill-opacity', 1)
     .style('display', 'none')
     .attr('class', 'tweettext')
