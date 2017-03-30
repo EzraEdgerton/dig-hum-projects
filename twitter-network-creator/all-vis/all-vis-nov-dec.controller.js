@@ -8,6 +8,8 @@
       linkDistance = 20;
     //linkDistance = 0.5714285714285714;
 
+$scope.nodeToggle = 2
+
 
   var color = d3.scale.category20();
   $scope.days=[]
@@ -53,6 +55,26 @@ d3.json("twitter-network-creator/all-vis/formatted_data/"+ $scope.day + getMonth
 
 var  numnodes = graph.nodes.length
 
+
+graph.nodes.forEach(function(d){
+d.linksnum = 0
+d.angles.forEach(function(i){
+  i.push(0)
+})
+ 
+})
+
+graph.links.forEach(function(d){
+  graph.nodes[d.source].linksnum++
+  graph.nodes[d.source].angles.forEach(function(s){
+    s[5]++
+  })
+ graph.nodes[d.target].linksnum++
+  graph.nodes[d.target].angles.forEach(function(t){
+    t[5]++
+  })
+
+})
 
 var chargeCalc = function(num){
   console.log(num);
@@ -245,6 +267,17 @@ var selectionrects = labelgroups.append('rect')
       .startAngle(function(d){return cScale(d[0]);})
       .endAngle(function(d){return cScale(d[1]);});
 
+   var arc3 = d3.svg.arc()
+      .innerRadius(0)
+      .outerRadius(function(d){ 
+          if(d[5] > 0){
+            return Math.sqrt(d[5]/Math.PI) * 8
+          }
+          return Math.sqrt(1/Math.PI) * 8
+        })
+      .startAngle(function(d){return cScale(d[0]);})
+      .endAngle(function(d){return cScale(d[1]);})
+
 
 
 
@@ -332,10 +365,18 @@ function setClass(node, d, i){
     console.log()
     var selnode = node.selectAll('path').transition()
     if (node.classed('big')){
+      if($scope.nodeToggle == 2){
        selnode
+      .duration(250)
+      .attr('d', arc3)
+      .style('opacity', 1);
+      }
+      else{
+      selnode
       .duration(250)
       .attr('d', arc)
       .style('opacity', 1);
+      }
     node.classed('small', true)
     node.classed('big', false)
      node.select('.tweetbox').transition()
@@ -370,6 +411,21 @@ function setClass(node, d, i){
         node.style('stroke-opacity', .3)
     node.select('.nametext').classed('hide', true)
   }
+
+$scope.toggleButton = function(nodesize){
+  $scope.nodeToggle = nodesize
+  var circles = d3.selectAll('path').transition()
+  if($scope.nodeToggle == 2){
+      circles
+     .duration(250)
+      .attr('d', arc3)
+  }
+  else{
+      circles
+     .duration(250)
+      .attr('d', arc)
+  } 
+}
    
 $scope.resetNodeMap = function(){
   $scope.updateData(0, 24)
@@ -388,11 +444,25 @@ $scope.resetNodeMap = function(){
 
   }
     
-  circle.data(function(d, i ){ return d.angles })
+
+if($scope.nodeToggle == 2){
+    circle.data(function(d, i ){ return d.angles })
                 .enter()
                 .append('path')
                 .attr('class', function(d){ return 'arccircle';})
-
+                .attr('d', arc3)
+                .style('fill', function(d, i){ return color(d[2])})
+                .style('opacity', 1)
+                .style('stroke', "black")
+                .style('stroke-opacity', .3)
+                .style('stroke-width', 1)
+                .attr("transform", 'translate(' + origin + ',' + origin + ')')
+  }
+  else{
+      circle.data(function(d, i ){ return d.angles })
+                .enter()
+                .append('path')
+                .attr('class', function(d){ return 'arccircle';})
                 .attr('d', arc)
                 .style('fill', function(d, i){ return color(d[2])})
                 .style('opacity', 1)
@@ -400,6 +470,7 @@ $scope.resetNodeMap = function(){
                 .style('stroke-opacity', .3)
                 .style('stroke-width', 1)
                 .attr("transform", 'translate(' + origin + ',' + origin + ')')
+  }
 
   svg.on('click', enlargeNode)
 

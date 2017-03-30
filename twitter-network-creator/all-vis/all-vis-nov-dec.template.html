@@ -50,6 +50,19 @@
         <div id="graph"></div>
         </div>
       </div>
+        <div class='row'>
+    <div class='col-lg-12'>
+        <h5>Toggle Node Size By:</h5>
+        <div class="btn-group" data-toggle="buttons">
+          <label class="btn btn-primary" ng-click='toggleButton(1)'>
+            <input type="radio" name="options"  id="option1" > Tweets
+          </label>
+          <label class="btn btn-primary active" ng-click='toggleButton(2)'>
+            <input type="radio" name="options"  id="option2" checked> Links
+          </label>
+        </div>
+      </div>
+    </div>
     <div class="row">
      <div class='col-lg-12'>
     <div id="network" ></div>
