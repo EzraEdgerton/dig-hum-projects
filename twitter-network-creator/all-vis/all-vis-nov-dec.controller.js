@@ -20,7 +20,7 @@ $scope.nodeToggle = 2
     $scope.days.push(j)
   }
   $scope.day = 23
-  var parseDate = d3.time.format("%a %b %d %X %Z %Y").parse;
+ var parseDate = d3.time.format('%a %b %d %X +0000 %Y')//.parse();
   var origin = 220
   var slide_h = 150
   
@@ -125,9 +125,10 @@ force
 
   graph.nodes.forEach(function(node){
     node.hour = parseInt(node.time[0].slice(10, 13)) 
-    node.time.forEach(function(tim){
-      tim = parseDate(tim);
-    })
+   for(var i = 0; i < node.time.length; i++){
+      node.time[i] = parseDate.parse(node.time[i])
+      node.time[i] = d3.time.hour(node.time[i])
+    }
   })
 
   var svg_labels = d3.select("#graph").append("svg")
@@ -142,7 +143,9 @@ var depthChart = dc.barChart("#dc-depth-chart");
 
 
   var hourValue = facts.dimension(function(d){
-    return  d.hour
+        var ret = d3.time.hour(d.time[0])
+      //console.log(ret)
+      return ret
   })
   var hourValueGroup = hourValue.group()
 
@@ -150,6 +153,11 @@ var depthChart = dc.barChart("#dc-depth-chart");
     .dimension(facts)
     .group(all);
 
+var month = 10
+
+if($scope.day < 20){
+  month = 11
+}
 
 depthChart.width(width - origin)
     .height(slide_h)
@@ -159,12 +167,16 @@ depthChart.width(width - origin)
   .transitionDuration(500)
     .centerBar(true)  
   .gap(1)  
-    .x(d3.scale.linear().domain([-.5, 23.5]))
+    .x(d3.time.scale().domain([new Date(2014, month, $scope.day, 6), new Date(2014, month, $scope.day + 1, 6)]))
+    .round(d3.time.hours.round)
+       // .alwaysUseRounding(true)
+      .xUnits(d3.time.hours)
   .elasticY(true)
  
 depthChart.on('postRedraw', function(chart){
   extent = chart.brush().extent()
-  $scope.updateData(parseInt(Math.round(extent[0])), parseInt(Math.round(extent[1])))
+  
+   $scope.updateData(extent[0], extent[1])
 })
 
  dc.renderAll();
@@ -428,12 +440,16 @@ $scope.toggleButton = function(nodesize){
 }
    
 $scope.resetNodeMap = function(){
-  $scope.updateData(0, 24)
+  $scope.updateData(new Date(2014, 7, $scope.day, 5), new Date(2014, 7, $scope.day + 1, 6))
 }
  $scope.updateData = function(low, high){
+  low = new Date(low.getFullYear(), low.getMonth(), low.getDate(), low.getHours())
+  high = new Date(high.getFullYear(), high.getMonth(), high.getDate(), high.getHours())
 
   svg.transition().duration(250).attr('display', function(d){
-    var hour =  parseInt(d.time[0].slice(10, 13));
+
+    var hour = d.time[0]
+    
     if(hour < low || hour > high){
       return 'none';
     }
