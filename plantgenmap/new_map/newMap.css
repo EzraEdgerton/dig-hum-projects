@@ -1,0 +1,44 @@
+path.link {
+  			fill: none;
+}
+.hidden { 
+  display: none; 
+}
+.zhidden { 
+  display: none; 
+}
+#map{
+	 border:2px solid #000;
+}
+div.tooltip {
+  color: #222; 
+  background: #fff; 
+  padding: .5em; 
+  text-shadow: #f5f5f5 0 1px 0;
+  border-radius: 2px; 
+  box-shadow: 0px 0px 2px 0px #a6a6a6; 
+  opacity: 0.9; 
+  position: absolute;
+}
+.point {
+  fill: #000; 
+  opacity: 0.5; 
+}
+
+.node {
+  pointer-events: all
+}
+.restore_button_active{
+	cursor: pointer;
+	opacity: .7;
+}
+.restore_button_active:hover{
+	opacity: 1;
+}
+.restore_button_inactive{
+	opacity: .1;
+}
+
+#spec_options {
+}
+

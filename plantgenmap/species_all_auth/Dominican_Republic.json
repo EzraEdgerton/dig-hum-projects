@@ -1,0 +1,571 @@
+{
+    "field": "species_all_auth", 
+    "nodes": [
+        {
+            "index": 12, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.68192453, 
+                    24.45991732
+                ]
+            }, 
+            "properties": {
+                "name": "Bahamas", 
+                "nameofficial": "Commonwealth of the Bahamas"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 12
+        }, 
+        {
+            "index": 18, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -88.01424956, 
+                    17.21153631
+                ]
+            }, 
+            "properties": {
+                "name": "Belize", 
+                "nameofficial": "Belize"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 18
+        }, 
+        {
+            "index": 41, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.00064743, 
+                    21.54513189
+                ]
+            }, 
+            "properties": {
+                "name": "Cuba", 
+                "nameofficial": "Republic of Cuba"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 41
+        }, 
+        {
+            "index": 47, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -61.370974, 
+                    15.41473963
+                ]
+            }, 
+            "properties": {
+                "name": "Dominica", 
+                "nameofficial": "Commonwealth of Dominica"
+            }, 
+            "score": 2, 
+            "type": "Feature", 
+            "id": 47
+        }, 
+        {
+            "index": 48, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -70.162649, 
+                    18.73076761
+                ]
+            }, 
+            "properties": {
+                "name": "Dominican Republic", 
+                "nameofficial": "Dominican Republic"
+            }, 
+            "score": 2, 
+            "type": "Feature", 
+            "id": 48
+        }, 
+        {
+            "index": 70, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -72.79607526, 
+                    19.07430861
+                ]
+            }, 
+            "properties": {
+                "name": "Haiti", 
+                "nameofficial": "Republic of Haiti"
+            }, 
+            "score": 2, 
+            "type": "Feature", 
+            "id": 70
+        }, 
+        {
+            "index": 80, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.297506, 
+                    18.10838487
+                ]
+            }, 
+            "properties": {
+                "name": "Jamaica", 
+                "nameofficial": "Jamaica"
+            }, 
+            "score": 2, 
+            "type": "Feature", 
+            "id": 80
+        }, 
+        {
+            "index": 106, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.33305344, 
+                    22.92036676
+                ]
+            }, 
+            "properties": {
+                "name": "Mexico", 
+                "nameofficial": "United Mexican States"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 106
+        }, 
+        {
+            "index": 205, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -69.02160369, 
+                    12.20710309
+                ]
+            }, 
+            "properties": {
+                "name": "Cura\u00e7ao", 
+                "nameofficial": "Cura\u00e7ao"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 205
+        }, 
+        {
+            "index": 239, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.79654471, 
+                    21.72816866
+                ]
+            }, 
+            "properties": {
+                "name": "Turks And Caicos Islands", 
+                "nameofficial": "Turks And Caicos Islands"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 239
+        }, 
+        {
+            "index": 243, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    177.98631092, 
+                    19.46305694
+                ]
+            }, 
+            "properties": {
+                "name": "United States Minor Outlying Islands", 
+                "nameofficial": "United States Minor Outlying Islands"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 243
+        }, 
+        {
+            "index": 244, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }, 
+            "score": 2, 
+            "type": "Feature", 
+            "id": 244
+        }
+    ], 
+    "links": [
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 11
+        }, 
+        {
+            "source": 4, 
+            "score": 4, 
+            "target": 6
+        }, 
+        {
+            "source": 9, 
+            "score": 1, 
+            "target": 9
+        }, 
+        {
+            "source": 11, 
+            "score": 4, 
+            "target": 5
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 11
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 6, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 1, 
+            "score": 1, 
+            "target": 1
+        }, 
+        {
+            "source": 7, 
+            "score": 1, 
+            "target": 7
+        }, 
+        {
+            "source": 10, 
+            "score": 1, 
+            "target": 10
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 8
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 4, 
+            "score": 4, 
+            "target": 3
+        }, 
+        {
+            "source": 7, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 10, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 7, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 5, 
+            "score": 4, 
+            "target": 6
+        }, 
+        {
+            "source": 10, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 11, 
+            "score": 4, 
+            "target": 6
+        }, 
+        {
+            "source": 7, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 7, 
+            "score": 2, 
+            "target": 11
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 3, 
+            "score": 4, 
+            "target": 6
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 5, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 5, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 11, 
+            "score": 4, 
+            "target": 4
+        }, 
+        {
+            "source": 11, 
+            "score": 4, 
+            "target": 3
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 5, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 9
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 8
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 11
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 9
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 4, 
+            "score": 4, 
+            "target": 5
+        }, 
+        {
+            "source": 7, 
+            "score": 2, 
+            "target": 9
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 0, 
+            "score": 1, 
+            "target": 0
+        }, 
+        {
+            "source": 7, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 7, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 2, 
+            "score": 1, 
+            "target": 2
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 7, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 7, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 8, 
+            "score": 1, 
+            "target": 8
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 3, 
+            "score": 4, 
+            "target": 5
+        }
+    ]
+}

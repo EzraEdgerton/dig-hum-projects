@@ -23,7 +23,7 @@ angular.
           templateUrl : "twitter-network-creator/basic-stats/basic-nov-dec.template.html"
         }).
         when('/plant-gen-map', {
-          templateUrl : "plantgenmap/map.template.html"
+          templateUrl : "plantgenmap/new_map.template.html"
         }).
         otherwise('/');
     }

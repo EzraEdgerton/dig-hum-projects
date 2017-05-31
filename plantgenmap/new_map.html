@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>PlantGen World Map</title>
+	<link rel="stylesheet" href="/ext/css/bootstrap.min.css"/> 
+	<link rel="stylesheet" href="/new_map/newMap.css"/> 
+	<style>
+		
+	</style>
+</head>
+<body>
+<body ng-app="newMapApp">
+	<div ng-controller="newMapController" class='container-fluid'>
+		<div class='row'>
+			<div class='col-lg-12'>
+				<h1>Plant Genetics Authors and Species Map</h1>
+			</div>
+		</div>
+		<div class='row' style='padding-right: 10px'>
+			<div class='col-lg-7'>
+				<div id='labels'></div>
+			</div>
+			<div class = 'col-lg-5' id='spec_options'>
+			<div>
+			
+				<div class='col-lg-6' style='padding-right: 0px' >
+				<h5 style='font-weight: bold'>Choose Species Data Options</h5>
+				<label>All Species : 
+   			 <input type="checkbox" ng-model="spec_authors[0][1]" ng-click='spec_select(0)'>
+  			</label>
+				<label>All Authors  : 
+   			 <input type="checkbox" ng-model="spec_authors[1][1]" ng-click='spec_select(1)'>
+  			</label>
+  			<label>First Author:
+    		<input type="checkbox" ng-model="spec_authors[2][1]" ng-click='spec_select(2)'>
+   			</label>
+   			<label>Last Author:
+    		<input type="checkbox" ng-model="spec_authors[3][1]" ng-click='spec_select(3)'>
+   			</label>
+				</div>
+				<div class='col-lg-6' style="padding-top: 15px; padding-left:0px; padding-right:0px">
+				 <label for="repeatSelect">Country: </label>
+    			<select ng-model="spec_selected_country"
+    					ng-options="country for country in cur_spec_ar">
+    			</select>
+	    			<div class='row'>
+		    			<div class='col-lg-12' style='text-align: center;'>
+		    			<button type='button' class="btn btn-secondary" ng-click="select_spec_country()">Load Species</button>
+		    			</div>
+	    			</div>
+				</div>
+				</div>
+			</div>
+		</div>
+		<div class='row'>
+
+		</div>
+
+		<div class='row'>
+			<div class='col-lg-12'>
+			<div style='padding-top: 10px; padding-bottom: 10px;' >
+				<div id='map' style='width:1205px; height:605px'></div>
+			</div>
+			<p>Note: species values are adjusted to fit maps, and are not related in size to other values</p>
+			</div>
+
+		</div>
+	</div>
+<script src="js/d3.v3.min.js"></script>
+<script src="js/queue.v1.min.js"></script>
+<script src="js/topojson.js"></script>
+<script src="js/angular.min.js"></script>
+<script src="js/jquery.min.js"></script>
+<script src='ext/bootstrap.min.js'></script>
+<script src='new_map/mapUtils.js'></script>
+<script src='new_map/newMap.js'></script>
+
+</body>
+</html>

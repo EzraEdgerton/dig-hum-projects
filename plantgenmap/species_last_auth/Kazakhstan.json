@@ -1,0 +1,1778 @@
+{
+    "field": "species_last_auth", 
+    "nodes": [
+        {
+            "index": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    66.39159363, 
+                    33.98299275
+                ]
+            }, 
+            "properties": {
+                "name": "Afghanistan", 
+                "nameofficial": "Islamic Republic of Afghanistan"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 1
+        }, 
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -64.97897469, 
+                    -38.01529308
+                ]
+            }, 
+            "properties": {
+                "name": "Argentina", 
+                "nameofficial": "Argentine Republic"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 7
+        }, 
+        {
+            "index": 8, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    45.01072318, 
+                    40.13475528
+                ]
+            }, 
+            "properties": {
+                "name": "Armenia", 
+                "nameofficial": "Republic of Armenia"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 8
+        }, 
+        {
+            "index": 9, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    133.55540944, 
+                    -26.29594646
+                ]
+            }, 
+            "properties": {
+                "name": "Australia", 
+                "nameofficial": "Australia"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 9
+        }, 
+        {
+            "index": 45, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    9.41938953, 
+                    54.71794021
+                ]
+            }, 
+            "properties": {
+                "name": "Denmark", 
+                "nameofficial": "Kingdom of Denmark"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 45
+        }, 
+        {
+            "index": 58, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 58
+        }, 
+        {
+            "index": 61, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    44.17329916, 
+                    41.82754301
+                ]
+            }, 
+            "properties": {
+                "name": "Georgia", 
+                "nameofficial": "Georgia"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 61
+        }, 
+        {
+            "index": 62, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.97887975, 
+                    50.82871201
+                ]
+            }, 
+            "properties": {
+                "name": "Germany", 
+                "nameofficial": "Federal Republic of Germany"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 62
+        }, 
+        {
+            "index": 76, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    43.19590056, 
+                    32.90170182
+                ]
+            }, 
+            "properties": {
+                "name": "Iraq", 
+                "nameofficial": "Republic of Iraq"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 76
+        }, 
+        {
+            "index": 78, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.91753797, 
+                    30.85883075
+                ]
+            }, 
+            "properties": {
+                "name": "Israel", 
+                "nameofficial": "State of Israel"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 78
+        }, 
+        {
+            "index": 79, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.67725128, 
+                    41.7781084
+                ]
+            }, 
+            "properties": {
+                "name": "Italy", 
+                "nameofficial": "Republic of Italy"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 79
+        }, 
+        {
+            "index": 82, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    36.3757551, 
+                    31.31616588
+                ]
+            }, 
+            "properties": {
+                "name": "Jordan", 
+                "nameofficial": "Hashemite Kingdom of Jordan"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 82
+        }, 
+        {
+            "index": 90, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.66454309, 
+                    34.08249284
+                ]
+            }, 
+            "properties": {
+                "name": "Lebanon", 
+                "nameofficial": "Lebanese Republic"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 90
+        }, 
+        {
+            "index": 123, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    70.34487986, 
+                    29.90335974
+                ]
+            }, 
+            "properties": {
+                "name": "Pakistan", 
+                "nameofficial": "Islamic Republic of Pakistan"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 123
+        }, 
+        {
+            "index": 130, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.33190957, 
+                    52.10117636
+                ]
+            }, 
+            "properties": {
+                "name": "Poland", 
+                "nameofficial": "Republic of Poland"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 130
+        }, 
+        {
+            "index": 142, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    42.88190638, 
+                    24.16687314
+                ]
+            }, 
+            "properties": {
+                "name": "Saudi Arabia", 
+                "nameofficial": "Kingdom of Saudi Arabia"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 142
+        }, 
+        {
+            "index": 153, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.67089492, 
+                    39.87299401
+                ]
+            }, 
+            "properties": {
+                "name": "Spain", 
+                "nameofficial": "Kingdom of Spain"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 153
+        }, 
+        {
+            "index": 159, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    8.227512, 
+                    46.81010721
+                ]
+            }, 
+            "properties": {
+                "name": "Switzerland", 
+                "nameofficial": "Swiss Confederation"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 159
+        }, 
+        {
+            "index": 160, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    38.66723516, 
+                    34.7109743
+                ]
+            }, 
+            "properties": {
+                "name": "Syria", 
+                "nameofficial": "Syrian Arab Republic"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 160
+        }, 
+        {
+            "index": 168, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    36.28703317, 
+                    38.27069555
+                ]
+            }, 
+            "properties": {
+                "name": "Turkey", 
+                "nameofficial": "Republic of Turkey"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 168
+        }, 
+        {
+            "index": 173, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    53.62261227, 
+                    24.64324405
+                ]
+            }, 
+            "properties": {
+                "name": "United Arab Emirates", 
+                "nameofficial": "United Arab Emirates"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 173
+        }, 
+        {
+            "index": 180, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    30.18758584, 
+                    -19.00784952
+                ]
+            }, 
+            "properties": {
+                "name": "Zimbabwe", 
+                "nameofficial": "Republic of Zimbabwe"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 180
+        }, 
+        {
+            "index": 244, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.3925645, 
+                    37.66895362
+                ]
+            }, 
+            "properties": {
+                "name": "United States", 
+                "nameofficial": "United States of America"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 244
+        }
+    ], 
+    "links": [
+        {
+            "source": 19, 
+            "score": 2, 
+            "target": 14
+        }, 
+        {
+            "source": 14, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 19
+        }, 
+        {
+            "source": 16, 
+            "score": 2, 
+            "target": 19
+        }, 
+        {
+            "source": 4, 
+            "score": 1, 
+            "target": 4
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 19
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 12
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 18
+        }, 
+        {
+            "source": 10, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 22, 
+            "score": 1, 
+            "target": 22
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 17, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 14
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 17, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 22
+        }, 
+        {
+            "source": 5, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 12, 
+            "score": 2, 
+            "target": 14
+        }, 
+        {
+            "source": 16, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 18
+        }, 
+        {
+            "source": 14, 
+            "score": 2, 
+            "target": 17
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 15, 
+            "score": 1, 
+            "target": 15
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 14, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 14, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 17
+        }, 
+        {
+            "source": 2, 
+            "score": 1, 
+            "target": 2
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 16, 
+            "score": 2, 
+            "target": 11
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 12, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 16, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 16, 
+            "score": 1, 
+            "target": 16
+        }, 
+        {
+            "source": 12, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 9
+        }, 
+        {
+            "source": 17, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 14
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 8
+        }, 
+        {
+            "source": 8, 
+            "score": 1, 
+            "target": 8
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 22, 
+            "score": 2, 
+            "target": 19
+        }, 
+        {
+            "source": 12, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 22, 
+            "score": 2, 
+            "target": 12
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 9
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 22
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 9
+        }, 
+        {
+            "source": 14, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 7, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 17
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 15, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 7, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 16
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 16
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 19, 
+            "score": 2, 
+            "target": 17
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 16, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 17
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 17
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 14
+        }, 
+        {
+            "source": 13, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 10, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 17
+        }, 
+        {
+            "source": 16, 
+            "score": 2, 
+            "target": 12
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 9, 
+            "score": 1, 
+            "target": 9
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 14, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 22, 
+            "score": 2, 
+            "target": 11
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 6, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 7, 
+            "score": 1, 
+            "target": 7
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 22
+        }, 
+        {
+            "source": 6, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 14
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 11
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 12, 
+            "score": 2, 
+            "target": 17
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 10, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 19, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 17, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 19, 
+            "score": 2, 
+            "target": 12
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 16
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 11
+        }, 
+        {
+            "source": 22, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 17, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 22, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 17
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 19, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 19, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 16, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 16, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 22, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 16, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 16, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 14, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 16, 
+            "score": 2, 
+            "target": 14
+        }, 
+        {
+            "source": 12, 
+            "score": 1, 
+            "target": 12
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 11
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 14, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 12
+        }, 
+        {
+            "source": 7, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 7, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 12, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 12, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 5, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 22, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 12, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 11, 
+            "score": 1, 
+            "target": 11
+        }, 
+        {
+            "source": 20, 
+            "score": 1, 
+            "target": 20
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 22, 
+            "score": 2, 
+            "target": 16
+        }, 
+        {
+            "source": 17, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 16, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 12
+        }, 
+        {
+            "source": 19, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 17, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 22, 
+            "score": 2, 
+            "target": 17
+        }, 
+        {
+            "source": 13, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 14, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 19
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 14, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 12, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 1, 
+            "score": 1, 
+            "target": 1
+        }, 
+        {
+            "source": 12, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 7, 
+            "score": 2, 
+            "target": 17
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 14
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 15, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 5, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 18, 
+            "score": 1, 
+            "target": 18
+        }, 
+        {
+            "source": 7, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 19
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 16
+        }, 
+        {
+            "source": 19, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 12
+        }, 
+        {
+            "source": 19, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 18
+        }, 
+        {
+            "source": 19, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 17
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 19
+        }, 
+        {
+            "source": 19, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 22, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 14
+        }, 
+        {
+            "source": 21, 
+            "score": 1, 
+            "target": 21
+        }, 
+        {
+            "source": 5, 
+            "score": 1, 
+            "target": 5
+        }, 
+        {
+            "source": 22, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 17, 
+            "score": 1, 
+            "target": 17
+        }, 
+        {
+            "source": 12, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 14, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 19, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 15, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 22, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 19
+        }, 
+        {
+            "source": 5, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 11
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 0, 
+            "score": 1, 
+            "target": 0
+        }, 
+        {
+            "source": 22, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 22, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 14
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 16, 
+            "score": 2, 
+            "target": 17
+        }, 
+        {
+            "source": 22, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 22, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 17
+        }, 
+        {
+            "source": 22, 
+            "score": 2, 
+            "target": 14
+        }, 
+        {
+            "source": 16, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 11
+        }, 
+        {
+            "source": 19, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 12, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 9
+        }, 
+        {
+            "source": 13, 
+            "score": 1, 
+            "target": 13
+        }, 
+        {
+            "source": 16, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 19, 
+            "score": 1, 
+            "target": 19
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 22
+        }, 
+        {
+            "source": 14, 
+            "score": 1, 
+            "target": 14
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 17
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 20
+        }, 
+        {
+            "source": 11, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 8, 
+            "score": 2, 
+            "target": 12
+        }, 
+        {
+            "source": 3, 
+            "score": 1, 
+            "target": 3
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 16
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 22
+        }, 
+        {
+            "source": 19, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 10, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 7, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 18, 
+            "score": 2, 
+            "target": 12
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 12, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 7, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 5, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 20, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 6, 
+            "score": 1, 
+            "target": 6
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 10, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 16, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 5, 
+            "score": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 10, 
+            "score": 1, 
+            "target": 10
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 21, 
+            "score": 2, 
+            "target": 20
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 6, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 9, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 6, 
+            "score": 2, 
+            "target": 2
+        }
+    ]
+}

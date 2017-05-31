@@ -1,0 +1,29 @@
+{
+    "field": "species_all_auth", 
+    "nodes": [
+        {
+            "index": 58, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.60926281, 
+                    46.48372145
+                ]
+            }, 
+            "properties": {
+                "name": "France", 
+                "nameofficial": "French Republic"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 58
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "score": 1, 
+            "target": 0
+        }
+    ]
+}

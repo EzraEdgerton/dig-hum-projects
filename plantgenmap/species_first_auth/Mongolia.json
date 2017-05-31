@@ -1,0 +1,214 @@
+{
+    "field": "species_first_auth", 
+    "nodes": [
+        {
+            "index": 35, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    103.55819197, 
+                    36.7145744
+                ]
+            }, 
+            "properties": {
+                "name": "China", 
+                "nameofficial": "People's Republic of China"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 35
+        }, 
+        {
+            "index": 81, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    137.67066061, 
+                    37.51848822
+                ]
+            }, 
+            "properties": {
+                "name": "Japan", 
+                "nameofficial": "Japan"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 81
+        }, 
+        {
+            "index": 83, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    68.81334444, 
+                    45.38592596
+                ]
+            }, 
+            "properties": {
+                "name": "Kazakhstan", 
+                "nameofficial": "Republic of Kazakhstan"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 83
+        }, 
+        {
+            "index": 87, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    74.25524574, 
+                    41.11509878
+                ]
+            }, 
+            "properties": {
+                "name": "Kyrgyzstan", 
+                "nameofficial": "Kyrgyz Republic"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 87
+        }, 
+        {
+            "index": 108, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    104.30808978, 
+                    46.8055627
+                ]
+            }, 
+            "properties": {
+                "name": "Mongolia", 
+                "nameofficial": "Mongolia"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 108
+        }, 
+        {
+            "index": 134, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    102.41837137, 
+                    57.96812298
+                ]
+            }, 
+            "properties": {
+                "name": "Russia", 
+                "nameofficial": "Russian Federation"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 134
+        }
+    ], 
+    "links": [
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 2, 
+            "score": 1, 
+            "target": 2
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 1, 
+            "score": 1, 
+            "target": 1
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 3, 
+            "score": 1, 
+            "target": 3
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 5, 
+            "score": 1, 
+            "target": 5
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 0, 
+            "score": 1, 
+            "target": 0
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 4, 
+            "score": 1, 
+            "target": 4
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 2
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "field": "species_last_auth", 
+    "nodes": [
+        {
+            "index": 7, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -64.97897469, 
+                    -38.01529308
+                ]
+            }, 
+            "properties": {
+                "name": "Argentina", 
+                "nameofficial": "Argentine Republic"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 7
+        }, 
+        {
+            "index": 30, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.6983315, 
+                    60.36196817
+                ]
+            }, 
+            "properties": {
+                "name": "Canada", 
+                "nameofficial": "Canada"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 30
+        }, 
+        {
+            "index": 34, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.40014474, 
+                    -38.0176079
+                ]
+            }, 
+            "properties": {
+                "name": "Chile", 
+                "nameofficial": "Republic of Chile"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 34
+        }
+    ], 
+    "links": [
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 2, 
+            "score": 1, 
+            "target": 2
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 0
+        }, 
+        {
+            "source": 1, 
+            "score": 1, 
+            "target": 1
+        }, 
+        {
+            "source": 0, 
+            "score": 1, 
+            "target": 0
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 1
+        }
+    ]
+}

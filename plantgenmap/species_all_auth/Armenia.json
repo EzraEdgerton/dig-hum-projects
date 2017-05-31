@@ -1,0 +1,323 @@
+{
+    "field": "species_all_auth", 
+    "nodes": [
+        {
+            "index": 8, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    45.01072318, 
+                    40.13475528
+                ]
+            }, 
+            "properties": {
+                "name": "Armenia", 
+                "nameofficial": "Republic of Armenia"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 8
+        }, 
+        {
+            "index": 11, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    47.46706372, 
+                    40.35321757
+                ]
+            }, 
+            "properties": {
+                "name": "Azerbaijan", 
+                "nameofficial": "Republic of Azerbaijan"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 11
+        }, 
+        {
+            "index": 61, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    44.17329916, 
+                    41.82754301
+                ]
+            }, 
+            "properties": {
+                "name": "Georgia", 
+                "nameofficial": "Georgia"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 61
+        }, 
+        {
+            "index": 76, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    43.19590056, 
+                    32.90170182
+                ]
+            }, 
+            "properties": {
+                "name": "Iraq", 
+                "nameofficial": "Republic of Iraq"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 76
+        }, 
+        {
+            "index": 90, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.66454309, 
+                    34.08249284
+                ]
+            }, 
+            "properties": {
+                "name": "Lebanon", 
+                "nameofficial": "Lebanese Republic"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 90
+        }, 
+        {
+            "index": 134, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    102.41837137, 
+                    57.96812298
+                ]
+            }, 
+            "properties": {
+                "name": "Russia", 
+                "nameofficial": "Russian Federation"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 134
+        }, 
+        {
+            "index": 168, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    36.28703317, 
+                    38.27069555
+                ]
+            }, 
+            "properties": {
+                "name": "Turkey", 
+                "nameofficial": "Republic of Turkey"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 168
+        }, 
+        {
+            "index": 186, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -2.72184767, 
+                    53.36540813
+                ]
+            }, 
+            "properties": {
+                "name": "United Kingdom", 
+                "nameofficial": "United Kingdom of Great Britain And Northern Ireland"
+            }, 
+            "score": 1, 
+            "type": "Feature", 
+            "id": 186
+        }
+    ], 
+    "links": [
+        {
+            "source": 6, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 6, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 6, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 7, 
+            "score": 1, 
+            "target": 7
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 5, 
+            "score": 1, 
+            "target": 5
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 6, 
+            "score": 1, 
+            "target": 6
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 3, 
+            "score": 1, 
+            "target": 3
+        }, 
+        {
+            "source": 0, 
+            "score": 1, 
+            "target": 0
+        }, 
+        {
+            "source": 1, 
+            "score": 1, 
+            "target": 1
+        }, 
+        {
+            "source": 6, 
+            "score": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 6, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 4, 
+            "score": 1, 
+            "target": 4
+        }, 
+        {
+            "source": 2, 
+            "score": 1, 
+            "target": 2
+        }, 
+        {
+            "source": 7, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 3, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 4, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 1
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 2, 
+            "score": 2, 
+            "target": 5
+        }, 
+        {
+            "source": 1, 
+            "score": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 0, 
+            "score": 2, 
+            "target": 6
+        }, 
+        {
+            "source": 6, 
+            "score": 2, 
+            "target": 4
+        }
+    ]
+}
